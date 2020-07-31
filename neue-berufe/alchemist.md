@@ -4,3 +4,5 @@ Alchemisten werden zwar von vielen Menschen akzeptiert und gebraucht \(v.a. in d
 
 Meist teilen Alchemisten niemand anderem mit, was sie sind, daher sie ansonsten häufig schnell zu Tode kommen und dies -verständlicherweise- nicht wollen. Alchemisten werden als das geboren, was sie sind, und finden es häufig erst spät heraus, dass sie Alchemisten sind.
 
+
+
