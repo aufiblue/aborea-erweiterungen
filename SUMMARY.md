@@ -7,3 +7,4 @@
 
 * [Alchemist](neue-berufe/alchemist.md)
 * [Buddler](neue-berufe/buddler.md)
+
