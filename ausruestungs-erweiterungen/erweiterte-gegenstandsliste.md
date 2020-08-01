@@ -95,8 +95,8 @@
 | Mahlzeit \(aus den Ebenen, sehr lecker\) | 0,2 | 4 TT | mittel | 1 Mahlzeit, sehr lecker |  |
 | Mahlzeit \(außergewöhnlich & zwergisch\) | 0,2 | 198 KL & 2 MU | äußerst selten | gibt Menschen bei einem Würfelwurf von mind. 6 mit einem W10 für 5 Tage einen Bonus von +1 auf alle Manöver, Zwergen gibt diese Mahlzeit so oder so für ganze 10 Tage einen Bonus von +1 auf alle Manöver |  |
 | Messer | 0,5 | 2 KL | häufig | einfaches Messer zum Essen, Werte: Ini -3, Schaden +0 |  |
-| Milch von der Kuh | 0,5 | 2 MU | häufig | 1 L einfache Kuh-Milch |  |
 | Milch von dem Schaf| 0,5 | 3 MU | häufig | 1 L einfache Schaf-Milch |  |
+| Milch von der Kuh | 0,5 | 2 MU | häufig | 1 L einfache Kuh-Milch |  |
 | Milch von der Ziege | 0,5 | 3 MU | häufig | 1 L einfache Ziegen-Milch |  |
 | Magierrobe | 2 | 24 GF | selten | gibt Zauberern Bonus von +10 auf MP |  |
 | Maiskolben | 0,5 | 2 TT | mittel - selten | 5 Maiskolben |  |
