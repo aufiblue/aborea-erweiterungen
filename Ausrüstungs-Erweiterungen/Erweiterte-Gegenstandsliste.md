@@ -1,4 +1,5 @@
-## Gegenstände
+### Gegenstände
+
 | Gegenstand | Kg | Preis | Häufigkeit | Funktion |
 | - | - | - | - | - |
 | Amboss | 60 | 100 GF | mittel - selten | zum bearbeiten von Metall |
@@ -160,7 +161,7 @@
 | Zitrone | 0,1 | 4 MU | selten - sehr selten | eine Zitrone |
 | Zipfelmütze | 0,5 | 4 TT | mittel - selten | einfache Zipfelmütze, wie sie Zwerge tragen |
 
-#### Waffen (Nahkampf)
+### Waffen (Nahkampf)
 | Waffe | Gruppe | Mind.Stärke | Schaden | Attribut | Kg | Ini | Preis | Häufigkeit | Besonderes |
 | - | - | - | - | - | - | - | - | - | - |
 | Fleischer-Messer | Kurze Klingen-/Wurf-/Stichwaffe | 3 | -1 | ST/GE | 1 | +0 | 12 TT | häufig - mittel | |
@@ -177,7 +178,7 @@
 | Spitzhacke | Wuchtwaffe | 4 | -1/+0 (bei Zweihand) | ST | 3,5 | -2/-1 (bei Zweihand) | 8 TT | mittel | |
 | Stock | Stangenwaffe | | -2 | ST/GE | 0,5 | +1/+2 (bei Zweihand) | 0 | häufig | |
 
-#### Waffen (Fernkampf)
+### Waffen (Fernkampf)
 | Waffe | Gruppe | Mind.Stärke | Schaden | Attribut | Kg | Ini | Preis | Häufigkeit | Besonderes |
 | - | - | - | - | - | - | - | - | - | - |
 | Armbrust (leicht) | Armbrust | | +0 | GE | 3,5 | +2 | 6 GF | mittel - selten | |
@@ -190,7 +191,7 @@
 
 *als Wurf- bzw. Auswurfwaffe konstruiert
 
-#### Rüstungen
+### Rüstungen
 | Rüstungsart | Mind. Stärke | Rüstung | Manöver | Kosten | Kg | Häufigkeit | Besonderes |
 | - | - | - | - | - | - | - | - |
 | beschlagene Lederrüstung* | 4 | 7 | +0 | 16 GF | 14 | mittel | teilweise mit Eisen beschlagen |
@@ -206,7 +207,7 @@
 
 *Auf diese Rüstungen erhalten Zauberer beim Zaubern keinen Malus
 
-#### Pferderüstungen
+### Pferderüstungen
 | Rüstungsart | Rüstung | Kosten | Kg | Häufigkeit |
 | - | - | - | - | - |
 | ledern (vorne) | +1 | 5 GF | 5 | mittel |
@@ -226,17 +227,17 @@
 | diamanten (links) | +4 | 100.000 GF | 15 | extrem selten |
 | diamanten (hinten) | +4 | 100.000 GF | 10 | extrem selten |
 
-#### Metall für Klingen
+### Metall für Klingen
 | Metall | Preis pro kg der Waffe | Wirkung | Dauer pro kg der Waffe |
 | - | - | - | - |
 | Skelettgift | 25.000 TT | bei Berührung pro Stunde 2 Giftschaden (Gift Rang 2), eher leicht zu heilen | 28 Tage |
 
-#### Metall für Pfeile
+### Metall für Pfeile
 | Metall | Preis pro Pfeil | Wirkung | Dauer pro Pfeil |
 | - | - | - | - |
 | Skelettgift | 200 TT | bei Berührung mit der Pfeilspitze pro Stunde 2 Giftschaden, Gift Rang 2, eher leicht zu heilen | 4 Stunden |
 
-#### magische Gegenstände 
+### magische Gegenstände 
 | Gegenstand | Auswirkungen | Kg | Wert | Häufigkeit |
 | - | - | - | - | - |
 | Das fiese und funkelnde Amulett | Es bewirkt, dass der Träger (wenn er’s umgehängt hat) „böse” wird und jeden den er in der Nähe sieht, umbringen möchte | 2 | Seeeeeeehr Wertvoll | gibt’s nur einmal |

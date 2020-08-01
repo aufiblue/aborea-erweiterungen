@@ -5,5 +5,5 @@
 ## Neue Berufe
 
 ## Ausrüstungs-Erweiterungen
-* [Infos zu Ausrüstungs-Erweiterungen](README.md)
+* [Infos zu Ausrüstungs-Erweiterungen](Ausrüstungs-Erweiterungen/README.md)
 * [Erweiterte Gegenstandsliste](Ausrüstungs-Erweiterungen/Erweiterte-Gegenstandsliste.md)
