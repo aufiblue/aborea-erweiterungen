@@ -95,9 +95,9 @@
 | Mahlzeit \(aus den Ebenen, sehr lecker\) | 0,2 | 4 TT | mittel | 1 Mahlzeit, sehr lecker |  |
 | Mahlzeit \(außergewöhnlich & zwergisch\) | 0,2 | 198 KL & 2 MU | äußerst selten | gibt Menschen bei einem Würfelwurf von mind. 6 mit einem W10 für 5 Tage einen Bonus von +1 auf alle Manöver, Zwergen gibt diese Mahlzeit so oder so für ganze 10 Tage einen Bonus von +1 auf alle Manöver |  |
 | Messer | 0,5 | 2 KL | häufig | einfaches Messer zum Essen, Werte: Ini -3, Schaden +0 |  |
-| Kuh-Milch | 0,5 | 2 MU | häufig | 1 L einfache Kuh-Milch |  |
-| Ziegen-Milch | 0,5 | 3 MU | häufig | 1 L einfache Ziegen-Milch |  |
-| Schaf-Milch | 0,5 | 3 MU | häufig | 1 L einfache Schaf-Milch |  |
+| Milch von der Kuh | 0,5 | 2 MU | häufig | 1 L einfache Kuh-Milch |  |
+| Milch von dem Schaf| 0,5 | 3 MU | häufig | 1 L einfache Schaf-Milch |  |
+| Milch von der Ziege | 0,5 | 3 MU | häufig | 1 L einfache Ziegen-Milch |  |
 | Magierrobe | 2 | 24 GF | selten | gibt Zauberern Bonus von +10 auf MP |  |
 | Maiskolben | 0,5 | 2 TT | mittel - selten | 5 Maiskolben |  |
 | Muschel \(Messing-\) | 0,3 | 2 TT | mittel | Messingmuschel |  |
@@ -251,4 +251,3 @@
 | :--- | :--- | :--- | :--- | :--- |
 | Das fiese und funkelnde Amulett | Es bewirkt, dass der Träger \(wenn er’s umgehängt hat\) „böse” wird und jeden den er in der Nähe sieht, umbringen möchte | 2 | Seeeeeeehr Wertvoll | gibt’s nur einmal |
 | Der grüne Hammer \(ihn umgeben grüne Schleier, die Person, welche ihn trägt,  solange sie ihn trägt, auch\) | Wer ihn trägt, erhält immer Stärke 10 und kann 5x so hoch springen und 3x so schnell laufen, wie normal, zudem macht der Hammer +5 Schaden, Esron selbst soll ihn führen | 30 | Seeeeeeeeeeeeeeeeeeeeeeeeeeehr Wertvoll | gibt’s nur einmal |
-
