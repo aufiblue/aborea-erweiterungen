@@ -6,4 +6,4 @@
 
 ## Ausrüstungs-Erweiterungen
 
-* [Erweiterte Gegenstandsliste](README.md)
+* [Erweiterte Gegenstandsliste](Ausrüstungs-Erweiterungen/Erweiterte-Gegenstandsliste.md)
