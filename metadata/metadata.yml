@@ -5,7 +5,7 @@ author: [Finn Immerheiser]
 date: "Version 0.0.1"
 titlepage: true
 titlepage-background: metadata/images/pic05.jpg
-titlepage-text-color: "ffffff"
+titlepage-text-color: "000000"
 titlepage-rule-color: "000000"
 titlepage-rule-height: 0
 links-as-notes: true
