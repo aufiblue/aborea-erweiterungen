@@ -1,4 +1,4 @@
-#### Gegenstände
+## Gegenstände
 | Gegenstand | Kg | Preis | Häufigkeit | Funktion |
 | - | - | - | - | - |
 | Amboss | 60 | 100 GF | mittel - selten | zum bearbeiten von Metall |
