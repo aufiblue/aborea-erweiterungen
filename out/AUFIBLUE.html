@@ -1,0 +1,1799 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de-de" xml:lang="de-de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>README</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<nav id="TOC" role="doc-toc">
+<ul>
+<li><a href="#startseite"><span class="toc-section-number">1</span> Startseite</a></li>
+</ul>
+</nav>
+<h1 data-number="1" id="startseite"><span class="header-section-number">1</span> Startseite</h1>
+<p>In diesem Handbuch findet ihr meine Erweiterungen zum Tischrollenspiel <a href="https://www.aborea.de/">Aborea</a>. Viel Spaß damit!</p>
+<h4 data-number="1.0.0.1" id="gegenstände"><span class="header-section-number">1.0.0.1</span> Gegenstände</h4>
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Gegenstand</th>
+<th>Kg</th>
+<th>Preis</th>
+<th>Häufigkeit</th>
+<th>Funktion</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Amboss</td>
+<td>60</td>
+<td>100 GF</td>
+<td>mittel - selten</td>
+<td>zum bearbeiten von Metall</td>
+</tr>
+<tr class="even">
+<td>Angel (mit Zubehör)</td>
+<td>1</td>
+<td>2 TT</td>
+<td>mittel</td>
+<td>zum Angeln</td>
+</tr>
+<tr class="odd">
+<td>Äpfel</td>
+<td>0,1</td>
+<td>1 MU</td>
+<td>häufig - mittel</td>
+<td>3 Äpfel zum Essen</td>
+</tr>
+<tr class="even">
+<td>Atlas Palea’s</td>
+<td>4</td>
+<td>24 GF</td>
+<td>selten</td>
+<td>Atlas der bekannten Welt</td>
+</tr>
+<tr class="odd">
+<td>Ball (schlecht)</td>
+<td>0,5</td>
+<td>2 MU</td>
+<td>häufig</td>
+<td>einfacher Ball</td>
+</tr>
+<tr class="even">
+<td>Ball (mittel)</td>
+<td>0,5</td>
+<td>2 KL</td>
+<td>häufig</td>
+<td>einfacher Ball</td>
+</tr>
+<tr class="odd">
+<td>Ball (gut)</td>
+<td>0,5</td>
+<td>2 TT</td>
+<td>mittel</td>
+<td>einfacher Ball</td>
+</tr>
+<tr class="even">
+<td>Bananenstaude</td>
+<td>2</td>
+<td>10 GF</td>
+<td>selten</td>
+<td>Staude von Bananen</td>
+</tr>
+<tr class="odd">
+<td>Beutel (klein)</td>
+<td>0,2</td>
+<td>10 MU</td>
+<td>häufig</td>
+<td>Fassungsvermögen 5 Kg</td>
+</tr>
+<tr class="even">
+<td>Beutel (mittel)</td>
+<td>0,4</td>
+<td>14 MU</td>
+<td>häufig</td>
+<td>Fassungsvermögen 8 kg</td>
+</tr>
+<tr class="odd">
+<td>Beutel (groß)</td>
+<td>0,5</td>
+<td>22 MU</td>
+<td>häufig - mittel</td>
+<td>Fassungsvermögen 15 Kg</td>
+</tr>
+<tr class="even">
+<td>Bibel</td>
+<td>2</td>
+<td>10 GF</td>
+<td>mittel - selten</td>
+<td>Bibel eines beliebigen Gottes, man erhält so leichter Göttliche Punkte</td>
+</tr>
+<tr class="odd">
+<td>Brandpfeile</td>
+<td>0,5</td>
+<td>2 TT</td>
+<td>mittel - selten</td>
+<td>5 Brandpfeile: können mit je 0,1 L Öl und mit 0,1 Kg Stoff einiges in Brand setzen (Feuerschaden pro Runde +1, bis Feuer gelöscht)</td>
+</tr>
+<tr class="even">
+<td>Brechstange</td>
+<td>2</td>
+<td>10 TT</td>
+<td>selten</td>
+<td>+2 auf Türen aufbrechen</td>
+</tr>
+<tr class="odd">
+<td>Brennnessel</td>
+<td>0</td>
+<td>5 MU</td>
+<td>selten</td>
+<td>gibt’s auf Palea nicht so häufig, bei Berührung mit lebendiger Pflanze 1 TP Schaden, heilt bei Einnahme 1 TP, gibt bei Einnahme von 3x in der Stunde einen Malus von -2 auf alle Manöver, -4 auf alle Manöver bei 4x in der Stunde, -6 auf alle Manöver bei 5x in der Stunde usw., aber erleichtert wird’s pro Stunde komplett ohne nur um +2 wieder auf alle Manöver, also, wenn man -6 hatte, hat man nach einer Stunde ohne wieder -4 usw.</td>
+</tr>
+<tr class="even">
+<td>Brief verschicken</td>
+<td></td>
+<td>bis 5 km 5 MU, bis 50 km 5 KL, bis 100 km 2 TT, bis 500 km 5 GF, alles drüber 10 GF</td>
+<td>mittel</td>
+<td>anderen Briefe schicken</td>
+</tr>
+<tr class="odd">
+<td>Buch</td>
+<td>2,5</td>
+<td>4 GF</td>
+<td>selten</td>
+<td>Buch mit 50 leeren Seiten</td>
+</tr>
+<tr class="even">
+<td>Dschunke</td>
+<td>-</td>
+<td>120 GF</td>
+<td>selten</td>
+<td>Bis zu 6 Personen</td>
+</tr>
+<tr class="odd">
+<td>Eier</td>
+<td>0,2</td>
+<td>8 MU</td>
+<td>häufig - selten</td>
+<td>4 Eier</td>
+</tr>
+<tr class="even">
+<td>Eimer</td>
+<td>0,5</td>
+<td>4 KL</td>
+<td>häufig</td>
+<td>Eimer aus Holz</td>
+</tr>
+<tr class="odd">
+<td>Farbstoff</td>
+<td>je 0,2</td>
+<td>je nach Farbe - schwarz 1 TT, dunkelblau 2 TT, hellblau 2 TT, dunkelrot 4 TT, hellrot 4 TT, rosa 4 TT, pink 4 TT, lila 4 TT, gelb 3 TT, weiß 2 TT, dunkelgrau 1 TT, hellgrau 1 TT, türkis 6 TT, beige 1 GF, dunkelgrün 4 TT, hellgrün 4 TT, orange 5 TT, dunkelbraun 4 TT, hellbraun 4 TT, golden 8 GF, silbern 6 GF, kupferfarben 4 GF</td>
+<td>je nach Farbe unterschiedlich</td>
+<td>nicht wasserfest, zum färben eines mittelgroßen Gegenstandes</td>
+</tr>
+<tr class="even">
+<td>Farbstoff</td>
+<td>je 0,2</td>
+<td>je nach Farbe: schwarz 3 TT, dunkelblau 6 TT, hellblau 6 TT, dunkelrot 12 TT, hellrot 12 TT, rosa 12 TT, pink 12 TT, lila 12 TT, gelb 9 TT, weiß 6 TT, dunkelgrau 3 TT, hellgrau 3 TT, türkis 18 TT, beige 3 GF, dunkelgrün 12 TT, hellgrün 12 TT, orange 15 TT, dunkelbraun 12 TT, hellbraun 12 TT, golden 24 GF, silbern 18 GF, kupferfarben 12 GF</td>
+<td>je nach Farbe unterschiedlich</td>
+<td>wasserfest, zum färben eines mittelgroßen Gegenstandes</td>
+</tr>
+<tr class="odd">
+<td>Fass</td>
+<td>4</td>
+<td>1 TT</td>
+<td>häufig - mittel</td>
+<td>Fassungsvermögen 50 kg</td>
+</tr>
+<tr class="even">
+<td>Federkiel</td>
+<td>0,1</td>
+<td>1 KL</td>
+<td>häufig - mittel</td>
+<td>ein Federkiel</td>
+</tr>
+<tr class="odd">
+<td>Fellstiefel</td>
+<td>1,5</td>
+<td>4 TT</td>
+<td>häufig - selten</td>
+<td>Stiefel aus Fell, halten warm</td>
+</tr>
+<tr class="even">
+<td>Feuerresistenztrank</td>
+<td>0,3</td>
+<td>250 GF</td>
+<td>extrem selten</td>
+<td>für eine Stunde lang resistent gegen Feuer jeglicher Art</td>
+</tr>
+<tr class="odd">
+<td>Fisch (gesalzen)</td>
+<td>0,5</td>
+<td>2 TT</td>
+<td>mittel - selten</td>
+<td>ein gesalzener Fisch</td>
+</tr>
+<tr class="even">
+<td>Flagge</td>
+<td>4</td>
+<td>10 GF</td>
+<td>mittel - selten</td>
+<td>einfache Flagge mit bestimmten Zeichen drauf</td>
+</tr>
+<tr class="odd">
+<td>Fleisch (gesalzen)</td>
+<td>0,5</td>
+<td>3 TT</td>
+<td>mittel - selten</td>
+<td>ein Stück gesalzenes Fleisch</td>
+</tr>
+<tr class="even">
+<td>Flöte (schlecht)</td>
+<td>0,5</td>
+<td>6 GF</td>
+<td>selten</td>
+<td>eine, schlecht gearbeitete, Flöte</td>
+</tr>
+<tr class="odd">
+<td>Flöte (gut)</td>
+<td>0,5</td>
+<td>12 GF</td>
+<td>selten</td>
+<td>eine ,gut gearbeitete, Flöte</td>
+</tr>
+<tr class="even">
+<td>Gift „Krötenstern”</td>
+<td>0,3</td>
+<td>20 GF</td>
+<td>sehr selten</td>
+<td>bei Berührung 2W6 Schaden, beim Einatmen für 1W10 Minuten bewusstlos, Gift Rang 3</td>
+</tr>
+<tr class="odd">
+<td>Giftpfeil</td>
+<td>0,1</td>
+<td>1 TT</td>
+<td>sehr selten</td>
+<td>in Gift getränkter Pfeil (verursacht pro Stunde -3 TP, 5 Stunden lang, Gift Rang 3</td>
+</tr>
+<tr class="even">
+<td>Globus Paleas</td>
+<td>5</td>
+<td>50 GF</td>
+<td>extrem selten</td>
+<td>Globus des Kontinents Palea</td>
+</tr>
+<tr class="odd">
+<td>Handwerker</td>
+<td>-</td>
+<td>pro Kilo des zu bearbeitenden 5 KL + Materialkosten</td>
+<td>mittel</td>
+<td>Handwerksarbeiten werden für einen verrichtet</td>
+</tr>
+<tr class="even">
+<td>Handwerkskasten</td>
+<td>5</td>
+<td>15 TT</td>
+<td>mittel</td>
+<td>+1 auf Manöver mit Handwerk</td>
+</tr>
+<tr class="odd">
+<td>Heuballen (klein)</td>
+<td>0,4</td>
+<td>2 MU</td>
+<td>eher häufig</td>
+<td>etwas Heu</td>
+</tr>
+<tr class="even">
+<td>Heuballen (mittel)</td>
+<td>1</td>
+<td>4 MU</td>
+<td>eher häufig</td>
+<td>Heu</td>
+</tr>
+<tr class="odd">
+<td>Heuballen (groß)</td>
+<td>2,5</td>
+<td>1 KL</td>
+<td>häufig - mittel</td>
+<td>viel Heu</td>
+</tr>
+<tr class="even">
+<td>Heuballen (riesig)</td>
+<td>8</td>
+<td>1 TT</td>
+<td>selten</td>
+<td>sehr viel Heu</td>
+</tr>
+<tr class="odd">
+<td>Kamm (aus Holz)</td>
+<td>0,5</td>
+<td>2 TT</td>
+<td>mittel</td>
+<td>ein Holzkamm</td>
+</tr>
+<tr class="even">
+<td>Kamm (aus Knochen)</td>
+<td>1,5</td>
+<td>4 TT</td>
+<td>mittel - selten</td>
+<td>ein Knochenkamm</td>
+</tr>
+<tr class="odd">
+<td>Kannabisöl</td>
+<td>0,5</td>
+<td>7 TT</td>
+<td>mittel - selten</td>
+<td>1 L Kannabisöl</td>
+</tr>
+<tr class="even">
+<td>Karte eines einzelnen Reiches</td>
+<td>0,5</td>
+<td>1 GF</td>
+<td>selten</td>
+<td>Karte eines einzelnen Reiches wie zum Beispiel von Trion oder von Xhara</td>
+</tr>
+<tr class="odd">
+<td>Karte Paleas</td>
+<td>1</td>
+<td>15 GF</td>
+<td>selten</td>
+<td>Landkarte des Kontinents Palea</td>
+</tr>
+<tr class="even">
+<td>Kartenspiel</td>
+<td>0,5</td>
+<td>5 KL</td>
+<td>häufig</td>
+<td>ein Kartenspiel</td>
+</tr>
+<tr class="odd">
+<td>Kaviar (eine Handvoll)</td>
+<td>0,2</td>
+<td>8 GF</td>
+<td>selten - extrem selten</td>
+<td>eine Handvoll Kaviar</td>
+</tr>
+<tr class="even">
+<td>Kelch</td>
+<td>1</td>
+<td>10 TT</td>
+<td>mittel</td>
+<td>ein einfacher Kelch</td>
+</tr>
+<tr class="odd">
+<td>Kelch (Silber)</td>
+<td>1</td>
+<td>100 TT</td>
+<td>selten</td>
+<td>ein Silberkelch</td>
+</tr>
+<tr class="even">
+<td>Kelch (Gold)</td>
+<td>1</td>
+<td>200 TT</td>
+<td>sehr selten</td>
+<td>Goldkelch</td>
+</tr>
+<tr class="odd">
+<td>Kelch (Gold + mit kleinen Edelsteinchen besetzt)</td>
+<td>1,5</td>
+<td>1000 TT</td>
+<td>extrem selten</td>
+<td>Goldkelch mit ein paar kleinen Edelsteinchen besetzt</td>
+</tr>
+<tr class="even">
+<td>Kette (Muscheln)</td>
+<td>0,2</td>
+<td>2 KL</td>
+<td>mittel - selten</td>
+<td>eine einfache Muschelkette</td>
+</tr>
+<tr class="odd">
+<td>Kette (Perlen)</td>
+<td>0,2</td>
+<td>2 GF</td>
+<td>selten</td>
+<td>eine einfache Perlenkette</td>
+</tr>
+<tr class="even">
+<td>Kissen</td>
+<td>0,4</td>
+<td>4 KL</td>
+<td>häufig - mittel</td>
+<td>ein einfaches Kissen</td>
+</tr>
+<tr class="odd">
+<td>Kissen (aus Seide)</td>
+<td>0,4</td>
+<td>2 TT</td>
+<td>selten</td>
+<td>ein kissen</td>
+</tr>
+<tr class="even">
+<td>Kissen (aus Seide, sehr Edel)</td>
+<td>0,4</td>
+<td>5 GF</td>
+<td>sehr selten</td>
+<td>sehr weiches und v.a. edles Kissen aus Seide</td>
+</tr>
+<tr class="odd">
+<td>Knopf (aus Holz, schlecht)</td>
+<td>-</td>
+<td>4 KL</td>
+<td>mittel - selten</td>
+<td>ein einfacher, schlecht gearbeiteter, Knopf aus Holz</td>
+</tr>
+<tr class="even">
+<td>Knopf (aus Holz, gut)</td>
+<td>-</td>
+<td>2 TT</td>
+<td>selten</td>
+<td>ein ,gut gearbeiteter, Knopf aus Holz</td>
+</tr>
+<tr class="odd">
+<td>Knopf (aus Messing, schlecht)</td>
+<td>-</td>
+<td>2 KL</td>
+<td>mittel - selten</td>
+<td>ein einfacher, schlecht gearbeiteter, Knopf aus Messing</td>
+</tr>
+<tr class="even">
+<td>Knopf (aus Messing, gut)</td>
+<td>-</td>
+<td>1 TT</td>
+<td>selten</td>
+<td>ein, gut gearbeiteter, Knopf aus Messing</td>
+</tr>
+<tr class="odd">
+<td>Kochtopf (klein)</td>
+<td>2</td>
+<td>5 KL</td>
+<td>häufig</td>
+<td>ein einfacher, kleiner, Kochtopf</td>
+</tr>
+<tr class="even">
+<td>Kochtopf (groß)</td>
+<td>4</td>
+<td>2 TT</td>
+<td>mittel</td>
+<td>ein einfacher, großer, Kochtopf</td>
+</tr>
+<tr class="odd">
+<td>Kokosnuss</td>
+<td>2,5</td>
+<td>3 GF</td>
+<td>selten</td>
+<td>eine Kokosnuss</td>
+</tr>
+<tr class="even">
+<td>Kompass</td>
+<td>1</td>
+<td>14 GF</td>
+<td>selten</td>
+<td>ein Kompass</td>
+</tr>
+<tr class="odd">
+<td>Korb</td>
+<td>1</td>
+<td>4 MU</td>
+<td>häufig - mittel</td>
+<td>Fassungsvermögen 15 Kg</td>
+</tr>
+<tr class="even">
+<td>Kostüm (Geist)</td>
+<td>1,5</td>
+<td>15 TT</td>
+<td>selten</td>
+<td>ein Geisterkostüm, gibt auf bestimmte List- oder Einflussnahme-Manöver einen Bonus, welchen der Spielleiter passend zur jeweiligen Situation bestimmt</td>
+</tr>
+<tr class="odd">
+<td>Kräutersuppe</td>
+<td>0,2</td>
+<td>3 MU</td>
+<td>häufig</td>
+<td>einfache Kräutersuppe, 1 Mahlzeit</td>
+</tr>
+<tr class="even">
+<td>Krug (Tonkrug)</td>
+<td>1</td>
+<td>6 TT</td>
+<td>häufig</td>
+<td>Fassungsvermögen 6 L</td>
+</tr>
+<tr class="odd">
+<td>Krug (Zinnkrug)</td>
+<td>1,5</td>
+<td>10 TT</td>
+<td>häufig - mittel</td>
+<td>Fassungsvermögen 6 L</td>
+</tr>
+<tr class="even">
+<td>Kuchen</td>
+<td>0,5</td>
+<td>1 TT</td>
+<td>mittel</td>
+<td>2 Mahlzeiten</td>
+</tr>
+<tr class="odd">
+<td>Kugel (aus Silber)</td>
+<td>2</td>
+<td>1 GF</td>
+<td>selten</td>
+<td>Silberkugel</td>
+</tr>
+<tr class="even">
+<td>„Lachende” Suppe</td>
+<td>0,2</td>
+<td>4 TT</td>
+<td>selten</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Laute (schlecht)</td>
+<td>2</td>
+<td>5 TT</td>
+<td>mittel</td>
+<td>eine Laute</td>
+</tr>
+<tr class="even">
+<td>Laute (mittel)</td>
+<td>2</td>
+<td>1 GF</td>
+<td>selten</td>
+<td>eine Laute</td>
+</tr>
+<tr class="odd">
+<td>Laute (gut)</td>
+<td>2</td>
+<td>2 GF</td>
+<td>selten</td>
+<td>eine Laute</td>
+</tr>
+<tr class="even">
+<td>Leine (für ein Tier)</td>
+<td>0,2 pro M</td>
+<td>pro M 2 KL</td>
+<td>häufig</td>
+<td>super zum anbinden von Tieren, Müll beim verwenden beim klettern etc.</td>
+</tr>
+<tr class="odd">
+<td>Leinöl</td>
+<td>0,5</td>
+<td>2 TT</td>
+<td>häufig - sehr selten</td>
+<td>1 L Leinöl</td>
+</tr>
+<tr class="even">
+<td>Leiter</td>
+<td>4</td>
+<td>28 TT</td>
+<td>mittel - selten</td>
+<td>eine Leiter zum raufklettern</td>
+</tr>
+<tr class="odd">
+<td>Liebestrank</td>
+<td>0,3</td>
+<td>500 GF</td>
+<td>extrem selten</td>
+<td>wer den Trank trinkt und wem gleichzeitig ein Bild oder ähnliches einer bestimmten Person gezeigt wird, verliebt sich in diese Person und tut alles für sie, die Wirkung dieses Trankes zu heilen ist unfassbar schwer (so gut wie unmöglich)</td>
+</tr>
+<tr class="even">
+<td>Löffel (aus Holz, schlecht)</td>
+<td>0,1</td>
+<td>2 MU</td>
+<td>häufig</td>
+<td>ein Holzlöffel</td>
+</tr>
+<tr class="odd">
+<td>Löffel (aus Holz, mittel)</td>
+<td>0,1</td>
+<td>5 KL</td>
+<td>mittel - selten</td>
+<td>ein Holzlöffel</td>
+</tr>
+<tr class="even">
+<td>Löffel (aus Holz, gut)</td>
+<td>0,1</td>
+<td>6 TT</td>
+<td>selten - sehr selten</td>
+<td>ein Holzlöffel</td>
+</tr>
+<tr class="odd">
+<td>Löffel (aus Metall, schlecht)</td>
+<td>0,2</td>
+<td>1 KL</td>
+<td>häufig - mittel</td>
+<td>ein metallener Löffel</td>
+</tr>
+<tr class="even">
+<td>Löffel (aus Metall, mittel)</td>
+<td>0,2</td>
+<td>2 TT</td>
+<td>mittel - sehr selten</td>
+<td>ein metallener Löffel</td>
+</tr>
+<tr class="odd">
+<td>Löffel (aus Metall, gut)</td>
+<td>0,2</td>
+<td>8 TT</td>
+<td>selten - sehr selten</td>
+<td>ein metallener Löffel</td>
+</tr>
+<tr class="even">
+<td>Löffel (aus Silber)</td>
+<td>0,2</td>
+<td>10 TT</td>
+<td>selten - sehr selten</td>
+<td>ein Silberlöffel</td>
+</tr>
+<tr class="odd">
+<td>Löffel (aus Gold)</td>
+<td>0,2</td>
+<td>6 GF</td>
+<td>sehr selten</td>
+<td>ein goldener Löffel</td>
+</tr>
+<tr class="even">
+<td>Mahlzeit (aus den Ebenen, lecker)</td>
+<td>0,2</td>
+<td>2 TT</td>
+<td>mittel</td>
+<td>1 Mahlzeit, lecker</td>
+</tr>
+<tr class="odd">
+<td>Mahlzeit (aus den Ebenen, sehr lecker)</td>
+<td>0,2</td>
+<td>4 TT</td>
+<td>mittel</td>
+<td>1 Mahlzeit, sehr lecker</td>
+</tr>
+<tr class="even">
+<td>Mahlzeit (außergewöhnlich &amp; zwergisch)</td>
+<td>0,2</td>
+<td>198 KL &amp; 2 MU</td>
+<td>äußerst selten</td>
+<td>gibt Menschen bei einem Würfelwurf von mind. 6 mit einem W10 für 5 Tage einen Bonus von +1 auf alle Manöver, Zwergen gibt diese Mahlzeit so oder so für ganze 10 Tage einen Bonus von +1 auf alle Manöver</td>
+</tr>
+<tr class="odd">
+<td>Messer</td>
+<td>0,5</td>
+<td>2 KL</td>
+<td>häufig</td>
+<td>einfaches Messer zum Essen, Werte: Ini -3, Schaden +0</td>
+</tr>
+<tr class="even">
+<td>Kuh-Milch</td>
+<td>0,5</td>
+<td>2 MU</td>
+<td>häufig</td>
+<td>1 L einfache Kuh-Milch</td>
+</tr>
+<tr class="odd">
+<td>Ziegen-Milch</td>
+<td>0,5</td>
+<td>3 MU</td>
+<td>häufig</td>
+<td>1 L einfache Ziegen-Milch</td>
+</tr>
+<tr class="even">
+<td>Schaf-Milch</td>
+<td>0,5</td>
+<td>3 MU</td>
+<td>häufig</td>
+<td>1 L einfache Schaf-Milch</td>
+</tr>
+<tr class="odd">
+<td>Magierrobe</td>
+<td>2</td>
+<td>24 GF</td>
+<td>selten</td>
+<td>gibt Zauberern Bonus von +10 auf MP</td>
+</tr>
+<tr class="even">
+<td>Maiskolben</td>
+<td>0,5</td>
+<td>2 TT</td>
+<td>mittel - selten</td>
+<td>5 Maiskolben</td>
+</tr>
+<tr class="odd">
+<td>Muschel (Messing-)</td>
+<td>0,3</td>
+<td>2 TT</td>
+<td>mittel</td>
+<td>Messingmuschel</td>
+</tr>
+<tr class="even">
+<td>Nägel</td>
+<td>0,5</td>
+<td>10 KL</td>
+<td>mittel</td>
+<td>10 gute Nägel</td>
+</tr>
+<tr class="odd">
+<td>Nussöl</td>
+<td>0,5</td>
+<td>5 TT</td>
+<td>häufig - selten</td>
+<td>1 L Nussöl</td>
+</tr>
+<tr class="even">
+<td>Packsattel</td>
+<td>10</td>
+<td>20 TT</td>
+<td>mittel</td>
+<td>für ein Tier, kann hiermit die angegebenen Kg an Gegenständen tragen</td>
+</tr>
+<tr class="odd">
+<td>Perlenkette (aus Holz)</td>
+<td>0,2</td>
+<td>6 KL</td>
+<td>häufig - mittel</td>
+<td>einfache Perlenkette aus Holz</td>
+</tr>
+<tr class="even">
+<td>Pfeffer</td>
+<td>0,5</td>
+<td>4 TT</td>
+<td>mittel - selten</td>
+<td>500 g Pfeffer</td>
+</tr>
+<tr class="odd">
+<td>Pilzsuppe</td>
+<td>0,2</td>
+<td>2 MU</td>
+<td>häufig</td>
+<td>einfache Pilzsuppe, 1 Mahlzeit</td>
+</tr>
+<tr class="even">
+<td>Piratenflagge</td>
+<td>4</td>
+<td>15 GF</td>
+<td>selten - sehr selten</td>
+<td>eine Piratenflagge mit bestimmten Zeichen drauf</td>
+</tr>
+<tr class="odd">
+<td>Pokal (aus Messing)</td>
+<td>3</td>
+<td>15 TT</td>
+<td>mittel</td>
+<td>ein Pokal aus Messing</td>
+</tr>
+<tr class="even">
+<td>Puppe (klein)</td>
+<td>0,5</td>
+<td>4 MU</td>
+<td>häufig</td>
+<td>kleine, weiche, Strohpuppe</td>
+</tr>
+<tr class="odd">
+<td>Rindlederbeutel (klein)</td>
+<td>0,4</td>
+<td>2 GF</td>
+<td>selten</td>
+<td>Fassungsvermögen 5 kg</td>
+</tr>
+<tr class="even">
+<td>Rindlederbeutel (mittel)</td>
+<td>0,8</td>
+<td>4 GF</td>
+<td>selten</td>
+<td>Fassungsvermögen 8 kg</td>
+</tr>
+<tr class="odd">
+<td>Rindlederbeutel (groß)</td>
+<td>1</td>
+<td>8 GF</td>
+<td>sehr selten</td>
+<td>Fassungsvermögen 15 kg</td>
+</tr>
+<tr class="even">
+<td>Ring (aus Eisen, schlecht)</td>
+<td>0,5</td>
+<td>1 MU</td>
+<td>häufig - mittel</td>
+<td>ein Ring</td>
+</tr>
+<tr class="odd">
+<td>Ring (aus Eisen, gut)</td>
+<td>0,5</td>
+<td>5 MU</td>
+<td>häufig - selten</td>
+<td>ein Ring</td>
+</tr>
+<tr class="even">
+<td>Ring (aus Kupfer, schlecht)</td>
+<td>0,5</td>
+<td>2 MU</td>
+<td>mittel</td>
+<td>ein Ring</td>
+</tr>
+<tr class="odd">
+<td>Ring (aus Kupfer, gut)</td>
+<td>0,5</td>
+<td>2 KL</td>
+<td>mittel - selten</td>
+<td>ein Ring</td>
+</tr>
+<tr class="even">
+<td>Ring (aus Silber, schlecht)</td>
+<td>0,5</td>
+<td>1 TT</td>
+<td>selten</td>
+<td>ein Ring</td>
+</tr>
+<tr class="odd">
+<td>Ring (aus Silber, gut)</td>
+<td>0,5</td>
+<td>2 TT</td>
+<td>selten - sehr selten</td>
+<td>ein Ring</td>
+</tr>
+<tr class="even">
+<td>Ring (aus Gold, schlecht)</td>
+<td>0,5</td>
+<td>5 TT</td>
+<td>sehr selten</td>
+<td>ein Ring</td>
+</tr>
+<tr class="odd">
+<td>Ring (aus Gold, gut)</td>
+<td>0,5</td>
+<td>5 GF</td>
+<td>sehr selten</td>
+<td>ein Ring</td>
+</tr>
+<tr class="even">
+<td>Robe</td>
+<td>2</td>
+<td>4 GF</td>
+<td>mittel</td>
+<td>einfache Robe</td>
+</tr>
+<tr class="odd">
+<td>Sack</td>
+<td>1</td>
+<td>1 KL &amp; 5 MU</td>
+<td>häufig</td>
+<td>Fassungsvermögen 25 kg</td>
+</tr>
+<tr class="even">
+<td>Salz</td>
+<td>0,5</td>
+<td>2 GF &amp; 5 TT</td>
+<td>mittel - selten</td>
+<td>500 g Salz</td>
+</tr>
+<tr class="odd">
+<td>Schatulle (versilbert)</td>
+<td>0,5</td>
+<td>6 TT</td>
+<td>selten</td>
+<td>Platz für kleine Gegenstände mit dem Gewicht von insg. 5 kg</td>
+</tr>
+<tr class="even">
+<td>Schatzkarte</td>
+<td>0,2</td>
+<td>ist meist nicht zu kaufen</td>
+<td>selten - extrem selten (kommt immer drauf an)</td>
+<td>findet man meist in Piratenschiffen oder an ähnlichen Orten, sehr selten aber auch auf dem Schwarzmarkt etc.</td>
+</tr>
+<tr class="odd">
+<td>Schaumpfeife</td>
+<td>0,4</td>
+<td>6 TT</td>
+<td>mittel - selten</td>
+<td>eine Schaumpfeife, zum Rauchen</td>
+</tr>
+<tr class="even">
+<td>Schlafsack</td>
+<td>1,5</td>
+<td>4 TT</td>
+<td>mittel</td>
+<td>wärmt nachts</td>
+</tr>
+<tr class="odd">
+<td>Signalhorn</td>
+<td>0,4</td>
+<td>6 TT</td>
+<td>selten</td>
+<td>ein Signalhorn</td>
+</tr>
+<tr class="even">
+<td>Spange (aus Eisen)</td>
+<td>0,2</td>
+<td>8 MU</td>
+<td>eher häufig</td>
+<td>eine Spange, zum in die Haare stecken</td>
+</tr>
+<tr class="odd">
+<td>Spange (aus Knochen)</td>
+<td>0,2</td>
+<td>1 KL</td>
+<td>mittel</td>
+<td>eine Spange, zum in die Haare stecken</td>
+</tr>
+<tr class="even">
+<td>Starkbier (zwergisch)</td>
+<td>0,5</td>
+<td>5 MU</td>
+<td>mittel</td>
+<td>1 L zwergisches Starkbier, es ist so stark, dass es, wenn Menschen etc., m es trinken, Ihnen für 1 Stunde einen Malus von -1 auf alle Manöver gibt, bei Zwergen bewirkt es das genaue Gegenteil: sie erhalten für eine Stunde einen Bonus von +1 auf alle Manöver und sie fühlen sich so richtig wohl</td>
+</tr>
+<tr class="odd">
+<td>Statuette (aus Holz, schlecht)</td>
+<td>3</td>
+<td>2 MU</td>
+<td>häufig - selten</td>
+<td>eine Statuette</td>
+</tr>
+<tr class="even">
+<td>Statuette (aus Holz, gut)</td>
+<td>3</td>
+<td>4 TT</td>
+<td>häufig - selten</td>
+<td>eine Statuette</td>
+</tr>
+<tr class="odd">
+<td>Statuette (aus Marmor)</td>
+<td>5</td>
+<td>10 TT</td>
+<td>mittel</td>
+<td>eine Statuette</td>
+</tr>
+<tr class="even">
+<td>Streitwagen</td>
+<td>-</td>
+<td>94 GF</td>
+<td>sehr selten</td>
+<td>ein Streitwagen, km/h so schnell wie ein Pferd</td>
+</tr>
+<tr class="odd">
+<td>Strickleiter</td>
+<td>1,5</td>
+<td>10 TT</td>
+<td>selten</td>
+<td>einfache Strickleiter</td>
+</tr>
+<tr class="even">
+<td>Strohballen (klein)</td>
+<td>0,4</td>
+<td>3 MU</td>
+<td>mittel</td>
+<td>ein Strohballen</td>
+</tr>
+<tr class="odd">
+<td>Strohballen (mittel)</td>
+<td>1</td>
+<td>7 MU</td>
+<td>mittel</td>
+<td>ein Strohballen</td>
+</tr>
+<tr class="even">
+<td>Strohballen (größer)</td>
+<td>2,5</td>
+<td>14 MU</td>
+<td>mittel - selten</td>
+<td>ein Strohballen</td>
+</tr>
+<tr class="odd">
+<td>Strohballen (groß)</td>
+<td>5</td>
+<td>26 MU</td>
+<td>mittel - selten</td>
+<td>ein Strohballen</td>
+</tr>
+<tr class="even">
+<td>Strohballen (sehr groß)</td>
+<td>8</td>
+<td>40 MU</td>
+<td>mittel - sehr selten</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Tabakdose</td>
+<td>0,5</td>
+<td>3 KL</td>
+<td>mittel - selten</td>
+<td>einfache Tabakdose</td>
+</tr>
+<tr class="even">
+<td>Teller (aus Holz)</td>
+<td>0,3</td>
+<td>2 KL</td>
+<td>häufig - mittel</td>
+<td>einfacher Holzteller</td>
+</tr>
+<tr class="odd">
+<td>Teller (aus Marmor)</td>
+<td>0,5</td>
+<td>4 KL</td>
+<td>mittel</td>
+<td>einfacher Marmorteller</td>
+</tr>
+<tr class="even">
+<td>Teppich</td>
+<td>2</td>
+<td>8 TT</td>
+<td>eher selten</td>
+<td>ein Teppich in einer bestimmten Farbe</td>
+</tr>
+<tr class="odd">
+<td>Torte</td>
+<td>0,8</td>
+<td>1 TT &amp; 4 KL</td>
+<td>mittel - selten</td>
+<td>3 Mahlzeiten</td>
+</tr>
+<tr class="even">
+<td>Trinkhorn</td>
+<td>0,5</td>
+<td>4 KL</td>
+<td>häufig - selten</td>
+<td>schlichtes, einfaches, Trinkhorn</td>
+</tr>
+<tr class="odd">
+<td>Trommel (schlecht)</td>
+<td>4</td>
+<td>2 TT</td>
+<td>mittel - selten</td>
+<td>eine Trommel</td>
+</tr>
+<tr class="even">
+<td>Trommel (mittel)</td>
+<td>4</td>
+<td>1 GF</td>
+<td>mittel - sehr selten</td>
+<td>eine Trommel</td>
+</tr>
+<tr class="odd">
+<td>Trommel (gut)</td>
+<td>4</td>
+<td>3 GF</td>
+<td>selten - sehr selten</td>
+<td>eine Trommel</td>
+</tr>
+<tr class="even">
+<td>Truhe</td>
+<td>5</td>
+<td>24 TT</td>
+<td>mittel - selten</td>
+<td>Truhe (MS 7) mit Schlüssel</td>
+</tr>
+<tr class="odd">
+<td>Trüffel</td>
+<td>0,05</td>
+<td>10 GF</td>
+<td>selten - extrem selten</td>
+<td>Essen… aber teuer</td>
+</tr>
+<tr class="even">
+<td>Wein (aus den Ebenen)</td>
+<td>1</td>
+<td>5 TT</td>
+<td>mittel - selten</td>
+<td>Flasche gut schmeckender Wein aus den Ebenen</td>
+</tr>
+<tr class="odd">
+<td>„Weinende Suppe”</td>
+<td>0,2</td>
+<td>4 TT</td>
+<td>selten</td>
+<td>1 Anwendung, erinnert sie Person die sie trinkt an schlimme Erfahrungen die sie gemacht hat (vielleicht hat sie jmd. verloren oder ihr oder einer anderen sehr gemochten oder geliebten Person ist etwas schreckliches passiert?), und zwar so sehr, dass sie anfangen muss, zu weinen</td>
+</tr>
+<tr class="even">
+<td>Würfel (aus Holz)</td>
+<td>0,1</td>
+<td>7 MU</td>
+<td>häufig - selten</td>
+<td>ein Holzwürfel (ist nicht sehr genau)</td>
+</tr>
+<tr class="odd">
+<td>Würfel (aus Holz, gezinkt)</td>
+<td>0,1</td>
+<td>4 TT</td>
+<td>eher selten - selten</td>
+<td>gibt bei bestimmten Würfelmanövern und bei Würfelspielen einen Bonus von +1</td>
+</tr>
+<tr class="even">
+<td>Würfel (aus Knochen)</td>
+<td>0,4</td>
+<td>2 TT</td>
+<td>häufig - äußerst selten</td>
+<td>ein Knochenwürfel</td>
+</tr>
+<tr class="odd">
+<td>Zauberresistenztrank</td>
+<td>0,3</td>
+<td>200 GF</td>
+<td>extrem selten</td>
+<td>für eine Stunde lang komplett resistent gegen Zauber jeglicher Art</td>
+</tr>
+<tr class="even">
+<td>Zielscheibe</td>
+<td>6</td>
+<td>8 GF</td>
+<td>mittel - sehr selten</td>
+<td>einfache Zielscheibe zum hinstellen oder aufhängen und drauf schießen</td>
+</tr>
+<tr class="odd">
+<td>Zitrone</td>
+<td>0,1</td>
+<td>4 MU</td>
+<td>selten - sehr selten</td>
+<td>eine Zitrone</td>
+</tr>
+<tr class="even">
+<td>Zipfelmütze</td>
+<td>0,5</td>
+<td>4 TT</td>
+<td>mittel - selten</td>
+<td>einfache Zipfelmütze, wie sie Zwerge tragen</td>
+</tr>
+</tbody>
+</table>
+<h4 data-number="1.0.0.2" id="waffen-nahkampf"><span class="header-section-number">1.0.0.2</span> Waffen (Nahkampf)</h4>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Waffe</th>
+<th>Gruppe</th>
+<th>Mind.Stärke</th>
+<th>Schaden</th>
+<th>Attribut</th>
+<th>Kg</th>
+<th>Ini</th>
+<th>Preis</th>
+<th>Häufigkeit</th>
+<th>Besonderes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Fleischer-Messer</td>
+<td>Kurze Klingen-/Wurf-/Stichwaffe</td>
+<td>3</td>
+<td>-1</td>
+<td>ST/GE</td>
+<td>1</td>
+<td>+0</td>
+<td>12 TT</td>
+<td>häufig - mittel</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>hölzernes Bastardschwert</td>
+<td>Lange Klingen-/Holzwaffe</td>
+<td></td>
+<td>-1</td>
+<td>ST/GE</td>
+<td>1</td>
+<td>+1</td>
+<td>4 TT</td>
+<td>häufig - mittel</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>hölzernes Kurzschwert</td>
+<td>Kurze Klingen-/Holzwaffe</td>
+<td></td>
+<td>-1</td>
+<td>ST/GE</td>
+<td>0,8</td>
+<td>+1</td>
+<td>2 TT</td>
+<td>häufig - mittel</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>hölzernes Langschwert</td>
+<td>Lange Klingen-/Holzwaffe</td>
+<td></td>
+<td>-1</td>
+<td>ST/GE</td>
+<td>1,2</td>
+<td>+1</td>
+<td>4 TT</td>
+<td>häufig - mittel</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Keule mit Spikes</td>
+<td>Wuchtwaffe</td>
+<td>5</td>
+<td>+1</td>
+<td>ST</td>
+<td>3,5</td>
+<td>-1</td>
+<td>1 TT</td>
+<td>mittel</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Langschwert (diamanten)</td>
+<td>Lange Klingenwaffe</td>
+<td>5</td>
+<td>+6</td>
+<td>ST/GE</td>
+<td>4</td>
+<td>+2</td>
+<td>50.000 GF</td>
+<td>extrem selten</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Langspieß</td>
+<td>Stangenwaffe</td>
+<td>7</td>
+<td>+1</td>
+<td>GE</td>
+<td>8</td>
+<td>-2</td>
+<td>14 TT</td>
+<td>eher selten</td>
+<td>5 m lang, KB -2</td>
+</tr>
+<tr class="even">
+<td>Peitsche</td>
+<td>Wuchtwaffe</td>
+<td></td>
+<td>-1</td>
+<td>ST/GE</td>
+<td>1</td>
+<td>-1</td>
+<td>3 TT</td>
+<td>mittel</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Schaufel</td>
+<td>Wuchtwaffe</td>
+<td></td>
+<td>-2/-1 (bei Zweihand)</td>
+<td>ST/GE</td>
+<td>2</td>
+<td>+0</td>
+<td>10 TT</td>
+<td>mittel</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Schmiedehammer</td>
+<td>Wuchtwaffe</td>
+<td>7</td>
+<td>+1</td>
+<td>ST</td>
+<td>7</td>
+<td>-2</td>
+<td>4 GF</td>
+<td>mittel - selten</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Silberdolch</td>
+<td>Kurze Klingen-/Wurf-/Stichwaffe</td>
+<td></td>
+<td>-2</td>
+<td>ST/GE</td>
+<td>0,5</td>
+<td>+2</td>
+<td>12 TT</td>
+<td>selten</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Spitzhacke</td>
+<td>Wuchtwaffe</td>
+<td>4</td>
+<td>-1/+0 (bei Zweihand)</td>
+<td>ST</td>
+<td>3,5</td>
+<td>-2/-1 (bei Zweihand)</td>
+<td>8 TT</td>
+<td>mittel</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Stock</td>
+<td>Stangenwaffe</td>
+<td></td>
+<td>-2</td>
+<td>ST/GE</td>
+<td>0,5</td>
+<td>+1/+2 (bei Zweihand)</td>
+<td>0</td>
+<td>häufig</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h4 data-number="1.0.0.3" id="waffen-fernkampf"><span class="header-section-number">1.0.0.3</span> Waffen (Fernkampf)</h4>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Waffe</th>
+<th>Gruppe</th>
+<th>Mind.Stärke</th>
+<th>Schaden</th>
+<th>Attribut</th>
+<th>Kg</th>
+<th>Ini</th>
+<th>Preis</th>
+<th>Häufigkeit</th>
+<th>Besonderes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Armbrust (leicht)</td>
+<td>Armbrust</td>
+<td></td>
+<td>+0</td>
+<td>GE</td>
+<td>3,5</td>
+<td>+2</td>
+<td>6 GF</td>
+<td>mittel - selten</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Armbrust fürs Jagen</td>
+<td>Armbrust</td>
+<td></td>
+<td>-1</td>
+<td>GE</td>
+<td>4,5</td>
+<td>+3</td>
+<td>7 GF</td>
+<td>selten</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Armbrust zum Kämpfen</td>
+<td>Armbrust</td>
+<td>6</td>
+<td>+2</td>
+<td>GE</td>
+<td>10</td>
+<td>+0</td>
+<td>10 GF</td>
+<td>selten</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Dart-Pfeile*</td>
+<td>Wurfwaffe/Stichwaffe</td>
+<td></td>
+<td>+0 (werfen), +1 (so)</td>
+<td>ST /GE</td>
+<td>0,6</td>
+<td>+4 (werfen), +1 (so)</td>
+<td>5 TT</td>
+<td>selten</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Harpune*</td>
+<td>Wuchtwaffe</td>
+<td>4</td>
+<td>-1</td>
+<td>GE</td>
+<td>3,5</td>
+<td>+1</td>
+<td>16 TT</td>
+<td>mittel - selten</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Wurfmesser*</td>
+<td>Kurze Klingen-/Wurf-/Stichwaffe</td>
+<td></td>
+<td>-2</td>
+<td>ST/GE</td>
+<td>0,5</td>
+<td>+2</td>
+<td>7 TT</td>
+<td>häufig - mittel</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Wurfspeer (römisch)*</td>
+<td>Stangen-/Wurfwaffe</td>
+<td>4</td>
+<td>+0 (so), +3 (werfen)</td>
+<td>ST/GE</td>
+<td>4</td>
+<td>-1</td>
+<td>2 TT</td>
+<td>mittel</td>
+<td>1 Wurf (danach kaputt), macht bei Treffer Schilde unbrauchbar</td>
+</tr>
+</tbody>
+</table>
+<p>*als Wurf- bzw. Auswurfwaffe konstruiert</p>
+<h4 data-number="1.0.0.4" id="rüstungen"><span class="header-section-number">1.0.0.4</span> Rüstungen</h4>
+<table>
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Rüstungsart</th>
+<th>Mind. Stärke</th>
+<th>Rüstung</th>
+<th>Manöver</th>
+<th>Kosten</th>
+<th>Kg</th>
+<th>Häufigkeit</th>
+<th>Besonderes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>beschlagene Lederrüstung*</td>
+<td>4</td>
+<td>7</td>
+<td>+0</td>
+<td>16 GF</td>
+<td>14</td>
+<td>mittel</td>
+<td>teilweise mit Eisen beschlagen</td>
+</tr>
+<tr class="even">
+<td>„Eis-erne” Ritterrüstung</td>
+<td>7</td>
+<td>11</td>
+<td>-5</td>
+<td>100 GF</td>
+<td>50</td>
+<td>extrem selten (in Norvlie im Tumtrah-Reich mittlere Häufigkeit</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Fellrüstung*</td>
+<td>3</td>
+<td>5 (immer ein Wurf, bei mind. 6 hat’s bei einem Angriff des Gegners 6 Rüstung)</td>
+<td>+0</td>
+<td>5 GF</td>
+<td>7</td>
+<td>mittel</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Magierrüstung (schlecht)*</td>
+<td>3</td>
+<td>6</td>
+<td>+0</td>
+<td>14 GF</td>
+<td>8</td>
+<td>selten</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Magierrüstung (mittel)*</td>
+<td>3</td>
+<td>7</td>
+<td>-1</td>
+<td>64 GF</td>
+<td>10</td>
+<td>sehe selten</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Magierrüstung (gut)*</td>
+<td>3</td>
+<td>8</td>
+<td>-2</td>
+<td>114 GF</td>
+<td>12</td>
+<td>extrem selten</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Reiterschild</td>
+<td>3</td>
+<td>+1 (bei MS 9 erleichtert um GE-Bonus erfolgreich, dann +2 Rüstung, das gleiche auf Pferd gegen MS 6 vor einem Kampf für den Rest des Kampfs</td>
+<td>+0</td>
+<td>15 GF</td>
+<td>4</td>
+<td>selten</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Ritterrüstung (diamanten))</td>
+<td>7</td>
+<td>14</td>
+<td>-4</td>
+<td>80.000 GF</td>
+<td>40</td>
+<td>extrem selten</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Rundschild</td>
+<td>4</td>
+<td>+2</td>
+<td>-1</td>
+<td>14 TT</td>
+<td>9</td>
+<td>eher häufig</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Wikingerhelm*</td>
+<td>4</td>
+<td>+1</td>
+<td>+0</td>
+<td>18 GF</td>
+<td>2,5</td>
+<td>selten - sehr selten</td>
+<td>kooperiert mit anderen Rüstungen, einschüchternd und Autorität ausstrahlend: +1 auf Einflussnahme</td>
+</tr>
+</tbody>
+</table>
+<p>*Auf diese Rüstungen erhalten Zauberer beim Zaubern keinen Malus</p>
+<h4 data-number="1.0.0.5" id="pferderüstungen"><span class="header-section-number">1.0.0.5</span> Pferderüstungen</h4>
+<table>
+<thead>
+<tr class="header">
+<th>Rüstungsart</th>
+<th>Rüstung</th>
+<th>Kosten</th>
+<th>Kg</th>
+<th>Häufigkeit</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>ledern (vorne)</td>
+<td>+1</td>
+<td>5 GF</td>
+<td>5</td>
+<td>mittel</td>
+</tr>
+<tr class="even">
+<td>ledern (rechts)</td>
+<td>+1</td>
+<td>1 GF + 9 TT</td>
+<td>2</td>
+<td>mittel</td>
+</tr>
+<tr class="odd">
+<td>ledern (links)</td>
+<td>+1</td>
+<td>1 GF + 9 TT</td>
+<td>2</td>
+<td>mittel</td>
+</tr>
+<tr class="even">
+<td>ledern (hinten)</td>
+<td>+1</td>
+<td>1 GF + 9 TT</td>
+<td>2</td>
+<td>mittel</td>
+</tr>
+<tr class="odd">
+<td>eisern (vorne)</td>
+<td>+4</td>
+<td>15 GF</td>
+<td>30</td>
+<td>selten</td>
+</tr>
+<tr class="even">
+<td>eisern (rechts)</td>
+<td>+2</td>
+<td>5 GF</td>
+<td>10</td>
+<td>selten</td>
+</tr>
+<tr class="odd">
+<td>eisern (links)</td>
+<td>+2</td>
+<td>5 GF</td>
+<td>10</td>
+<td>selten</td>
+</tr>
+<tr class="even">
+<td>eisern (hinten)</td>
+<td>+2</td>
+<td>5 GF</td>
+<td>5</td>
+<td>selten</td>
+</tr>
+<tr class="odd">
+<td>golden (vorne)</td>
+<td>+3</td>
+<td>30 GF</td>
+<td>30</td>
+<td>selten - sehr selten</td>
+</tr>
+<tr class="even">
+<td>golden (rechts)</td>
+<td>+2</td>
+<td>10 GF</td>
+<td>10</td>
+<td>selten - sehr selten</td>
+</tr>
+<tr class="odd">
+<td>golden (links)</td>
+<td>+2</td>
+<td>10 GF</td>
+<td>10</td>
+<td>selten - sehr selten</td>
+</tr>
+<tr class="even">
+<td>golden (hinten)</td>
+<td>+1</td>
+<td>10 GF</td>
+<td>5</td>
+<td>selten - sehr selten</td>
+</tr>
+<tr class="odd">
+<td>diamanten (vorne)</td>
+<td>+5</td>
+<td>150.000 GF</td>
+<td>30</td>
+<td>extrem selten</td>
+</tr>
+<tr class="even">
+<td>diamanten (rechts)</td>
+<td>+4</td>
+<td>100.000 GF</td>
+<td>15</td>
+<td>extrem selten</td>
+</tr>
+<tr class="odd">
+<td>diamanten (links)</td>
+<td>+4</td>
+<td>100.000 GF</td>
+<td>15</td>
+<td>extrem selten</td>
+</tr>
+<tr class="even">
+<td>diamanten (hinten)</td>
+<td>+4</td>
+<td>100.000 GF</td>
+<td>10</td>
+<td>extrem selten</td>
+</tr>
+</tbody>
+</table>
+<h4 data-number="1.0.0.6" id="metall-für-klingen"><span class="header-section-number">1.0.0.6</span> Metall für Klingen</h4>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Metall</th>
+<th>Preis pro kg der Waffe</th>
+<th>Wirkung</th>
+<th>Dauer pro kg der Waffe</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Skelettgift</td>
+<td>25.000 TT</td>
+<td>bei Berührung pro Stunde 2 Giftschaden (Gift Rang 2), eher leicht zu heilen</td>
+<td>28 Tage</td>
+</tr>
+</tbody>
+</table>
+<h4 data-number="1.0.0.7" id="metall-für-pfeile"><span class="header-section-number">1.0.0.7</span> Metall für Pfeile</h4>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Metall</th>
+<th>Preis pro Pfeil</th>
+<th>Wirkung</th>
+<th>Dauer pro Pfeil</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Skelettgift</td>
+<td>200 TT</td>
+<td>bei Berührung mit der Pfeilspitze pro Stunde 2 Giftschaden, Gift Rang 2, eher leicht zu heilen</td>
+<td>4 Stunden</td>
+</tr>
+</tbody>
+</table>
+<h4 data-number="1.0.0.8" id="magische-gegenstände"><span class="header-section-number">1.0.0.8</span> magische Gegenstände</h4>
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Gegenstand</th>
+<th>Auswirkungen</th>
+<th>Kg</th>
+<th>Wert</th>
+<th>Häufigkeit</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Das fiese und funkelnde Amulett</td>
+<td>Es bewirkt, dass der Träger (wenn er’s umgehängt hat) „böse” wird und jeden den er in der Nähe sieht, umbringen möchte</td>
+<td>2</td>
+<td>Seeeeeeehr Wertvoll</td>
+<td>gibt’s nur einmal</td>
+</tr>
+<tr class="even">
+<td>Der grüne Hammer (ihn umgeben grüne Schleier, die Person, welche ihn trägt, solange sie ihn trägt, auch)</td>
+<td>Wer ihn trägt, erhält immer Stärke 10 und kann 5x so hoch springen und 3x so schnell laufen, wie normal, zudem macht der Hammer +5 Schaden, Esron selbst soll ihn führen</td>
+<td>30</td>
+<td>Seeeeeeeeeeeeeeeeeeeeeeeeeeehr Wertvoll</td>
+<td>gibt’s nur einmal</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
