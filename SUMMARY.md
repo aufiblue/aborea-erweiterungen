@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Startseite](README.md)
-
-## Neue Berufe
+* [Willkommen bei den Aborea-Erweiterungen!](README.md)
 
 ## Ausrüstungs-Erweiterungen
-* [Erweiterte Gegenstandsliste](Ausrüstungs-Erweiterungen/Erweiterte-Gegenstandsliste.md)
+
+* [Erweiterte Gegenstandsliste](ausruestungs-erweiterungen/erweiterte-gegenstandsliste.md)
+
