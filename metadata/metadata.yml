@@ -12,7 +12,7 @@ links-as-notes: true
 lof: false
 toc: true
 toc-own-page: true
-toc-depth: 3
+toc-depth: 2
 logo: metadata/images/aufiblue.png
 logo-width: 150
 ---
