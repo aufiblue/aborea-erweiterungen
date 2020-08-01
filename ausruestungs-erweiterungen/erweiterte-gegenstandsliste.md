@@ -1,6 +1,6 @@
 # Erweiterte Gegenstandsliste
 
-## Gegenstände
+## Gebrauchsgegenstände
 
 | Gegenstand | Kg | Preis | Häufigkeit | Funktion |  |
 | :--- | :--- | :--- | :--- | :--- | :--- |
