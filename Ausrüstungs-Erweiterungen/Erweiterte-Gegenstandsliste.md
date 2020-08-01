@@ -1,3 +1,5 @@
+## Ausrüstungs-Erweiterungen
+
 ### Gegenstände
 
 | Gegenstand | Kg | Preis | Häufigkeit | Funktion |
