@@ -4,3 +4,6 @@
 
 ## Neue Berufe
 
+## Ausrüstungs-Erweiterung
+
+* [Erweiterte Gegenstandsliste](README.md)
