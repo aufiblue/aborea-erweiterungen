@@ -13,5 +13,6 @@
 
 ## Anhang
 
-* [Lizenz](LICENSE.md)
+* [Lizenz](anhang/license.md)
 * [Making Of](anhang/makingof.md)
+
