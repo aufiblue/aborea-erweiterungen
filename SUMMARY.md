@@ -10,3 +10,8 @@
 ## Ausrüstungs-Erweiterungen
 
 * [Erweiterte Gegenstandsliste](ausruestungs-erweiterungen/erweiterte-gegenstandsliste.md)
+
+## Anhang
+
+* [Lizenz](LICENSE.md)
+* [Making Of](anhang/makingof.md)
