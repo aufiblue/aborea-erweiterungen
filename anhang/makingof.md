@@ -3,4 +3,4 @@
 ## Mein Arbeitsablauf
 
 ## Systeme
-![Systeme](anhang/systeme.png)
+![Systeme](./anhang/systeme.png)
