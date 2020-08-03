@@ -68,6 +68,10 @@ jobs:
         echo "::set-env name=PROJECT::$(cat metadata/metadata.yml | grep ^title: | awk -F' ' '{ print $2 }' | tr -d '"')"
         echo "::set-env name=FILELIST::$(printf '%s ' `cat SUMMARY.md | grep '[*]\(.*\)' | awk -F'(' '{print $2}' | tr -d ')'` )"
 
+    - name: Set modify image path
+      run: |
+        for f in `cat SUMMARY.md | grep '[*]\(.*\)' | awk -F'(' '{print $2}' | tr -d ')'`; do echo "$f" ; sed -i 's|!\[\(.*\)\](\.\./\.gitbook|!\[\1\](.gitbook|' $f ; cat $f; done
+
     # call a pandoc/latex docker container that is capable of processing the eisvogel template
     - uses: docker://thomasweise/docker-pandoc
       with:

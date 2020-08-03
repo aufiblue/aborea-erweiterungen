@@ -8,7 +8,7 @@ titlepage-background: metadata/images/pic05.jpg
 titlepage-text-color: "000000"
 titlepage-rule-color: "000000"
 titlepage-rule-height: 0
-links-as-notes: true
+links-as-notes: false
 lof: false
 toc: true
 toc-own-page: true

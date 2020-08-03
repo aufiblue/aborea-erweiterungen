@@ -84,3 +84,9 @@
 
 * [Wiederbelebung](leichtere-variante/wiederbelebung.md)
 * [Währungen](leichtere-variante/waehrungen.md)
+
+## Anhang
+
+* [Lizenz](anhang/license.md)
+* [Making Of](anhang/makingof.md)
+
