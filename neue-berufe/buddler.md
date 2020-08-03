@@ -26,7 +26,7 @@ Ein Buddler erhält so viele Magiepunkte, wie er Ränge in der Fertigkeit „Mag
 
 ### Fertigkeitskosten
 | Fertigkeit | Kosten |
-| --------- | ------- |
+| - | - |
 | Athletik | 1 |
 | Einflussnahme | 2 |
 | Gezielte Sprüche | 4 |
@@ -43,7 +43,7 @@ Ein Buddler erhält so viele Magiepunkte, wie er Ränge in der Fertigkeit „Mag
 
 ### Kosten für Zechen und Humor
 | Fertigkeit | Kosten |
-| --------- | -------|
+| - | - |
 | Humor | 1 |
 | Zechen | 2 |
 
@@ -51,20 +51,20 @@ Ein Buddler erhält so viele Magiepunkte, wie er Ränge in der Fertigkeit „Mag
 
 Stufe 3:
 | Wilder | Buddler |
-| ------ | -------- |
+| - | - |
 | Natur +1 | alles was mit buddeln und graben zu tun hat +2 |
 
 Stufe 6:
 | Erde | Wasser | Feuer | Luft |
-| ---- | -------- | ------ | ---- |
+| - | - | - | - |
 | Natur +1 | Schwimmen +1 | List oder Einflussnahme +1 | Wahrnehmung +1 |
 
 Stufe 9:
 | Buddler* | Geschickter | Geistesblitz |
-| --------- | ------------ | ------------ |
+| - | - | - |
 | Stärke +1 | Geschicklichkeit +1 | eine noch nicht erlernte Fertigkeit sofort ohne Kosten auf Rang 3 oder Intelligenz +1 |
 
 Stufe 12:
 | Sehr Konstitutiv | Sehr widerstandsfähig |
-| ---------------- | -------------------|
+| - | - |
 | Heilung x3 | Trefferpunkte +20 |
