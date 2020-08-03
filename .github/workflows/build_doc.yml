@@ -67,7 +67,7 @@ jobs:
       run: |
         echo "::set-env name=PROJECT::$(cat metadata/metadata.yml | grep ^title: | awk -F' ' '{ print $2 }' | tr -d '"')"
         echo "::set-env name=FILELIST::$(printf '%s ' `cat SUMMARY.md | grep '[*]\(.*\)' | awk -F'(' '{print $2}' | tr -d ')'` )"
-        for f in $FILELIST; do sed -i 's|!\[\(.*\)\](\.\./\.gitbook|!\[\1\](.gitbook|' $f ; done
+        echo "::set-env name=dummy::$(for f in $FILELIST; do sed -i 's|!\[\(.*\)\](\.\./\.gitbook|!\[\1\](.gitbook|' $f ; done)"
 
     # call a pandoc/latex docker container that is capable of processing the eisvogel template
     - uses: docker://thomasweise/docker-pandoc
