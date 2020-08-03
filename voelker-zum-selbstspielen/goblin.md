@@ -1,6 +1,6 @@
-# Goblin
+## Goblin
 
-## Das Volk
+### Das Volk
 
 | Volk | ST | GE | KO | IN | CH | Berufe | Sonstiges |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
