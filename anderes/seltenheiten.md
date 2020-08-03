@@ -1,11 +1,11 @@
-## Seltenheiten
+# Seltenheiten
 
-### Seltenheiten von Gegenständen
+## Seltenheiten von Gegenständen
 
 Hier eine Tabelle für gewisse Seltenheitswerte und, damit man etwa einschätzen kann, wie selten ein bestimmter Gegenstand in der Welt von Aborea circa sein muss.
 
 | Seltenheitsgrad | Beschrieben mit |
-| ---------------- | ---------------- |
+| :--- | :--- |
 | 1 | sehr häufig |
 | 2 | häufig |
 | 3 | eher häufig |
@@ -15,3 +15,4 @@ Hier eine Tabelle für gewisse Seltenheitswerte und, damit man etwa einschätzen
 | 7 | sehr selten |
 | 8 | äußerst selten |
 | 9 | extrem selten |
+

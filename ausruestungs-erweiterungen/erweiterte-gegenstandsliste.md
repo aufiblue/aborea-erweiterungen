@@ -225,7 +225,7 @@
 | eisern \(links\) | +2 | 5 GF | 10 | selten |
 | eisern \(hinten\) | +2 | 5 GF | 5 | selten |
 | golden \(vorne\) | +3 | 30 GF | 30 | selten - sehr selten |
-| golden \(rechts\)| +2 | 10 GF | 10 | selten - sehr selten |
+| golden \(rechts\) | +2 | 10 GF | 10 | selten - sehr selten |
 | golden \(links\) | +2 | 10 GF | 10 | selten - sehr selten |
 | golden \(hinten\) | +1 | 10 GF | 5 | selten - sehr selten |
 | diamanten \(vorne\) | +5 | 150.000 GF | 30 | extrem selten |
