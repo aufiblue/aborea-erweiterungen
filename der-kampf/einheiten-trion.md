@@ -1,5 +1,3 @@
-# Der Kampf
-
 ## Einheiten Trions
 
 ### Trionarii \[Menschen\]
