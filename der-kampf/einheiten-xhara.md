@@ -1,6 +1,6 @@
-## Einheiten Xhara's
+## Einheiten Xharas
 
-### kleiner Überblick - Armeen Xhara‘s
+### kleiner Überblick - Armeen Xharas
 
 Die Armeen des Imperiums bestehen fast nur aus Sklaven. Sie werden vor allem gegen Trion und Elbia angewendet. Der Imperator und die anderen Reichen und Adeligen wollen immer mehr und so verlieren immer mehr Lebewesen ihr Leben. Die Sklaven sind zwar nicht sehr gut im kämpfen, aber dafür sind es unfassbar viele. Fast alle Sklaven des Xhara-Imperiums sind Menschen. Innerhalb des Imperiums hat sich eine Gruppe gebildet, die im Geheimen gegen das Imperium vorgeht und die ständig wächst. Außerdem gibt es immer wieder Aufstände, die allerdings gnadenlos niedergeschlagen werden. Es gibt bei Ihnen meist nur einen einzigen Befehlshaber pro Heer, allerdings besteht eine Einheit meist aus 1-10 Sklaventreiber'n, je nachdem, wie groß die Einheiten sind. Sie sollen versuchen, die Truppe zusammenzuhalten, selbst wenn die Moral auf den Tiefpunkt fällt. Dies funktioniert allerdings nicht immer.
 

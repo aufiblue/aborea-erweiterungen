@@ -1,8 +1,8 @@
 ## Einheiten Trions
 
-### kleiner Überblick - Armeen Trion's
+### kleiner Überblick - Armeen Trions
 
-Die Armeen Trions sind zwar sehr vielfältig, bestehen aner trotzdem zu einem großen Teil aus Menschen. Sie werden meist nur gegen Xhara angewendet, aber nötigenfalls auch gegen das Suderland oder Elbia. Die Armeen sind meist so aufgebaut, dass es ein pasr Befehlshaber gibt und die Armee somit besser auf feindliche Aktionen reagieren und gegen die Feine agieren kann. Trion's Truppen kämpfen meist in bestimmten Formationen.
+Die Armeen Trions sind zwar sehr vielfältig, bestehen aber trotzdem zu einem großen Teil aus Menschen. Sie werden meist nur gegen Xhara angewendet, aber nötigenfalls auch gegen das Suderland oder Elbia. Die Armeen sind meist so aufgebaut, dass es ein paar Befehlshaber gibt und die Armee somit besser auf feindliche Aktionen reagieren und gegen die Feinde agieren kann. Trions Truppen kämpfen meist in bestimmten Formationen.
 
 ### Trionarii \[Menschen\]
 
