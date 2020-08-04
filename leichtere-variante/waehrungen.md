@@ -2,4 +2,4 @@
 
 ### Die Währung - überall gleich
 
-Überall besteht die Währung aus Goldfalken, Trionthalern, Kupferlingen und Muenas, so muss man nicht bedenken, dass jedes Reich eine unterschiedliche Währung hat.
+Überall besteht die Währung aus Goldfalken, Trionthalern, Kupferlingen und Muenas. So muss man nicht bedenken, dass es unterschiedliche Währungen gibt.
