@@ -1,4 +1,4 @@
-# Neue Bedeutende Personen
+# Orte
 
 ## Magromagor und sein Herrscher
 

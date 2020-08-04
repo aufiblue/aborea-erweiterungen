@@ -1,4 +1,4 @@
-# Rotlinge
+# Neue Völker
 
 ## Rotlinge
 
@@ -35,4 +35,3 @@ Wie viele es wirklich gibt, ist sehr schwer einzuschätzen, aber die wenigen, di
 ### Feindlich?
 
 Generell stehen sie allen Spezies neutral gegenüber. Was allerdings die wenigsten wissen, ist, dass sie einen Krieg führen wollen. Sie wollen alle Oger auf Palea auslöschen, keiner weiß allerdings wirklich wann und wie. Man munkelt auch, dass sie in Magromagor einen Geheimbund haben, der im geheimen gegen Kriminelle vorgeht und trotzdem versucht, die Kontrolle über die Stadt zu übernehmen. Der Geheimbund soll aus ein paar Hunderten der Rotlinge bestehen und äußerst gefährlich sein. Es gibt selten Berichte von, plötzlich auftauchenden, großen roten Wesen, die Leuten in der Klemme halfen.
-

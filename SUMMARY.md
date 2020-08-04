@@ -39,8 +39,6 @@
 
 * [Magromagor und sein Herrscher](orte/magromagor-und-sein-herrscher.md)
 
-## Neue Orte
-
 ## NSC's und Monster
 
 * [Kobolde](nscs-und-monster/kobold.md)

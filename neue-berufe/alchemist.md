@@ -4,7 +4,7 @@
 
 ### Kurzbeschreibung
 
-Alchemisten werden zwar von vielen Menschen akzeptiert und gebraucht \(v.a. in den Städten\), aber auch verachtet und gejagt \(eher auf dem Land\). Es gibt nicht viele Alchemisten und, da sie häufig zum Affen gemacht werden, entwickeln einige von ihnen einen Hang zum „Böse sein”. Die meisten werden einfach sehr unfreundlich, manche werden allerdings sehr listig und möchten v.a. denen, von denen sie gejagt werden und jenen, welche sie hänseln und zum Affen machen nur noch Schaden. Meist teilen Alchemisten anderen gar nicht oder erst sehr spät mit, wer oder was sie sind, daher sie dadurch häufig schnell zum Tode kommen. Alchemisten werden als das geboren, was sie sind, und finden häufig erst spät heraus, dass sie Alchemisten sind.
+Alchemisten werden zwar von vielen Menschen akzeptiert und gebraucht \(v.a. in den Städten\), aber auch verachtet und gejagt \(eher auf dem Land\). Es gibt nicht viele Alchemisten und, da sie häufig zum Affen gemacht werden, entwickeln einige von ihnen einen Hang zum „Böse sein”. Die meisten werden einfach nur sehr unfreundlich, manche werden allerdings sehr listig und möchten, v.a. denen, von denen sie gejagt werden und jenen, welche sie hänseln und zum Affen machen, nur noch Schaden. Meist teilen Alchemisten anderen gar nicht oder erst sehr spät mit, wer oder was sie sind, daher sie dadurch häufig schnell zum Tode kommen. Alchemisten werden als das geboren, was sie sind, und finden dies häufig erst späg heraus.
 
 ### Magie
 
@@ -88,4 +88,3 @@ Stufe 12:
 | Ewiger Widerstand | Ewiges Leben |
 | :--- | :--- |
 | Heilung x2 | Trefferpunkte +10 |
-

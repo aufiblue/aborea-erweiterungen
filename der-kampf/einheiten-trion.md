@@ -1,4 +1,4 @@
-# Einheiten Trion's
+# Der Kampf
 
 ## Einheiten Trions
 
@@ -229,4 +229,3 @@ Beschreibung zu Trionoserii Klein und schnell. Gut für Hinterhalte.
 | SG | 2 \(KP 175\) |
 
 Beschreibung: Klein und sehr schnell. Perfekt für Hinterhalte.
-

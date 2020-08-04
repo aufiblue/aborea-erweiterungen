@@ -1,4 +1,4 @@
-# Trionischer König
+# Spiele für Trion
 
 ## Trionischer König
 
@@ -9,4 +9,3 @@ Bei diesem Spiel nimmt man ein Skatspiel und zieht so lange Karten, bis jemand d
 ### Spielerzahl
 
 Zwei bis zweiunddreißig.
-

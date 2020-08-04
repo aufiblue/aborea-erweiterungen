@@ -1,10 +1,10 @@
-# Einheiten Xhara's
+## Einheiten Xhara's
 
-## kleiner Überblick - Armeen Xhara‘s
+### kleiner Überblick - Armeen Xhara‘s
 
-Die Armeen des Imperiums bestehen fast nur aus Sklaven. Siewerden vor allem gegen Trion und Elbia angewendet. Der Herrscher und die anderen Reichen und Adeligen wollen immer mehr und so verlieren immer mehr Lebewesen ihr Leben. Die Sklaven sind zwar nicht sehr gut im kämpfen, aber dafür sind es unfassbar viele. Fast alle Sklaven des Xhara-Imperiums sind Menschen. Innerhalb des Imperiums hat sich eine Gruppe gebildet, die im Geheimen gegen das Imperium arbeitet und die ständig wächst. Außerdem gibt es immer wieder Aufstände, die allerdings gnadenlos niedergeschlagen werden. Es gibt bei Ihnen meist nur einen einzigen Befehlshaber pro Heer, nicht so wie zum Beispiel bei den Römern in unserer echten Welt. Eine Einheit besteht meist aus 1-10 Sklaventreiber'n, je nachdem wie groß die Einheiten sind. Sie sollen versuchen, die Truppe zusammenzuhalten, selbst wenn die Moral auf dem Tiefpunkt ist. Dies funktioniert allerdings nicht immer.
+Die Armeen des Imperiums bestehen fast nur aus Sklaven. Sie werden vor allem gegen Trion und Elbia angewendet. Der Imperator und die anderen Reichen und Adeligen wollen immer mehr und so verlieren immer mehr Lebewesen ihr Leben. Die Sklaven sind zwar nicht sehr gut im kämpfen, aber dafür sind es unfassbar viele. Fast alle Sklaven des Xhara-Imperiums sind Menschen. Innerhalb des Imperiums hat sich eine Gruppe gebildet, die im Geheimen gegen das Imperium vorgeht und die ständig wächst. Außerdem gibt es immer wieder Aufstände, die allerdings gnadenlos niedergeschlagen werden. Es gibt bei Ihnen meist nur einen einzigen Befehlshaber pro Heer, allerdings besteht eine Einheit meist aus 1-10 Sklaventreiber'n, je nachdem, wie groß die Einheiten sind. Sie sollen versuchen, die Truppe zusammenzuhalten, selbst wenn die Moral auf den Tiefpunkt fällt. Dies funktioniert allerdings nicht immer.
 
-## Nahkämpfer-Sklave
+### Nahkämpfer-Sklave
 
 | Kategorie | Werte |
 | :--- | :--- |
@@ -21,7 +21,7 @@ Beschreibung zu Nahkämpfer-Sklaven:
 
 Nahkämpfer.
 
-## Fernkämpfer-Sklave
+### Fernkämpfer-Sklave
 
 | Kategorie | Werte |
 | :--- | :--- |
@@ -38,7 +38,7 @@ Beschreibung zu Fernkämpfer-Sklaven:
 
 Fernkämpfer.
 
-## Kriegsgefangenen-Sklave
+### Kriegsgefangenen-Sklave
 
 | Kategorie | Werte |
 | :--- | :--- |
@@ -55,7 +55,7 @@ Beschreibung zu Kriegsgefangenen-Sklaven:
 
 Kriegsgefangene, mit dem Kampfe vertraute, Nahkämpfer.
 
-## Sklaventreiber
+### Sklaventreiber
 
 | Kategorie | Werte |
 | :--- | :--- |
@@ -72,7 +72,7 @@ Beschreibung zu Sklaventreibern:
 
 Sie sind die Sklaventreiber, die oben beschrieben sind.
 
-## Krieger
+### Krieger
 
 | Kategorie | Werte |
 | :--- | :--- |
@@ -89,7 +89,7 @@ Beschreibung zu Kriegern:
 
 Sie sind Krieger des Imperiums und kämpfen freiwillig. Sie plündern oder rauben alles, was ihnen im Weg steht. Daher sind sie meistens auch ziemlich reich und haben viel Geld. Sie achten nicht auf die Sklaven und behandeln sie wie Dreck.
 
-## Schwarzer Magier
+### Schwarzer Magier
 
 | Kategorie | Werte |
 | :--- | :--- |
@@ -107,7 +107,7 @@ Beschreibung zu schwarzen Magiern:
 
 Von ihnen gibt es exakt 15. Sie sind die schwarzen Magier des Imperators und äußerst gefährlich. Die meisten haben eine Begegnung mit ihnen nicht überlebt. Sie können 10 der schwarzen Kreaturen an einem Stück beschwören, dann sind sie allerdings für unbestimmte Zeit ausgeschaltet.
 
-## Schwarze Kreatur
+### Schwarze Kreatur
 
 | Kategorie | Werte |
 | :--- | :--- |
@@ -123,4 +123,3 @@ Von ihnen gibt es exakt 15. Sie sind die schwarzen Magier des Imperators und äu
 Beschreibung zu schwarzen Kreaturen:
 
 Es sind schwarze Kreaturen, welche von den schwarzen Magiern beschworen werden können, allerdings verschwinden diese Kreaturen nach 48 Stunden wieder.
-

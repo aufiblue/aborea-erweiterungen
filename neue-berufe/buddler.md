@@ -10,19 +10,19 @@ Buddler können nur die Spruchliste „Elementare Magie" erlernen, was für sie 
 
 ### Stark
 
-Durch häufiges graben und buddeln sind Buddler meist sehr stark. Dadurch erhalten sie einen Situationsbonus von +3 auf alles, was mit buddeln zu tun hat und zudem noch einen Bonus von +1 auf das Attribut Stärke.
+Durch häufiges Graben und Buddeln sind Buddler meist sehr stark. Dadurch erhalten sie einen Situationsbonus von +3 auf alles, was mit Buddeln zu tun hat und zudem noch einen Bonus von +1 auf das Attribut Stärke.
 
 ### Instinkt
 
-Durch graben in der Wildnis besitzen Buddler einen Gefahreninstinkt, da es in der Wildnis sehr gefährlich sein kann. Mit einem erfolgreichen MS 8 Wahrnehmungswurf des Spielleiters für den Spieler, nehmen sie lebende Gefahr im Umkreis von 20 m wahr.
+Durch Graben in der Wildnis besitzen Buddler einen Gefahreninstinkt, da es in der Wildnis sehr gefährlich sein kann. Mit einem erfolgreichen MS 8 Wahrnehmungswurf des Spielleiters für den Spieler nehmen sie lebende Gefahr im Umkreis von 20 m wahr.
 
 ### Aufmerksamkeit
 
-Buddler sind durch ihr graben in der Wildnis sehr aufmerksam geworden und erhalten somit einen Situationsbonus von +1 auf Wahrnehmung.
+Buddler sind durch ihr Graben in der Wildnis sehr aufmerksam geworden und erhalten somit einen Situationsbonus von +1 auf Wahrnehmung.
 
 ### Nicht sehr Intelligent
 
-Durch dieses häufige und gerne auch lange Graben, haben Buddler nicht viel Zeit zum lernen und erhalten somit einen Malus von -1 auf das Attribut Intelligenz.
+Durch dieses häufige und gerne auch lange Graben, haben Buddler nicht viel Zeit zum Lernen und erhalten somit einen Malus von -1 auf das Attribut Intelligenz.
 
 ### Trefferpunkte
 
