@@ -72,6 +72,12 @@ jobs:
       run: |
         for f in `cat SUMMARY.md | grep '[*]\(.*\)' | awk -F'(' '{print $2}' | tr -d ')'`; do echo "$f" ; sed -i 's|!\[\(.*\)\](\.\./\.gitbook|!\[\1\](.gitbook|' $f ; cat $f; done
 
+    - name: Set Tag and Date in metadata
+      run: |
+      export GITHEAD=`git rev-parse HEAD`
+      export GITTAG=`git describe $GITHEAD --tags | awk -F'-' '{print $1}'`
+      sed -i "s/Version 000/Version $GITTAG, `date '+%d.%m.%y %H:%M'`/" metadata/metadata.yml
+
     # call a pandoc/latex docker container that is capable of processing the eisvogel template
     - uses: docker://thomasweise/docker-pandoc
       with:

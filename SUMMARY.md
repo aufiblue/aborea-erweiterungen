@@ -69,7 +69,7 @@
 * [Waffen](ausruestungs-erweiterungen/waffen.md)
 * [Rüstungen](ausruestungs-erweiterungen/ruestungen.md)
 * [Pferderüstungen](ausruestungs-erweiterungen/pferderuestungen.md)
-* [Anderes (Waffen und Rüstungen)](ausruestungs-erweiterungen/anderes.md)
+* [Anderes - Waffen und Rüstungen](ausruestungs-erweiterungen/anderes.md)
 * [Magische Gegenstände](ausruestungs-erweiterungen/magische-gegenstaende.md)
 * [Belagerungs- und Kriegsmaschinen](ausruestungs-erweiterungen/belagerungs-und-kriegsmaschinen.md)
 
