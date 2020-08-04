@@ -1,4 +1,4 @@
-# Bedeutende Personen
+# Der Imperator
 
 ## Der Imperator
 
@@ -21,3 +21,4 @@ Seine Armee ist in Execa, also in seiner Nähe, stationiert und ständig einsatz
 ### Reichtum
 
 Der Reichtum spielt hier keine Rolle, da ihm wirklich äußerst viel gehört.
+

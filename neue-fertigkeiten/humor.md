@@ -1,4 +1,4 @@
-# Neue Fertigkeiten
+# Humor
 
 ## Humor
 
@@ -9,3 +9,4 @@ Man würfelt auf die Fertigkeit Humor, wenn man zum Beispiel einen Witz macht. D
 ### Kosten
 
 Humor kostet pro Rang meist 1 AP, es sei denn, der Charakter lässt dies dank seiner Vergangenheit nicht zu.
+

@@ -47,8 +47,8 @@
 
 ## Neue NSC's und Monster
 
-* [Liste mit NSC's](neue-nscs-und-monster/liste-mit-nscs)
-* [Die 10 Braunbärbrüder](neue-nscs-und-monster/die-10-braunbärbrüder.md)
+* [Liste mit NSC's](neue-nscs-und-monster/liste-mit-nscs.md)
+* [Die 10 Braunbärbrüder](neue-nscs-und-monster/die-10-braunbaerbrueder.md)
 * [Onky und Krollz](neue-nscs-und-monster/onky-und-krollz.md)
 * [Erle](neue-nscs-und-monster/erle.md)
 * [Graars](neue-nscs-und-monster/graars.md)
@@ -56,14 +56,14 @@
 
 ## Der Kampf
 
-* [Kampfsystem für große Gruppen](der-kampf/kampfsystem-große-gruppen.md)
+* [Kampfsystem für große Gruppen](der-kampf/kampfsystem-grosse-gruppen.md)
 * [Einheiten Trion's](der-kampf/einheiten-trion.md)
 * [Einheiten Xhara's](der-kampf/einheiten-xhara.md)
 
 ## Spiele für Trion
 
-* [Trionischer König](neue-spiele/trionischer-koenig.md)
-* [Goldener Humpen](neue-spiele/goldener-humpen.md)
+* [Trionischer König](spiele-fuer-trion/trionischer-koenig.md)
+* [Goldener Humpen](spiele-fuer-trion/goldener-humpen.md)
 
 ## Ausrüstungs-Erweiterungen
 

@@ -12,4 +12,5 @@ Ich habe diese Tabelle nach Gefühl und nicht nach System erstellt.
 | Wasser | 4 | 6 | 10 | 24 | 49 | 84 | 128 |  145 | 168 | tot |
 
 ### Abfangen
+
 Wenn man es schafft, sich mitten in einem Sturz abzufangen, zählt dieser Sturz als einzelner und er wird unabhängig von einem eventuellen weiteren Sturz berechnet.
