@@ -1,4 +1,4 @@
-# Der Imperator
+# Bedeutende Personen
 
 ## Der Imperator
 
