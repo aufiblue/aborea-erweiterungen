@@ -6,7 +6,7 @@ Sie hat den Titel „die Taktische" oder wird auch „das Taktikgenie" genannt. 
 
 ### Wesen
 
-Es gab immer Ausnahmen und sie ist eine davon, denn sie ist eine Goblinin, die äußerst gut die Handelssprache und Trionisch spricht.
+Es gab immer Ausnahmen und sie ist eine davon, denn sie ist eine Goblinin, die äußerst gut natürlich Goblinisch, aber auch sehr gut die Handelssprache und Trionisch spricht.
 
 ### Die Schlachten
 
@@ -18,4 +18,4 @@ Sie gewinnt Schlachten durch unterschiedlichste Taktiken. Sie gewinnt Schlachten
 
 ### Reichtum
 
-Für eine so erfolgreiche Kriegsführerin hat sie äußerst wenig Geld. Sie könnte ihre vergleichsweise sehr kleine Armee höchstens Michelin paar Jahre unterhalten, danach hätte sie kein Geld mehr.
+Für eine so erfolgreiche Kriegsführerin hat sie äußerst wenig Geld. Sie könnte ihre vergleichsweise sehr kleine Armee höchstens noch ein paar Jahre unterhalten, danach hätte sie kein Geld mehr.

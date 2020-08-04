@@ -16,7 +16,7 @@ Wenn die Kreatur diese Aktion ausführt, krallt sie sich nach einem Angriff mit 
 Malus Angriff + Verteidigung
 Pro 1 Malus auf Angriff oder Verteidigung gibt +25 KP
 
-| MS beim lösen | KP |
+| MS beim Lösen | KP |
 | - | - |
 | 8 | +20 |
 | 9 | +40 |
@@ -25,7 +25,7 @@ Pro 1 Malus auf Angriff oder Verteidigung gibt +25 KP
 | 12 | +100 |
 | +1 | +20 |
 
-| Schaden (beim lösen) | KP |
+| Schaden (beim Lösen) | KP |
 | - | - |
 | +1 | +10 |
 | +2 | +20 |
@@ -58,7 +58,7 @@ KP +80
 
 ### Huftritt
 
-Wenn die Kreatur einen Huftritt ausführt und trifft, dann tritt es eine andere Kreatur weg, welche dann eine Runde lang nicht agieren kann.
+Wenn die Kreatur einen Huftritt ausführt und trifft, dann tritt es eine andere Kreatur je nach Größe und Stärke so und so weit weg, welche dann eine Runde lang nicht agieren kann.
 
 KP +40
 

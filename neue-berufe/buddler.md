@@ -1,30 +1,39 @@
 ## Buddler
 
 ### Kurzbeschreibung
+
 Buddler werden als solche geboren und können von Grund auf sehr gut graben und sind häufig durch ihre Fähigkeit sehr stark geworden.
 
 ### Magie
+
 Buddler können nur die Spruchliste „Elementare Magie" erlernen, was für sie allerdings äußerst schwer ist.
 
 ### Stark
+
 Durch häufiges graben und buddeln sind Buddler meist sehr stark. Dadurch erhalten sie einen Situationsbonus von +3 auf alles, was mit buddeln zu tun hat und zudem noch einen Bonus von +1 auf das Attribut Stärke.
 
 ### Instinkt
+
 Durch graben in der Wildnis besitzen Buddler einen Gefahreninstinkt, da es in der Wildnis sehr gefährlich sein kann. Mit einem erfolgreichen MS 8 Wahrnehmungswurf des Spielleiters für den Spieler, nehmen sie lebende Gefahr im Umkreis von 20 m wahr.
 
 ### Aufmerksamkeit
+
 Buddler sind durch ihr graben in der Wildnis sehr aufmerksam geworden und erhalten somit einen Situationsbonus von +1 auf Wahrnehmung.
 
 ### Nicht sehr Intelligent
+
 Durch dieses häufige und gerne auch lange Graben, haben Buddler nicht viel Zeit zum lernen und erhalten somit einen Malus von -1 auf das Attribut Intelligenz.
 
 ### Trefferpunkte
+
 Buddler sind durch ihr Graben in der Wildnis sehr robust und widerstandsfähig geworden und erhalten deshalb 8 Trefferpunkte (plus Konstitutionsbonus) pro Stufe.
 
 ### Magiepunkte
+
 Ein Buddler erhält so viele Magiepunkte, wie er Ränge in der Fertigkeit „Magie entwickeln" (Fertigkeit) hat, multipliziert mit dem Ergebnis aus 3 plus seinem Intelligenzbonus: (IN-Bonus + 3) x Rang.
 
 ### Fertigkeitskosten
+
 | Fertigkeit | Kosten |
 | - | - |
 | Athletik | 1 |
@@ -42,6 +51,7 @@ Ein Buddler erhält so viele Magiepunkte, wie er Ränge in der Fertigkeit „Mag
 | Wissen | 3 |
 
 ### Kosten für Zechen und Humor
+
 | Fertigkeit | Kosten |
 | - | - |
 | Humor | 1 |

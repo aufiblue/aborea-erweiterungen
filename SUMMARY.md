@@ -30,11 +30,16 @@
 
 ## Neue bedeutende Personen
 
-* [Der Scheich Magromagors](neue-bedeutende-personen/der-scheich-magromagors.md)
 * [Nicolas von Digione](neue-bedeutende-personen/nicolas-von-digione.md)
 * [Merida](neue-bedeutende-personen/merida.md)
 * [Retruus](neue-bedeutende-personen/retruus.md)
 * [Der oberste Sklaventreiber](neue-bedeutende-personen/der-oberste-sklaventreiber.md)
+
+## Orte
+
+* [Magromagor und sein Herrscher](orte/magromagor-und-sein-herrscher.md)
+
+## Neue Orte
 
 ## NSC's und Monster
 

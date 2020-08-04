@@ -10,7 +10,7 @@ Nicolas ist ein Mensch.
 
 ### Die Schlachten
 
-Er hat schon viele Schlachten gegen Xhara geschlagen und gewonnen, ist aber keinesfalls ein taktisches Genie, seine Armee ist einfach riesig.
+Er hat schon viele Schlachten gegen Xhara geschlagen und gewonnen, ist aber keinesfalls ein taktisches Genie, seine Armee ist einfach viel zu groß für die meisten Gegner.
 
 ### Die Armee
 

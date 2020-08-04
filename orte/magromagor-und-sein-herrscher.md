@@ -1,14 +1,14 @@
-# Bedeutende Personen
+# Neue Bedeutende Personen
 
-## Der Scheich Magromagors
+## Magromagor und sein Herrscher
 
 ### Titel
 
-Der Herrscher Magromagor's ist ein Scheich.
+Der Herrscher Magromagor’s ist ein Scheich.
 
 ### Name
 
-Niemandweiß so genau, was sein echter Name ist. Manche denken, er würde „Ertrian" oder auch „Merin" heißen, aber er selbst redet nicht gern über seinen Namen.
+Niemand weiß so genau, was sein echter Name ist. Manche denken, er würde „Ertrian" oder auch „Merin" heißen, aber er selbst redet nicht gern über seinen Namen.
 
 ### Wesen
 
@@ -41,13 +41,13 @@ In der letzten Zeit gibt es immer häufiger an den Scheich und andere wichtige L
 „Mein Lieber Scheich,
 
 ich möchte Euch hiermit einen wichtigen Hinweis geben:
-Die Bande der betrunkenen Priester wird morgen einen Anschlag auf euren Freund Remus Rederius planen, der morgen auf dem großen Marktplatz Magromagor's eine Rede halten wird. Lasst dies euren Freund wissen und lasst ihn durch jemand anderen ersetzen, schickt dazu einige eurer Krieger dorthin und Ihr werdet merken: Es lohnt sich.
+Die Bande der betrunkenen Priester wird morgen einen Anschlag auf euren Freund Remus Rederius planen, der morgen auf dem großen Marktplatz Magromagor’s eine Rede halten wird. Lasst dies euren Freund wissen und lasst ihn durch jemand anderen ersetzen, schickt dazu einige eurer Krieger dorthin und Ihr werdet merken: Es lohnt sich.
 Freundliche Grüße,
 
 RB."
 
 RB steht hierbei für „Rote Bande"
-Niemand weiß, weshalb diese Person oder diese Personen dies tun, denn sie ziehen ja keinen Nutzen daraus. Die Rotlinge der „Roten Bande" und der Anführer's der Rotlinge wissen dies natürlich - sie wollen einfach nur etwas Gutes für die Menschen tun.)
+Niemand weiß, weshalb diese Person oder diese Personen dies tun, denn sie ziehen ja keinen Nutzen daraus. Die Rotlinge der „Roten Bande" und der Anführer’s der Rotlinge wissen dies natürlich - sie wollen einfach nur etwas Gutes für die Menschen tun.)
 
 ### Der Plan der Bande
 

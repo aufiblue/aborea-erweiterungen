@@ -6,4 +6,4 @@ Der Wert rostiger Dinge ist sehr viel geringer, er beträgt nämlich nur noch 25
 
 ### Ihr Schaden bzw. ihre Rüstung
 
-Rostige Waffen machen immer einen Schaden weniger als normal und rostige Rüstungen haben immer zwei Rüstungsbonus weniger als normal.
+Rostige Waffen machen immer einen Schaden weniger als nicht rostige Waffen und rostige Rüstungen haben immer zwei Rüstungsbonus weniger als nicht rostige Rüstungen.

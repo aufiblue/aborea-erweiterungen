@@ -5,7 +5,7 @@
 Wetterzustände können einem Malusse einbringen.
 
 | Zustand | Auswirkungen |
-| -------- | -------------- |
+| - | - |
 | Starker Nebel | -3 auf Wahrnehmung |
 | Starker Schneefall | -3 auf Wahrnehmung |
 | Starker Regen | -2 auf athletische Manöver wie Klettern etc. |
