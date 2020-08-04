@@ -1,4 +1,4 @@
-# Belagerungs- und Kriegsmaschinen
+## Belagerungs- und Kriegsmaschinen
 
 | Belagerungs-/Kriegsmaschine | Schaden | Preis | Zweck |
 | :--- | :--- | :--- | :--- |
@@ -13,4 +13,3 @@
 | Onager | unbestimmt, gegen Personen 70 Schaden | 80 GF | Schaden verursachen \(an Mauern\) |
 | Pluteus \(mobil\) | 0 | 40 GF | hölzerne Schutzwand \(Deckung 90%\) |
 | Rammbock | unbestimmt | 60 GF | Schaden verursachen \(an Toren\) |
-

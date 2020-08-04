@@ -1,6 +1,8 @@
-# Erweiterte Gegenstandsliste
+# Ausrüstungs-Erweiterungen
 
-## Gebrauchsgegenstände
+## Erweiterte Gegenstandsliste
+
+### Gebrauchsgegenstände
 
 | Gegenstand | Kg | Preis | Häufigkeit | Funktion |  |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -163,7 +165,7 @@
 | Zitrone | 0,1 | 4 MU | selten - sehr selten | eine Zitrone |  |
 | Zipfelmütze | 0,5 | 4 TT | mittel - selten | einfache Zipfelmütze, wie sie Zwerge tragen |  |
 
-## Waffen \(Nahkampf\)
+### Waffen \(Nahkampf\)
 
 | Waffe | Gruppe | Mind.Stärke | Schaden | Attribut | Kg | Ini | Preis | Häufigkeit | Besonderes |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -181,7 +183,7 @@
 | Spitzhacke | Wuchtwaffe | 4 | -1/+0 \(bei Zweihand\) | ST | 3,5 | -2/-1 \(bei Zweihand\) | 8 TT | mittel |  |  |  |
 | Stock | Stangenwaffe |  | -2 | ST/GE | 0,5 | +1/+2 \(bei Zweihand\) | 0 | häufig |  |  |  |
 
-## Waffen \(Fernkampf\)
+### Waffen \(Fernkampf\)
 
 | Waffe | Gruppe | Mind.Stärke | Schaden | Attribut | Kg | Ini | Preis | Häufigkeit | Besonderes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -195,7 +197,7 @@
 
 \*als Wurf- bzw. Auswurfwaffe konstruiert
 
-## Rüstungen
+### Rüstungen
 
 | Rüstungsart | Mind. Stärke | Rüstung | Manöver | Kosten | Kg | Häufigkeit | Besonderes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -212,7 +214,7 @@
 
 \*Auf diese Rüstungen erhalten Zauberer beim Zaubern keinen Malus
 
-## Pferderüstungen
+### Pferderüstungen
 
 | Rüstungsart | Rüstung | Kosten | Kg | Häufigkeit |
 | :--- | :--- | :--- | :--- | :--- |
@@ -233,23 +235,22 @@
 | diamanten \(links\) | +4 | 100.000 GF | 15 | extrem selten |
 | diamanten \(hinten\) | +4 | 100.000 GF | 10 | extrem selten |
 
-## Metall für Klingen
+### Metall für Klingen
 
 | Metall | Preis pro kg der Waffe | Wirkung | Dauer pro kg der Waffe |
 | :--- | :--- | :--- | :--- |
 | Skelettgift | 25.000 TT | bei Berührung pro Stunde 2 Giftschaden \(Gift Rang 2\), eher leicht zu heilen | 28 Tage |
 
-## Metall für Pfeile
+### Metall für Pfeile
 
 | Metall | Preis pro Pfeil | Wirkung | Dauer pro Pfeil |
 | :--- | :--- | :--- | :--- |
 | Skelettgift | 200 TT | bei Berührung mit der Pfeilspitze pro Stunde 2 Giftschaden, Gift Rang 2, eher leicht zu heilen | 4 Stunden |
 
-## magische Gegenstände
+### magische Gegenstände
 
 | Gegenstand | Auswirkungen | Kg | Wert | Häufigkeit |
 | :--- | :--- | :--- | :--- | :--- |
 | Das Amulett des Schadens und des Schutzes | Es ist rund und drinnen ist noch ein unrunder Kreis, den man rein- und rausklicken kann. Wenn es reingeklickt ist, bewirkt es, dass jeder, der zu einer bestimmten Gemeinschaft gehört und dieses Amulett schon einmal um den Hals trug, für insgesamt 24 Stunden einen Rüstungsbonus von +2 erhält und zudem noch einen Schadensbonus von +1, nach den 24 Stunden erhält man für weitere 6 Tage einen Rüstungsbonus von +1. Danach hat man, bis man es wieder um den Hals gelegt bekommt, keinen Bonus mehr. Es ist im Besitz von Sir Mereno von Leet. | 5 | seeehr wertvoll | gibt nur eins |
 | Das fiese und funkelnde Amulett | Es bewirkt, dass der Träger \(wenn er’s umgehängt hat\) „böse” wird und jeden den er in der Nähe sieht, umbringen möchte | 2 | Seeeeeeehr Wertvoll | gibt’s nur einmal |
 | Der grüne Hammer \(ihn umgeben grüne Schleier, die Person, welche ihn trägt,  solange sie ihn trägt, auch\) | Wer ihn trägt, erhält immer Stärke 10 und kann 5x so hoch springen und 3x so schnell laufen, wie normal, zudem macht der Hammer +5 Schaden, Esron selbst soll ihn führen | 30 | Seeeeeeeeeeeeeeeeeeeeeeeeeeehr Wertvoll | gibt’s nur einmal |
-

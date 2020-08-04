@@ -1,10 +1,10 @@
-# Die Wirtschaft
-
 ## Die Wirtschaft
+
+### Die Wirtschaft
 
 Die Wirtschaft eines Reiches o.a. ist hier in Punkten aufgeschrieben. Es hängt von ganz unterschiedlichen Faktoren ab, was das jeweilige Reich einnimmt und ausgeben kann, z.B. wie groß das Reich ist und wie viel Grünfläche es gibt oder ob das Reich viele Sklaven hat oder wie gut die Führung eines Reiches zu ihrer Bevölkerung ist und wie viel sie dementsprechend für sie ausgibt.
 
-## Beispiele
+### Beispiele
 
 | Reich | Wirtschaft |
 | :--- | :--- |
@@ -21,7 +21,7 @@ Die Wirtschaft eines Reiches o.a. ist hier in Punkten aufgeschrieben. Es hängt 
 | Oriont | 15 |
 | Leandor | 69 |
 
-## Ausgaben jährlich - Militär:
+### Ausgaben jährlich - Militär:
 
 | Reich | Punkte |
 | :--- | :--- |
@@ -38,7 +38,7 @@ Die Wirtschaft eines Reiches o.a. ist hier in Punkten aufgeschrieben. Es hängt 
 | Oriont | 5 |
 | Leandor | 21 |
 
-## Ausgaben jährlich - Sonstiges:
+### Ausgaben jährlich - Sonstiges:
 
 | Reich | Punkte |
 | :--- | :--- |
@@ -54,4 +54,3 @@ Die Wirtschaft eines Reiches o.a. ist hier in Punkten aufgeschrieben. Es hängt 
 | Ilthur | 12 |
 | Oriont | 10 |
 | Leandor | 48 |
-

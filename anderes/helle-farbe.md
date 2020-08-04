@@ -1,6 +1,6 @@
-# Hell Gefärbtes - Nachteil
+## Hell Gefärbtes - Nachteil
 
-## Nachteil
+### Nachteil
 
 Hell Gefärbtes kann unter gegebenen Umständen einen Nachteil auf Tarnen etc. geben. \[Es wird immer abgerundet!\]
 
@@ -19,4 +19,3 @@ Hell Gefärbtes kann unter gegebenen Umständen einen Nachteil auf Tarnen etc. g
 | komplette Ritterrüstung | -4 |
 | Schild | -0,5 |
 | Turmschild | -1,5 |
-

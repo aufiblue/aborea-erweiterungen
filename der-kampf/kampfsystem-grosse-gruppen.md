@@ -1,4 +1,4 @@
-# der-kampf
+# Der Kampf
 
 ## Kampfsystem für große Gruppen
 
