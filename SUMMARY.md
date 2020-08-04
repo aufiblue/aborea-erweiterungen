@@ -55,8 +55,8 @@
 ## Der Kampf
 
 * [Kampfsystem für große Gruppen](der-kampf/kampfsystem-grosse-gruppen.md)
-* [Einheiten Trion's](der-kampf/einheiten-trion.md)
-* [Einheiten Xhara's](der-kampf/einheiten-xhara.md)
+* [Einheiten Trions](der-kampf/einheiten-trion.md)
+* [Einheiten Xharas](der-kampf/einheiten-xhara.md)
 
 ## Spiele für Trion
 
