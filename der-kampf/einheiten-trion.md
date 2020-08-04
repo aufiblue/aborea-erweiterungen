@@ -1,5 +1,9 @@
 ## Einheiten Trions
 
+### kleiner Überblick - Armeen Trion's
+
+Die Armeen Trions sind zwar sehr vielfältig, bestehen aner trotzdem zu einem großen Teil aus Menschen. Sie werden meist nur gegen Xhara angewendet, aber nötigenfalls auch gegen das Suderland oder Elbia. Die Armeen sind meist so aufgebaut, dass es ein pasr Befehlshaber gibt und die Armee somit besser auf feindliche Aktionen reagieren und gegen die Feine agieren kann. Trion's Truppen kämpfen meist in bestimmten Formationen.
+
 ### Trionarii \[Menschen\]
 
 | Kategorie | Werte |
@@ -13,7 +17,9 @@
 | Schatz | B |
 | SG | 3 \(KP 214\) |
 
-Beschreibung zu Trionarii Trionarii sind einfache Soldaten.
+Beschreibung zu Trionarii
+
+Trionarii sind einfache Soldaten.
 
 ### Trioniborii \[Menschen\]
 
@@ -28,7 +34,9 @@ Beschreibung zu Trionarii Trionarii sind einfache Soldaten.
 | Schatz | A |
 | SG | 2 \(KP 179\) |
 
-Beschreibung zu Trioniborii Trioniborii sind einfache Bogenschützen.
+Beschreibung zu Trioniborii
+
+Trioniborii sind einfache Bogenschützen.
 
 ### Trionikurii \[Menschen\]
 
@@ -43,7 +51,9 @@ Beschreibung zu Trioniborii Trioniborii sind einfache Bogenschützen.
 | Schatz | B |
 | SG | 2 \(KP 164\) |
 
-Beschreibung zu Trionikurii Trionikurii sind zwar nicht wirklich sehr gut ausgestattet, dafür sind sie aber sehr leichtfüßig und schnell.
+Beschreibung zu Trionikurii
+
+Trionikurii sind zwar nicht wirklich sehr gut ausgestattet, dafür sind sie aber sehr leichtfüßig und schnell.
 
 ### Trionimarii \[Menschen\]
 
@@ -58,7 +68,9 @@ Beschreibung zu Trionikurii Trionikurii sind zwar nicht wirklich sehr gut ausges
 | Schatz | C |
 | SG | 4 \(KP 274\) |
 
-Beschreibung zu Trionimarii Armbrustschützen.
+Beschreibung zu Trionimarii
+
+Armbrustschützen.
 
 ### Trionolarii \[Menschen\]
 
@@ -73,7 +85,9 @@ Beschreibung zu Trionimarii Armbrustschützen.
 | Schatz | B |
 | SG | 4 \(KP 269\) |
 
-Beschreibung zu Trionolarii Langbogenschützen.
+Beschreibung zu Trionolarii
+
+Langbogenschützen.
 
 ### Trionitirii \[Menschen\]
 
@@ -88,7 +102,9 @@ Beschreibung zu Trionolarii Langbogenschützen.
 | Schatz | E |
 | SG | 8 \(KP 539\) |
 
-Beschreibung zu Trionitirii Ritter.
+Beschreibung zu Trionitirii
+
+Ritter.
 
 ### Trionirittirii \[Menschen\]
 
@@ -104,7 +120,9 @@ Beschreibung zu Trionitirii Ritter.
 | Besonderes | Reiten 4, Schlachtross |
 | SG | 10 \(KP 699\) |
 
-Beschreibung zu Trionirittirii Berittene Ritter.
+Beschreibung zu Trionirittirii
+
+Berittene Ritter.
 
 ### Trionilaria \[Menschen\]
 
@@ -119,7 +137,9 @@ Beschreibung zu Trionirittirii Berittene Ritter.
 | Schatz | A |
 | SG | 4 \(KP 261\) |
 
-Beschreibung zu Trionilaria Speerkrieger, welche nötigenfalls auch mit dem Schwert kämpfen.
+Beschreibung zu Trionilaria
+
+Speerkrieger, welche nötigenfalls auch mit dem Schwert kämpfen.
 
 ### Trioniturii \[Menschen\]
 
@@ -134,7 +154,9 @@ Beschreibung zu Trionilaria Speerkrieger, welche nötigenfalls auch mit dem Schw
 | Schatz | D |
 | SG | 7 \(KP 445\) |
 
-Beschreibung zu Trioniturii Nahkämpfer, welche vor dem aufeinandertreffen mit dem Feind ihre Wurfspeere werfen.
+Beschreibung zu Trioniturii
+
+Nahkämpfer, welche vor dem aufeinandertreffen mit dem Feind ihre Wurfspeere werfen.
 
 ### Izmawa \[Menschen\]
 
@@ -150,7 +172,9 @@ Beschreibung zu Trioniturii Nahkämpfer, welche vor dem aufeinandertreffen mit d
 | Besonderes | Reiten 10, Schlachtross |
 | SG | 10 \(KP 770 \) |
 
-Beschreibung zu Izmawa Sie sind berittene Wachen Izma‘s dem ll.
+Beschreibung zu Izmawa
+
+Sie sind berittene Wachen Izma‘s dem ll.
 
 ### Izmawa ll \[Menschen\]
 
@@ -166,7 +190,9 @@ Beschreibung zu Izmawa Sie sind berittene Wachen Izma‘s dem ll.
 | Besonderes | Reiten 12, Schlachtross |
 | SG | 8 \(KP 515\) |
 
-Beschreibung zu Izmawa ll Sie sind berittene Wachen Izma‘s dem ll.
+Beschreibung zu Izmawa ll
+
+Sie sind berittene Wachen Izma‘s dem ll.
 
 ### Trionz \[Zwerge\]
 
@@ -181,7 +207,9 @@ Beschreibung zu Izmawa ll Sie sind berittene Wachen Izma‘s dem ll.
 | Schatz | C |
 | SG | 3 \(KP 236 \) |
 
-Beschreibung zu Trionz Nahkämpfer.
+Beschreibung zu Trionz
+
+Nahkämpfer.
 
 ### Trionzirii \[Zwerge\]
 
@@ -196,7 +224,9 @@ Beschreibung zu Trionz Nahkämpfer.
 | Schatz | D |
 | SG | 3 \(KP 230\) |
 
-Beschreibung zu Trionzirii Nahkämpfer.
+Beschreibung zu Trionzirii
+
+Nahkämpfer.
 
 ### Trionoserii \[Halblinge\]
 
@@ -211,7 +241,9 @@ Beschreibung zu Trionzirii Nahkämpfer.
 | Schatz | A |
 | SG | 3 \(KP 210\) |
 
-Beschreibung zu Trionoserii Klein und schnell. Gut für Hinterhalte.
+Beschreibung zu Trionoserii
+
+Klein und schnell. Gut für Hinterhalte.
 
 ### Triongionii \[Gnome\]
 
@@ -226,4 +258,6 @@ Beschreibung zu Trionoserii Klein und schnell. Gut für Hinterhalte.
 | Schatz | C |
 | SG | 2 \(KP 175\) |
 
-Beschreibung: Klein und sehr schnell. Perfekt für Hinterhalte.
+Beschreibung zu Triongionii
+
+Klein und sehr schnell. Perfekt für Hinterhalte.
