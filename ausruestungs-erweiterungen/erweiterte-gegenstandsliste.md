@@ -130,6 +130,7 @@
 | Schatzkarte | 0,2 | ist meist nicht zu kaufen | selten - extrem selten \(kommt immer drauf an\) | findet man meist in Piratenschiffen oder an ähnlichen Orten, sehr selten aber auch auf dem Schwarzmarkt etc. |  |
 | Schaumpfeife | 0,4 | 6 TT | mittel - selten | eine Schaumpfeife, zum Rauchen |  |
 | Schlafsack | 1,5 | 4 TT | mittel | wärmt nachts |  |
+| Schleifstein | 30 | 4 GF | eher selten | zum Schärfen von Waffen |
 | Signalhorn | 0,4 | 6 TT | selten | ein Signalhorn |  |
 | Spange \(aus Eisen\) | 0,2 | 8 MU | eher häufig | eine Spange, zum in die Haare stecken |  |
 | Spange \(aus Knochen\) | 0,2 | 1 KL | mittel | eine Spange, zum in die Haare stecken |  |
