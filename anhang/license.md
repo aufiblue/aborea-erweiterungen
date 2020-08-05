@@ -20,5 +20,5 @@ Mehr über die Bedingungen dieser Lizenz steht hier: [creativecommons.org/licens
 
 ### Genutzte Materialien Dritter
 
-Das Foto der Titelseitedes erstellten PDFs ist von [Tim Rebkavets](https://unsplash.com/@timreb9?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/s/photos/eltz-castle,-wierschem,-germany?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Das Foto der Titelseite der erstellten PDFs ist von [Tim Rebkavets](https://unsplash.com/@timreb9?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/s/photos/eltz-castle,-wierschem,-germany?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
