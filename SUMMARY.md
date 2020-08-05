@@ -73,6 +73,11 @@
 * [Magische Gegenstände](ausruestungs-erweiterungen/magische-gegenstaende.md)
 * [Belagerungs- und Kriegsmaschinen](ausruestungs-erweiterungen/belagerungs-und-kriegsmaschinen.md)
 
+## Veranstaltungen Aborea
+
+* [Bogenschützen Wettbewerb](veranstaltungen-aborea/bogenschuetzen-wettschießen-leet.md)
+* [Rittertunier](veranstaltungen-aborea/ritterturnier-burg-mailara.md)
+
 ## Anderes
 
 * [Zustände](anderes/zustaende.md)
