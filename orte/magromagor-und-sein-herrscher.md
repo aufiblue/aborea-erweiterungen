@@ -51,4 +51,4 @@ Niemand weiß, weshalb diese Person oder diese Personen dies tun, denn sie ziehe
 
 ### Der Plan der Bande
 
-Falls die „Rote Bande" es schaffen sollte Magromagor zu übernehmen (siehe unter „Neue Völker: Rotlinge") würde sie tatsächlich mit dem Scheich Magromagor regieren. Sie würden sich um die Wirtschaft und die Menschen kümmern. Sie würden Kriminelle bekämpfen, wie sie es auch jetzt schon tun, aber dies alles nun mal mit dem Scheich.
+Falls die „Rote Bande" es schaffen sollte Magromagor zu übernehmen (siehe unter „[Rotlinge](../neue-voelker/rotlinge.md") würde sie tatsächlich mit dem Scheich Magromagor regieren. Sie würden sich um die Wirtschaft und die Menschen kümmern. Sie würden Kriminelle bekämpfen, wie sie es auch jetzt schon tun, aber dies alles nun mal mit dem Scheich.
