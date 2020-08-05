@@ -6,7 +6,7 @@
 
 | Gegenstand | Kg | Preis | Häufigkeit | Funktion |  |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Amboss | 60 | 100 GF | mittel - selten | zum bearbeiten von Metall |  |
+| Amboss | 60 | 100 GF | mittel - selten | zum Bearbeiten von Metall |  |
 | Angel \(mit Zubehör\) | 1 | 2 TT | mittel | zum Angeln |  |
 | Äpfel | 0,1 | 1 MU | häufig - mittel | 3 Äpfel zum Essen |  |
 | Atlas Palea’s | 4 | 24 GF | selten | Atlas der bekannten Welt |  |
@@ -26,8 +26,8 @@
 | Dschunke | - | 120 GF | selten | Bis zu 6 Personen |  |
 | Eier | 0,2 | 8 MU | häufig - selten | 4 Eier |  |
 | Eimer | 0,5 | 4 KL | häufig | Eimer aus Holz |  |
-| Farbstoff | je 0,2 | je nach Farbe - schwarz 1 TT, dunkelblau 2 TT, hellblau 2 TT, dunkelrot 4 TT, hellrot 4 TT, rosa 4 TT, pink 4 TT, lila 4 TT, gelb 3 TT, weiß 2 TT, dunkelgrau 1 TT, hellgrau 1 TT, türkis 6 TT, beige 1 GF, dunkelgrün 4 TT, hellgrün 4 TT, orange 5 TT, dunkelbraun 4 TT, hellbraun 4 TT, golden 8 GF, silbern 6 GF, kupferfarben 4 GF | je nach Farbe unterschiedlich | nicht wasserfest, zum färben eines mittelgroßen Gegenstandes |  |
-| Farbstoff | je 0,2 | je nach Farbe: schwarz 3 TT, dunkelblau 6 TT, hellblau 6 TT, dunkelrot 12 TT, hellrot 12 TT, rosa 12 TT, pink 12 TT, lila 12 TT, gelb 9 TT, weiß 6 TT, dunkelgrau 3 TT, hellgrau 3 TT, türkis 18 TT, beige 3 GF, dunkelgrün 12 TT, hellgrün 12 TT, orange 15 TT, dunkelbraun 12 TT, hellbraun 12 TT, golden 24 GF, silbern 18 GF, kupferfarben 12 GF | je nach Farbe unterschiedlich | wasserfest, zum färben eines mittelgroßen Gegenstandes |  |
+| Farbstoff | je 0,2 | je nach Farbe - schwarz 1 TT, dunkelblau 2 TT, hellblau 2 TT, dunkelrot 4 TT, hellrot 4 TT, rosa 4 TT, pink 4 TT, lila 4 TT, gelb 3 TT, weiß 2 TT, dunkelgrau 1 TT, hellgrau 1 TT, türkis 6 TT, beige 1 GF, dunkelgrün 4 TT, hellgrün 4 TT, orange 5 TT, dunkelbraun 4 TT, hellbraun 4 TT, golden 8 GF, silbern 6 GF, kupferfarben 4 GF | je nach Farbe unterschiedlich | nicht wasserfest, zum Färben eines mittelgroßen Gegenstandes |  |
+| Farbstoff | je 0,2 | je nach Farbe: schwarz 3 TT, dunkelblau 6 TT, hellblau 6 TT, dunkelrot 12 TT, hellrot 12 TT, rosa 12 TT, pink 12 TT, lila 12 TT, gelb 9 TT, weiß 6 TT, dunkelgrau 3 TT, hellgrau 3 TT, türkis 18 TT, beige 3 GF, dunkelgrün 12 TT, hellgrün 12 TT, orange 15 TT, dunkelbraun 12 TT, hellbraun 12 TT, golden 24 GF, silbern 18 GF, kupferfarben 12 GF | je nach Farbe unterschiedlich | wasserfest, zum Färben eines mittelgroßen Gegenstandes |  |
 | Fass | 4 | 1 TT | häufig - mittel | Fassungsvermögen 50 kg |  |
 | Federkiel | 0,1 | 1 KL | häufig - mittel | ein Federkiel |  |
 | Fellstiefel | 1,5 | 4 TT | häufig - selten | Stiefel aus Fell, halten warm |  |
@@ -35,8 +35,8 @@
 | Fisch \(gesalzen\) | 0,5 | 2 TT | mittel - selten | ein gesalzener Fisch |  |
 | Flagge | 4 | 10 GF | mittel - selten | einfache Flagge mit bestimmten Zeichen drauf |  |
 | Fleisch \(gesalzen\) | 0,5 | 3 TT | mittel - selten | ein Stück gesalzenes Fleisch |  |
-| Flöte \(schlecht\) | 0,5 | 6 GF | selten | eine, schlecht gearbeitete, Flöte |  |
-| Flöte \(gut\) | 0,5 | 12 GF | selten | eine ,gut gearbeitete, Flöte |  |
+| Flöte \(schlecht\) | 0,5 | 6 GF | selten | eine schlecht gearbeitete Flöte |  |
+| Flöte \(gut\) | 0,5 | 12 GF | selten | eine gut gearbeitete Flöte |  |
 | Gift „Krötenstern” | 0,3 | 20 GF | sehr selten | bei Berührung 2W6 Schaden, beim Einatmen für 1W10 Minuten bewusstlos, Gift Rang 3 |  |
 | Giftpfeil | 0,1 | 1 TT | sehr selten | in Gift getränkter Pfeil \(verursacht pro Stunde -3 TP, 5 Stunden lang, Gift Rang 3 |  |
 | Globus Paleas | 5 | 50 GF | extrem selten | Globus des Kontinents Palea |  |
@@ -60,31 +60,31 @@
 | Kette \(Muscheln\) | 0,2 | 2 KL | mittel - selten | eine einfache Muschelkette |  |
 | Kette \(Perlen\) | 0,2 | 2 GF | selten | eine einfache Perlenkette |  |
 | Kissen | 0,4 | 4 KL | häufig - mittel | ein einfaches Kissen |  |
-| Kissen \(aus Seide\) | 0,4 | 2 TT | selten | ein kissen |  |
-| Kissen \(aus Seide, sehr Edel\) | 0,4 | 5 GF | sehr selten | sehr weiches und v.a. edles Kissen aus Seide |  |
-| Knopf \(aus Holz, schlecht\) | - | 4 KL | mittel - selten | ein einfacher, schlecht gearbeiteter, Knopf aus Holz |  |
-| Knopf \(aus Holz, gut\) | - | 2 TT | selten | ein ,gut gearbeiteter, Knopf aus Holz |  |
-| Knopf \(aus Messing, schlecht\) | - | 2 KL | mittel - selten | ein einfacher, schlecht gearbeiteter, Knopf aus Messing |  |
-| Knopf \(aus Messing, gut\) | - | 1 TT | selten | ein, gut gearbeiteter, Knopf aus Messing |  |
-| Kochtopf \(klein\) | 2 | 5 KL | häufig | ein einfacher, kleiner, Kochtopf |  |
-| Kochtopf \(groß\) | 4 | 2 TT | mittel | ein einfacher, großer, Kochtopf |  |
+| Kissen \(aus Seide\) | 0,4 | 2 TT | selten | ein Kissen |  |
+| Kissen \(aus Seide, sehr Edel\) | 0,4 | 5 GF | sehr selten | ein sehr weiches und v.a. edles Kissen aus Seide |  |
+| Knopf \(aus Holz, schlecht\) | - | 4 KL | mittel - selten | ein einfacher, schlecht gearbeiteter Knopf aus Holz |  |
+| Knopf \(aus Holz, gut\) | - | 2 TT | selten | ein gut gearbeiteter Knopf aus Holz |  |
+| Knopf \(aus Messing, schlecht\) | - | 2 KL | mittel - selten | ein einfacher, schlecht gearbeiteter Knopf aus Messing |  |
+| Knopf \(aus Messing, gut\) | - | 1 TT | selten | ein gut gearbeiteter Knopf aus Messing |  |
+| Kochtopf \(klein\) | 2 | 5 KL | häufig | ein einfacher, kleiner Kochtopf |  |
+| Kochtopf \(groß\) | 4 | 2 TT | mittel | ein einfacher, großer Kochtopf |  |
 | Kokosnuss | 2,5 | 3 GF | selten | eine Kokosnuss |  |
 | Kompass | 1 | 14 GF | selten | ein Kompass |  |
 | Korb | 1 | 4 MU | häufig - mittel | Fassungsvermögen 15 Kg |  |
 | Kostüm \(Geist\) | 1,5 | 15 TT | selten | ein Geisterkostüm, gibt auf bestimmte List- oder Einflussnahme-Manöver einen Bonus, welchen der Spielleiter passend zur jeweiligen Situation bestimmt |  |
 | Kräutersuppe | 0,2 | 3 MU | häufig | einfache Kräutersuppe, 1 Mahlzeit |  |
-| Krug \(Tonkrug\) | 1 | 6 TT | häufig | Fassungsvermögen 6 L |  |
-| Krug \(Zinnkrug\) | 1,5 | 10 TT | häufig - mittel | Fassungsvermögen 6 L |  |
+| Krug \(Tonkrug\) | 1 | 6 TT | häufig | Fassungsvermögen 6 l |  |
+| Krug \(Zinnkrug\) | 1,5 | 10 TT | häufig - mittel | Fassungsvermögen 6 l |  |
 | Kuchen | 0,5 | 1 TT | mittel | 2 Mahlzeiten |  |
 | Kugel \(aus Silber\) | 2 | 1 GF | selten | Silberkugel |  |
 | „Lachende” Suppe | 0,2 | 4 TT | selten | 1 | kann abhängig machen |
 | Laute \(schlecht\) | 2 | 5 TT | mittel | eine Laute |  |
 | Laute \(mittel\) | 2 | 1 GF | selten | eine Laute |  |
 | Laute \(gut\) | 2 | 2 GF | selten | eine Laute |  |
-| Leine \(für ein Tier\) | 0,2 pro M | pro M 2 KL | häufig | super zum anbinden von Tieren, Müll beim verwenden beim klettern etc. |  |
-| Leinöl | 0,5 | 2 TT | häufig - sehr selten | 1 L Leinöl |  |
-| Leiter | 4 | 28 TT | mittel - selten | eine Leiter zum raufklettern |  |
-| Liebestrank | 0,3 | 500 GF | extrem selten | wer den Trank trinkt und wem gleichzeitig ein Bild oder ähnliches einer bestimmten Person gezeigt wird, verliebt sich in diese Person und tut alles für sie, die Wirkung dieses Trankes zu heilen ist unfassbar schwer \(so gut wie unmöglich\) |  |
+| Leine \(für ein Tier\) | 0,2 pro M | pro M 2 KL | häufig | super zum Anbinden von Tieren, nicht brauchbar beim Verwenden, beim Klettern etc. |  |
+| Leinöl | 0,5 | 2 TT | häufig - sehr selten | 1 l Leinöl |  |
+| Leiter | 4 | 28 TT | mittel - selten | eine Leiter zum Raufklettern |  |
+| Liebestrank | 0,3 | 500 GF | extrem selten | wer den Trank trinkt und wem gleichzeitig ein Bild oder ähnliches einer bestimmten Person gezeigt wird, verliebt sich in diese Person und tut alles für sie. Die Wirkung dieses Trankes zu heilen ist unfassbar schwer \(so gut wie unmöglich\) |  |
 | Löffel \(aus Holz, schlecht\) | 0,1 | 2 MU | häufig | ein Holzlöffel |  |
 | Löffel \(aus Holz, mittel\) | 0,1 | 5 KL | mittel - selten | ein Holzlöffel |  |
 | Löffel \(aus Holz, gut\) | 0,1 | 6 TT | selten - sehr selten | ein Holzlöffel |  |
@@ -97,14 +97,14 @@
 | Mahlzeit \(aus den Ebenen, sehr lecker\) | 0,2 | 4 TT | mittel | 1 Mahlzeit, sehr lecker |  |
 | Mahlzeit \(außergewöhnlich & zwergisch\) | 0,2 | 198 KL & 2 MU | äußerst selten | gibt Menschen bei einem Würfelwurf von mind. 6 mit einem W10 für 5 Tage einen Bonus von +1 auf alle Manöver, Zwergen gibt diese Mahlzeit so oder so für ganze 10 Tage einen Bonus von +1 auf alle Manöver |  |
 | Messer | 0,5 | 2 KL | häufig | einfaches Messer zum Essen, Werte: Ini -3, Schaden +0 |  |
-| Milch von dem Schaf | 0,5 | 3 MU | häufig | 1 L einfache Schaf-Milch |  |
-| Milch von der Kuh | 0,5 | 2 MU | häufig | 1 L einfache Kuh-Milch |  |
-| Milch von der Ziege | 0,5 | 3 MU | häufig | 1 L einfache Ziegen-Milch |  |
+| Milch von dem Schaf | 0,5 | 3 MU | häufig | 1 l einfache Schaf-Milch |  |
+| Milch von der Kuh | 0,5 | 2 MU | häufig | 1 l einfache Kuh-Milch |  |
+| Milch von der Ziege | 0,5 | 3 MU | häufig | 1 l einfache Ziegen-Milch |  |
 | Magierrobe | 2 | 24 GF | selten | gibt Zauberern Bonus von +10 auf MP |  |
 | Maiskolben | 0,5 | 2 TT | mittel - selten | 5 Maiskolben |  |
 | Muschel \(Messing-\) | 0,3 | 2 TT | mittel | Messingmuschel |  |
 | Nägel | 0,5 | 10 KL | mittel | 10 gute Nägel |  |
-| Nussöl | 0,5 | 5 TT | häufig - selten | 1 L Nussöl |  |
+| Nussöl | 0,5 | 5 TT | häufig - selten | 1 l Nussöl |  |
 | Packsattel | 10 | 20 TT | mittel | für ein Tier, kann hiermit die angegebenen Kg an Gegenständen tragen |  |
 | Perlenkette \(aus Holz\) | 0,2 | 6 KL | häufig - mittel | einfache Perlenkette aus Holz |  |
 | Pfeffer | 0,5 | 4 TT | mittel - selten | 500 g Pfeffer |  |
@@ -133,7 +133,7 @@
 | Signalhorn | 0,4 | 6 TT | selten | ein Signalhorn |  |
 | Spange \(aus Eisen\) | 0,2 | 8 MU | eher häufig | eine Spange, zum in die Haare stecken |  |
 | Spange \(aus Knochen\) | 0,2 | 1 KL | mittel | eine Spange, zum in die Haare stecken |  |
-| Starkbier \(zwergisch\) | 0,5 | 5 MU | mittel | 1 L zwergisches Starkbier, es ist so stark, dass es, wenn Menschen etc., m es trinken, Ihnen für 1 Stunde einen Malus von -1 auf alle Manöver gibt, bei Zwergen bewirkt es das genaue Gegenteil: sie erhalten für eine Stunde einen Bonus von +1 auf alle Manöver und sie fühlen sich so richtig wohl |  |
+| Starkbier \(zwergisch\) | 0,5 | 5 MU | mittel | 1 l zwergisches Starkbier. Es ist so stark, dass, wenn Menschen etc. es trinken, es ihnen für 1 Stunde einen Malus von -1 auf alle Manöver gibt, bei Zwergen bewirkt es das genaue Gegenteil: sie erhalten für eine Stunde einen Bonus von +1 auf alle Manöver und sie fühlen sich so richtig wohl |  |
 | Statuette \(aus Holz, schlecht\) | 3 | 2 MU | häufig - selten | eine Statuette |  |
 | Statuette \(aus Holz, gut\) | 3 | 4 TT | häufig - selten | eine Statuette |  |
 | Statuette \(aus Marmor\) | 5 | 10 TT | mittel | eine Statuette |  |
@@ -156,11 +156,11 @@
 | Truhe | 5 | 24 TT | mittel - selten | Truhe \(MS 7\) mit Schlüssel |  |
 | Trüffel | 0,05 | 10 GF | selten - extrem selten | Essen... aber teuer |  |
 | Wein \(aus den Ebenen\) | 1 | 5 TT | mittel - selten | Flasche gut schmeckender Wein aus den Ebenen |  |
-| „Weinende Suppe” | 0,2 | 4 TT | selten | 1 Anwendung, erinnert sie Person die sie trinkt an schlimme Erfahrungen die sie gemacht hat \(vielleicht hat sie jmd. verloren oder ihr oder einer anderen sehr gemochten oder geliebten Person ist etwas schreckliches passiert?\), und zwar so sehr, dass sie anfangen muss, zu weinen |  |
+| „Weinende Suppe” | 0,2 | 4 TT | selten | 1 Anwendung, erinnert die Person, die sie trinkt, an schlimme Erfahrungen, die sie gemacht hat \(vielleicht hat sie jmd. verloren oder ihr oder einer anderen sehr gemochten oder geliebten Person ist etwas Schreckliches passiert?\), und zwar so sehr, dass sie anfangen muss, zu weinen |  |
 | Würfel \(aus Holz\) | 0,1 | 7 MU | häufig - selten | ein Holzwürfel \(ist nicht sehr genau\) |  |
 | Würfel \(aus Holz, gezinkt\) | 0,1 | 4 TT | eher selten - selten | gibt bei bestimmten Würfelmanövern und bei Würfelspielen einen Bonus von +1 |  |
 | Würfel \(aus Knochen\) | 0,4 | 2 TT | häufig - äußerst selten | ein Knochenwürfel |  |
 | Zauberresistenztrank | 0,3 | 200 GF | extrem selten | für eine Stunde lang komplett resistent gegen Zauber jeglicher Art |  |
-| Zielscheibe | 6 | 8 GF | mittel - sehr selten | einfache Zielscheibe zum hinstellen oder aufhängen und drauf schießen |  |
+| Zielscheibe | 6 | 8 GF | mittel - sehr selten | einfache Zielscheibe zum Hinstellen oder Aufhängen und drauf Schießen |  |
 | Zitrone | 0,1 | 4 MU | selten - sehr selten | eine Zitrone |  |
 | Zipfelmütze | 0,5 | 4 TT | mittel - selten | einfache Zipfelmütze, wie Zwerge sie tragen |  |

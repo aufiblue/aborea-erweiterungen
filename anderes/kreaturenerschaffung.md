@@ -1,5 +1,7 @@
 ## Kreaturenerschaffung
 
+Das folgende sind Eigenschaften, die man an eine Kreatur bei der Erschaffung vergeben kann.
+
 ### Brennend
 
 | Feuerschaden pro Runde bei Berührung | KP |
