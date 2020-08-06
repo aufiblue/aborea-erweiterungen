@@ -14,6 +14,7 @@
 | Peitsche | Wuchtwaffe |  | -1 | ST/GE | 1 | -1 | 3 TT | mittel |  |  |  |
 | Schaufel | Wuchtwaffe |  | -2/-1 \(bei Zweihand\) | ST/GE | 2 | +0 | 10 TT | mittel |  |  |  |
 | Schmiedehammer | Wuchtwaffe | 7 | +1 | ST | 7 | -2 | 4 GF | mittel - selten |  |  |  |
+| Sense | Stangenwaffe | | +1 | ST/GE | 4 | -1 | 18 TT | eher selten | |
 | Silberdolch | Kurze Klingen-/Wurf-/Stichwaffe |  | -2 | ST/GE | 0,5 | +2 | 12 TT | selten |  |  |  |
 | Spitzhacke | Wuchtwaffe | 4 | -1/+0 \(bei Zweihand\) | ST | 3,5 | -2/-1 \(bei Zweihand\) | 8 TT | mittel |  |  |  |
 | Stock | Stangenwaffe |  | -2 | ST/GE | 0,5 | +1/+2 \(bei Zweihand\) | 0 | häufig |  |  |  |

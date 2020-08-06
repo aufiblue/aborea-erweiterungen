@@ -39,6 +39,10 @@
 
 * [Magromagor und sein Herrscher](orte/magromagor-und-sein-herrscher.md)
 
+## Neue Gilden und Orden
+
+* [Die Aufständler-Gilde](neue-gilden-und-orden/die-aufstaendler-gilde.md)
+
 ## NSC's und Monster
 
 * [Kobolde](nscs-und-monster/kobold.md)
