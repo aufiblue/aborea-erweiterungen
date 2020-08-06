@@ -168,3 +168,33 @@ Jede 7. Runde:
 | +1 dazu | +20 dazu |
 
 Das geht immer so weiter.
+
+### Stromschlag
+
+Die Kreatur kann alle 5 Minuten einmal einen sehr heftigen Stromschlag austeilen, der 8 TP Schaden macht, wenn die gegnerische Kreatur einen Widerstandswurf gegen MS 10 erleichtert um den KO-Bonus nicht schafft und die Kreatur den Angriff aner hinbekommt.
+
+KP +60
+
+### Rüstungsknacker
+
+Rüstung spielt für die Kreatur keine Rolle. Sie ignoriert jegliche Art von Rüstung.
+
+KP +100
+
+### Hitze
+
+Von der Kreatur geht eine solche Hitze aus, dass jede Kreatur die sich in der Nähe befindet alle 2 Minuten einen MS 14 Widerstandswurf erleichtert um den KO-Bonus würfeln muss. Wenn dies misslingt erhält man ganze 6 TP Schaden. Zudem fangen alle sehr leicht entzündlichen Gegenstände in der Nähe der Kreatur Feuer (Pergamente, Kartenspiele etc.).
+
+KP +220
+
+### Lichtaufsauger
+
+Die Kreatur kann im Umkreis von einem Meter alles Licht aufsaugen, sodass andere in dem Umkreis nur noch ein schwarzes Loch sehen.
+
+KP +180
+
+### Taucher
+
+Die Kreatur kann solange tauchen, wie sie will.
+
+KP +80
