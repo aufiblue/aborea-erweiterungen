@@ -10,4 +10,4 @@ Rostige Waffen machen immer einen Schaden weniger als nicht rostige Waffen und r
 
 ### Kaputt gehen
 
-Rostige Waffen gehen bei einem Angriff und einer eins auf dem Würfel kaputt.
+Rostige Waffen gehen bei einem Angriff und einer eins auf dem Würfel kaputt und rostige Rüstungen bringen bei einer eins auf dem Würfel beim Verteidigen bei einem Angriff des Gegners in einem Kampf nichts.
