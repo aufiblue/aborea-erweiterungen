@@ -198,3 +198,21 @@ KP +180
 Die Kreatur kann solange tauchen, wie sie will.
 
 KP +80
+
+### Explosion
+
+Dies kann nur eine Kreatur erhalten, die explosives Gas und Feuer speien kann! Es bewirkt, dass die Kreatur die zuerst das explosive Gas und dann das Feuer speit, eine Explosion auslöst, die allen Wesen in Reichweite einen Schaden von 12 TP zufügt und zudem alle Wesen in Reichweite anzündet. Das Feuer verursacht dann pro Runde weitere 4 TP Schaden, bis es gelöscht wurde.
+
+KP +280
+
+### Widerständig
+
+Die Kreatur erhält auf alle Widerstandswürfe einen Bonus von +3.
+
+KP +20
+
+### Flammenballschleuderer
+
+Die Kreatur kann alle 2 Runden anstatt einer normalen Attacke einen Flammenball auf einen seiner Gegner schleudern, der wenn er trifft 6 TP Schaden macht. Dann erlischt er aber auch sofort wieder.
+
+KP +120
