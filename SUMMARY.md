@@ -79,6 +79,7 @@
 * [Pferderüstungen](ausruestungs-erweiterungen/pferderuestungen.md)
 * [Anderes - Waffen und Rüstungen](ausruestungs-erweiterungen/anderes.md)
 * [Magische Gegenstände](ausruestungs-erweiterungen/magische-gegenstaende.md)
+* [Tränke](ausruestungs-erweiterungen/traenke.md)
 * [Belagerungs- und Kriegsmaschinen](ausruestungs-erweiterungen/belagerungs-und-kriegsmaschinen.md)
 
 ## Veranstaltungen Aborea
