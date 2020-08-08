@@ -39,6 +39,7 @@
 | Floß | 15 | 6 GF | mittel - selten | gut gearbeitetes Floß für 2 Personen |
 | Giftpfeil | 0,1 | 1 TT | sehr selten | in Gift getränkter Pfeil \(verursacht pro Stunde -3 TP, 5 Stunden lang, Gift Rang 3 |  |
 | Globus Paleas | 5 | 50 GF | extrem selten | Globus des Kontinents Palea |  |
+| Gürtel | 0,5 | 4 KL | häufig | einfacher Gürtel |
 | Handwerker | - | pro Kilo des zu bearbeitenden 5 KL + Materialkosten | mittel | Handwerksarbeiten werden für einen verrichtet |  |
 | Handwerkskasten | 5 | 15 TT | mittel | +1 auf Manöver mit Handwerk |  |
 | Heuballen \(klein\) | 0,4 | 2 MU | eher häufig | etwas Heu |  |
