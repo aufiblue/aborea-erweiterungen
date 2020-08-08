@@ -24,6 +24,10 @@
 * [Humor](neue-fertigkeiten/humor.md)
 * [Zechen](neue-fertigkeiten/zechen.md)
 
+## Neue Spruchlisten
+
+* [Harpyienmagie](neue-spruchlisten/harpyienmagie.md)
+
 ## Bedeutende Personen
 
 * [Der Imperator](bedeutende-personen/der-imperator.md)

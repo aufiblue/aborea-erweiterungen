@@ -1,4 +1,4 @@
-## magische Gegenstände
+## Magische Gegenstände
 
 | Gegenstand | Auswirkungen | Kg | Wert | Häufigkeit |
 | :--- | :--- | :--- | :--- | :--- |

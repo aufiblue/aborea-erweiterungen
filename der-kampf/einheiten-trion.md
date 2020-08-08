@@ -15,7 +15,7 @@ Die Armeen Trions sind zwar sehr vielfältig, bestehen aber trotzdem zu einem gr
 | KB | 5 |
 | Rüstung | 8 \(Halbe Platte+Schild\) |
 | Schatz | B |
-| SG | 3 \(KP 214\) |
+| SG | 3 |
 
 Beschreibung zu Trionarii
 
@@ -32,7 +32,7 @@ Trionarii sind einfache Soldaten.
 | KB | 4 |
 | Rüstung | 6 \(Lederrüstung\) |
 | Schatz | A |
-| SG | 2 \(KP 179\) |
+| SG | 2 |
 
 Beschreibung zu Trioniborii
 
@@ -49,7 +49,7 @@ Trioniborii sind einfache Bogenschützen.
 | KB | 4 |
 | Rüstung | 5 |
 | Schatz | B |
-| SG | 2 \(KP 164\) |
+| SG | 2 |
 
 Beschreibung zu Trionikurii
 
@@ -66,7 +66,7 @@ Trionikurii sind zwar nicht wirklich sehr gut ausgestattet, dafür sind sie aber
 | KB | 7 |
 | Rüstung | 6 \(Lederrüstung\) |
 | Schatz | C |
-| SG | 4 \(KP 274\) |
+| SG | 4 |
 
 Beschreibung zu Trionimarii
 
@@ -83,7 +83,7 @@ Armbrustschützen.
 | KB | 6 |
 | Rüstung | 8 \(Halbe Platte\) |
 | Schatz | B |
-| SG | 4 \(KP 269\) |
+| SG | 4 |
 
 Beschreibung zu Trionolarii
 
@@ -100,7 +100,7 @@ Langbogenschützen.
 | KB | 10 |
 | Rüstung | 11 \(Ritterrüstung+Schild\) |
 | Schatz | E |
-| SG | 8 \(KP 539\) |
+| SG | 8 |
 
 Beschreibung zu Trionitirii
 
@@ -118,7 +118,7 @@ Ritter.
 | Rüstung | 11 \(Ritterrüstung+Schild\) |
 | Schatz | E |
 | Besonderes | Reiten 4, Schlachtross |
-| SG | 10 \(KP 699\) |
+| SG | 10 |
 
 Beschreibung zu Trionirittirii
 
@@ -135,7 +135,7 @@ Berittene Ritter.
 | KB | 4/4 |
 | Rüstung | 6 \(Schild\) |
 | Schatz | A |
-| SG | 4 \(KP 261\) |
+| SG | 4 |
 
 Beschreibung zu Trionilaria
 
@@ -152,7 +152,7 @@ Speerkrieger, welche nötigenfalls auch mit dem Schwert kämpfen.
 | KB | 6/8 |
 | Rüstung | 8 \(Lederrüstung+Turmschild\) |
 | Schatz | D |
-| SG | 7 \(KP 445\) |
+| SG | 7 |
 
 Beschreibung zu Trioniturii
 
@@ -170,7 +170,7 @@ Nahkämpfer, welche vor dem aufeinandertreffen mit dem Feind ihre Wurfspeere wer
 | Rüstung | 12 \(Ritterrüstung+Turmschild\) |
 | Schatz | E |
 | Besonderes | Reiten 10, Schlachtross |
-| SG | 10 \(KP 770 \) |
+| SG | 10 |
 
 Beschreibung zu Izmawa
 
@@ -188,7 +188,7 @@ Sie sind berittene Wachen Izma‘s dem ll.
 | Rüstung | 10 \(Ritterrüstung\) |
 | Schatz | E |
 | Besonderes | Reiten 12, Schlachtross |
-| SG | 8 \(KP 515\) |
+| SG | 8 |
 
 Beschreibung zu Izmawa ll
 
@@ -205,7 +205,7 @@ Sie sind berittene Wachen Izma‘s dem ll.
 | KB | 5 |
 | Rüstung | 8 \(Halbe Platte+Schild\) + 1 \(Größenbonus\) |
 | Schatz | C |
-| SG | 3 \(KP 236 \) |
+| SG | 3 |
 
 Beschreibung zu Trionz
 
@@ -222,7 +222,7 @@ Nahkämpfer.
 | KB | 4 |
 | Rüstung | 8 \(Halbe Platte\) |
 | Schatz | D |
-| SG | 3 \(KP 230\) |
+| SG | 3 |
 
 Beschreibung zu Trionzirii
 
@@ -239,7 +239,7 @@ Nahkämpfer.
 | KB | 6 |
 | Rüstung | 6 \(Lederrüstung\) + 1 \(Größenbonus\) |
 | Schatz | A |
-| SG | 3 \(KP 210\) |
+| SG | 3 |
 
 Beschreibung zu Trionoserii
 
@@ -256,7 +256,7 @@ Klein und schnell. Gut für Hinterhalte.
 | KB | 5 |
 | Rüstung | 5 + 1 \(Größenbonus\) |
 | Schatz | C |
-| SG | 2 \(KP 175\) |
+| SG | 2 |
 
 Beschreibung zu Triongionii
 

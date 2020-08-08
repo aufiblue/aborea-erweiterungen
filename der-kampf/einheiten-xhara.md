@@ -15,7 +15,7 @@ Die Armeen des Imperiums bestehen fast nur aus Sklaven. Sie werden vor allem geg
 | KB | 1 |
 | Rüstung | 5 |
 | Schatz | - |
-| SG | 1 \(KP 65\) |
+| SG | 1 |
 
 Beschreibung zu Nahkämpfer-Sklaven:
 
@@ -32,7 +32,7 @@ Nahkämpfer.
 | KB | 1 |
 | Rüstung | 5 |
 | Schatz | - |
-| SG | 1 \(KP 56\) |
+| SG | 1 |
 
 Beschreibung zu Fernkämpfer-Sklaven:
 
@@ -49,7 +49,7 @@ Fernkämpfer.
 | KB | 5 |
 | Rüstung | 12 \(Ritterrüstung+Turmschild\) |
 | Schatz | C |
-| SG | 5 \(KP 319\) - 7 \(KP 466\) |
+| SG | 5 - 7 |
 
 Beschreibung zu Kriegsgefangenen-Sklaven:
 
@@ -66,7 +66,7 @@ Kriegsgefangene, mit dem Kampfe vertraute, Nahkämpfer.
 | KB | 6 |
 | Rüstung | 6 \(Lederrüstung\) |
 | Schatz | D |
-| SG | 3 \(KP 237\) |
+| SG | 3 |
 
 Beschreibung zu Sklaventreibern:
 
@@ -83,7 +83,7 @@ Sie sind die Sklaventreiber, die oben beschrieben sind.
 | KB | 2 - 8 |
 | Rüstung | 5 - 11 \(Ritterrüstung+Schild\) |
 | Schatz | D - E |
-| SG | 1 \(KP 100\) - 8 \(KP 525\) |
+| SG | 1 - 8 |
 
 Beschreibung zu Kriegern:
 
@@ -101,7 +101,7 @@ Sie sind Krieger des Imperiums und kämpfen freiwillig. Sie plündern oder raube
 | Rüstung | 10 \(schwarze Ritterrüstung\) |
 | Schatz | G |
 | Besonderes | Schwarze Magie 12, Gezielte Sprüche 12, MP 70, Angst SG 12 |
-| SG | 12 \(KP 1110\) |
+| SG | 12 |
 
 Beschreibung zu schwarzen Magiern:
 
@@ -118,7 +118,7 @@ Von ihnen gibt es exakt 15. Sie sind die schwarzen Magier des Imperators und äu
 | KB | 10 |
 | Rüstung | 7 \(von Natur aus\) |
 | Besonderes | Angst SG 15 |
-| SG | 10 \(KP 615\) |
+| SG | 10 |
 
 Beschreibung zu schwarzen Kreaturen:
 

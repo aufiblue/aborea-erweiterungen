@@ -59,11 +59,11 @@ Eine Harpyie erhält so viele Magiepunkte, wie sie Ränge in Magie entwickeln \(
 
 ### Spruchlisten
 
-Harpyien können die Spruchliste „Wilde Magie" erlernen.
+Harpyien können die Spruchliste „Wilde Magie" und „[Harpyienmagie](../neue-spruchlisten/harpyienmagie.md)” erlernen.
 
 ### Initiative
 
-Anfangs -2, steigt jede 2. Stufe um +1
+Anfangs -3, steigt jede 2. Stufe um +1.
 
 ### Fliegend
 
@@ -75,7 +75,7 @@ Wenn eine Harpyie diese Aktion ausführt, kann sie einen Gegner eine Runde lang 
 
 ### Gewicht
 
-Bei einer Harpyie ist das Gewicht oft ein Problem, da sie wegen den Flügeln z.B. keinen Rucksack tragen kann.
+Bei einer Harpyie ist das Gewicht häufig ein Problem, da sie wegen den Flügeln z.B. keinen Rucksack tragen kann.
 
 ### Gegenstände
 

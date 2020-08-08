@@ -31,13 +31,12 @@
 | Fass | 4 | 1 TT | häufig - mittel | Fassungsvermögen 50 kg |  |
 | Federkiel | 0,1 | 1 KL | häufig - mittel | ein Federkiel |  |
 | Fellstiefel | 1,5 | 4 TT | häufig - selten | Stiefel aus Fell, halten warm |  |
-| Feuerresistenztrank | 0,3 | 250 GF | extrem selten | für eine Stunde lang resistent gegen Feuer jeglicher Art |  |
 | Fisch \(gesalzen\) | 0,5 | 2 TT | mittel - selten | ein gesalzener Fisch |  |
 | Flagge | 4 | 10 GF | mittel - selten | einfache Flagge mit bestimmten Zeichen drauf |  |
 | Fleisch \(gesalzen\) | 0,5 | 3 TT | mittel - selten | ein Stück gesalzenes Fleisch |  |
 | Flöte \(schlecht\) | 0,5 | 6 GF | selten | eine schlecht gearbeitete Flöte |  |
 | Flöte \(gut\) | 0,5 | 12 GF | selten | eine gut gearbeitete Flöte |  |
-| Gift „Krötenstern” | 0,3 | 20 GF | sehr selten | bei Berührung 2W6 Schaden, beim Einatmen für 1W10 Minuten bewusstlos, Gift Rang 3 |  |
+| Floß | 15 | 6 GF | mittel - selten | gut gearbeitetes Floß für 2 Personen |
 | Giftpfeil | 0,1 | 1 TT | sehr selten | in Gift getränkter Pfeil \(verursacht pro Stunde -3 TP, 5 Stunden lang, Gift Rang 3 |  |
 | Globus Paleas | 5 | 50 GF | extrem selten | Globus des Kontinents Palea |  |
 | Handwerker | - | pro Kilo des zu bearbeitenden 5 KL + Materialkosten | mittel | Handwerksarbeiten werden für einen verrichtet |  |
@@ -46,6 +45,7 @@
 | Heuballen \(mittel\) | 1 | 4 MU | eher häufig | Heu |  |
 | Heuballen \(groß\) | 2,5 | 1 KL | häufig - mittel | viel Heu |  |
 | Heuballen \(riesig\) | 8 | 1 TT | selten | sehr viel Heu |  |
+| Kaktusfeige | 2 | 80 TT | selten - sehr selten | eine Kaktusfeige, enthält 2 l Wasser, gut aufgehoben |
 | Kamm \(aus Holz\) | 0,5 | 2 TT | mittel | ein Holzkamm |  |
 | Kamm \(aus Knochen\) | 1,5 | 4 TT | mittel - selten | ein Knochenkamm |  |
 | Kannabisöl | 0,5 | 7 TT | mittel - selten | 1 L Kannabisöl |  |
@@ -84,7 +84,6 @@
 | Leine \(für ein Tier\) | 0,2 pro M | pro M 2 KL | häufig | super zum Anbinden von Tieren, nicht brauchbar beim Verwenden, beim Klettern etc. |  |
 | Leinöl | 0,5 | 2 TT | häufig - sehr selten | 1 l Leinöl |  |
 | Leiter | 4 | 28 TT | mittel - selten | eine Leiter zum Raufklettern |  |
-| Liebestrank | 0,3 | 500 GF | extrem selten | wer den Trank trinkt und wem gleichzeitig ein Bild oder ähnliches einer bestimmten Person gezeigt wird, verliebt sich in diese Person und tut alles für sie. Die Wirkung dieses Trankes zu heilen ist unfassbar schwer \(so gut wie unmöglich\) |  |
 | Löffel \(aus Holz, schlecht\) | 0,1 | 2 MU | häufig | ein Holzlöffel |  |
 | Löffel \(aus Holz, mittel\) | 0,1 | 5 KL | mittel - selten | ein Holzlöffel |  |
 | Löffel \(aus Holz, gut\) | 0,1 | 6 TT | selten - sehr selten | ein Holzlöffel |  |
@@ -125,7 +124,8 @@
 | Ring \(aus Gold, gut\) | 0,5 | 5 GF | sehr selten | ein Ring |  |
 | Robe | 2 | 4 GF | mittel | einfache Robe |  |
 | Sack | 1 | 1 KL & 5 MU | häufig | Fassungsvermögen 25 kg |  |
-| Salz | 0,5 | 2 GF & 5 TT | mittel - selten | 500 g Salz |  |
+| Salz | 0,5 | 2 GF & 5 TT | mittel - selten | 500 g Salz |
+| Sandalen | 0,5 | 9 KL | häufig | ein paar Sandalen |
 | Schatulle \(versilbert\) | 0,5 | 6 TT | selten | Platz für kleine Gegenstände mit dem Gewicht von insg. 5 kg |  |
 | Schatzkarte | 0,2 | ist meist nicht zu kaufen | selten - extrem selten \(kommt immer drauf an\) | findet man meist in Piratenschiffen oder an ähnlichen Orten, sehr selten aber auch auf dem Schwarzmarkt etc. |  |
 | Schaumpfeife | 0,4 | 6 TT | mittel - selten | eine Schaumpfeife, zum Rauchen |  |
@@ -161,7 +161,6 @@
 | Würfel \(aus Holz\) | 0,1 | 7 MU | häufig - selten | ein Holzwürfel \(ist nicht sehr genau\) |  |
 | Würfel \(aus Holz, gezinkt\) | 0,1 | 4 TT | eher selten - selten | gibt bei bestimmten Würfelmanövern und bei Würfelspielen einen Bonus von +1 |  |
 | Würfel \(aus Knochen\) | 0,4 | 2 TT | häufig - äußerst selten | ein Knochenwürfel |  |
-| Zauberresistenztrank | 0,3 | 200 GF | extrem selten | für eine Stunde lang komplett resistent gegen Zauber jeglicher Art |  |
 | Zielscheibe | 6 | 8 GF | mittel - sehr selten | einfache Zielscheibe zum Hinstellen oder Aufhängen und drauf Schießen |  |
 | Zitrone | 0,1 | 4 MU | selten - sehr selten | eine Zitrone |  |
 | Zipfelmütze | 0,5 | 4 TT | mittel - selten | einfache Zipfelmütze, wie Zwerge sie tragen |  |

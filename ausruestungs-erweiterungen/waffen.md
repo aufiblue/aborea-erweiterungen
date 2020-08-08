@@ -11,6 +11,7 @@
 | Keule mit Spikes | Wuchtwaffe | 5 | +1 | ST | 3,5 | -1 | 1 TT | mittel |  |  |  |
 | Langschwert \(diamanten\) | Lange Klingenwaffe | 5 | +6 | ST/GE | 4 | +2 | 50.000 GF | extrem selten |  |  |  |
 | Langspieß | Stangenwaffe | 7 | +1 | GE | 8 | -2 | 14 TT | eher selten | 5 m lang, KB -2 | selten |  |
+| Machete | Kurze Klingenwaffe (wie groß ist ne Machete?) | | +0 | ST | 2,5 | -1 | 10 TT | mittel - selten | |
 | Peitsche | Wuchtwaffe |  | -1 | ST/GE | 1 | -1 | 3 TT | mittel |  |  |  |
 | Schaufel | Wuchtwaffe |  | -2/-1 \(bei Zweihand\) | ST/GE | 2 | +0 | 10 TT | mittel |  |  |  |
 | Schmiedehammer | Wuchtwaffe | 7 | +1 | ST | 7 | -2 | 4 GF | mittel - selten |  |  |  |
