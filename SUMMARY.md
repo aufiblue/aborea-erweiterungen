@@ -92,6 +92,7 @@
 * [Zustände](anderes/zustaende.md)
 * [Wetterzustände](anderes/wetterzustaende.md)
 * [Vertrauen](anderes/vertrauen.md)
+* [Widerstandspunkte etc](anderes/widerstandspunkte-etc.md)
 * [Seltenheiten](anderes/seltenheiten.md)
 * [Rostiges](anderes/rostiges.md)
 * [Fallschaden](anderes/fallschaden.md)
