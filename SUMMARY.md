@@ -95,6 +95,7 @@
 * [Widerstandspunkte etc](anderes/widerstandspunkte-etc.md)
 * [Seltenheiten](anderes/seltenheiten.md)
 * [Rostiges](anderes/rostiges.md)
+* [Craftingdauer](anderes/craftingdauer.md)
 * [Fallschaden](anderes/fallschaden.md)
 * [Hell Gefärbtes - Nachteil](anderes/helle-farbe.md)
 * [Dunkel Gefärbtes - Vorteil](anderes/dunkle-farbe.md)
