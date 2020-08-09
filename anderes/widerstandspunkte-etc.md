@@ -45,6 +45,7 @@ Ein Angstpunkt ist ein Malus bzw. Bonus von - oder +1 auf kommende Angstwürfe.
 Bei dem Malus oder Bonus von Angstpunkten wird bei Würfen immer abgerundet.
 
 #### Gelungene Würfe
+
 | MS | Angstpunkte |
 | - | - |
 | 8 | +0,1 |
@@ -55,6 +56,7 @@ Bei dem Malus oder Bonus von Angstpunkten wird bei Würfen immer abgerundet.
 | je +1 | je +0,1 |
 
 #### Misslungene Würfe
+
 | MS | Angstpunkte |
 | - | - |
 | 8 | -0,1 |
