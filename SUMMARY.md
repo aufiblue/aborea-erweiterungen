@@ -62,6 +62,7 @@
 
 ## Der Kampf
 
+* [Alternatives Kampfsystem](der-kampf/alternatives-kampfsystem.md)
 * [Kampfsystem für große Gruppen](der-kampf/kampfsystem-grosse-gruppen.md)
 * [Einheiten Trions](der-kampf/einheiten-trion.md)
 * [Einheiten Xharas](der-kampf/einheiten-xhara.md)

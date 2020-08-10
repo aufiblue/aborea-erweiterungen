@@ -67,6 +67,7 @@
 | Knopf \(aus Holz, gut\) | - | 2 TT | selten | ein gut gearbeiteter Knopf aus Holz |  |
 | Knopf \(aus Messing, schlecht\) | - | 2 KL | mittel - selten | ein einfacher, schlecht gearbeiteter Knopf aus Messing |  |
 | Knopf \(aus Messing, gut\) | - | 1 TT | selten | ein gut gearbeiteter Knopf aus Messing |  |
+| Köcher (hölzern) | 3 | 10 KL | selten | gut gearbeiteter Köcher aus Holz |
 | Kochtopf \(klein\) | 2 | 5 KL | häufig | ein einfacher, kleiner Kochtopf |  |
 | Kochtopf \(groß\) | 4 | 2 TT | mittel | ein einfacher, großer Kochtopf |  |
 | Kokosnuss | 2,5 | 3 GF | selten | eine Kokosnuss |  |
