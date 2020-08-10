@@ -6,6 +6,8 @@ Beim Craften von Sachen spielen im Rollenspiel zwei Faktoren eine große Rolle, 
 
 ### Arbeitsdauer
 
+Die Arbeitsdauer wird durch den SG des zu Bauendem bestimmt.
+
 | SG | Arbeitsdauer |
 | - | - |
 | Routine | 10 Minuten |
