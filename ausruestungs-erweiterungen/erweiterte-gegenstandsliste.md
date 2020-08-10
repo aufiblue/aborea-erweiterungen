@@ -157,6 +157,7 @@
 | Trommel \(gut\) | 4 | 3 GF | selten - sehr selten | eine Trommel |  |
 | Truhe | 5 | 24 TT | mittel - selten | Truhe \(MS 7\) mit Schlüssel |  |
 | Trüffel | 0,05 | 10 GF | selten - extrem selten | Essen... aber teuer |  |
+| Übersetzer | - | 1 TT + 5 KL pro Seite | selten | jemand, der einem einen Text übersetzt |
 | Wein \(aus den Ebenen\) | 1 | 5 TT | mittel - selten | Flasche gut schmeckender Wein aus den Ebenen |  |
 | „Weinende Suppe” | 0,2 | 4 TT | selten | 1 Anwendung, erinnert die Person, die sie trinkt, an schlimme Erfahrungen, die sie gemacht hat \(vielleicht hat sie jmd. verloren oder ihr oder einer anderen sehr gemochten oder geliebten Person ist etwas Schreckliches passiert?\), und zwar so sehr, dass sie anfangen muss, zu weinen |  |
 | Würfel \(aus Holz\) | 0,1 | 7 MU | häufig - selten | ein Holzwürfel \(ist nicht sehr genau\) |  |
