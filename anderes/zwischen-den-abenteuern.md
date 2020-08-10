@@ -1,4 +1,4 @@
-## Tabelle zu evtl Begegnungen etc
+## Zwischen den Abenteuern
 
 Die folgende Tabelle ist für zwischen den Abenteuern. Hier sind ein paar Beispiele dafür, was zwischen den Abenteuern oder in den Abenteuern in der Welt von Aborea so passieren könnte.
 

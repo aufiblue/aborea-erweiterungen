@@ -103,6 +103,7 @@
 * [Kreaturenerschaffung](anderes/kreaturenerschaffung.md)
 * [Erzadern im Casnewydd und Ghalgrat](anderes/erzadern-im-casnewydd-und-ghalgrat.md)
 * [Die Wirtschaft](anderes/wirtschaft.md)
+* [Zwischen den Abenteuern](anderes/zwischen-den-abenteuern.md)
 
 ## Leichtere Variante
 
