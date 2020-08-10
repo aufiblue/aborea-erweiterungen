@@ -100,6 +100,7 @@
 * [Hell Gefärbtes - Nachteil](anderes/helle-farbe.md)
 * [Dunkel Gefärbtes - Vorteil](anderes/dunkle-farbe.md)
 * [Kleines Wesen - Kleines Reittier](anderes/kleines-wesen-kleines-reittier.md)
+* [Spezielle Völker - Spezielle Waffen](anderes/spezielle-voelker-spezielle-waffen.md)
 * [Kreaturenerschaffung](anderes/kreaturenerschaffung.md)
 * [Erzadern im Casnewydd und Ghalgrat](anderes/erzadern-im-casnewydd-und-ghalgrat.md)
 * [Die Wirtschaft](anderes/wirtschaft.md)
