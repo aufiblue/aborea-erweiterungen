@@ -30,6 +30,7 @@
 | Armbrust zum Kämpfen | Armbrust | 6 | +2 | GE | 10 | +0 | 10 GF | selten |  |
 | Dart-Pfeile\* | Wurfwaffe/Stichwaffe |  | +0 \(werfen\), +1 \(so\) | ST /GE | 0,6 | +4 \(werfen\), +1 \(so\) | 5 TT | selten |  |
 | Harpune\* | Wuchtwaffe | 4 | -1 | GE | 3,5 | +1 | 16 TT | mittel - selten |  |
+| Wurfaxt* | Äxte/Wurfwaffe | | -1 | GE | 1 | +1 | 3 TT | häufig - mittel | |
 | Wurfmesser\* | Kurze Klingen-/Wurf-/Stichwaffe |  | -2 | ST/GE | 0,5 | +2 | 7 TT | häufig - mittel |  |
 | Wurfspeer \(römisch\)\* | Stangen-/Wurfwaffe | 4 | +0 \(so\), +3 \(werfen\) | ST/GE | 4 | -1 | 2 TT | mittel | 1 Wurf \(danach kaputt\), macht bei Treffer Schilde unbrauchbar |
 
