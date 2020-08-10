@@ -9,6 +9,7 @@
 | hölzernes Kurzschwert | Kurze Klingen-/Holzwaffe |  | -1 | ST/GE | 0,8 | +1 | 2 TT | häufig - mittel |  |  |  |
 | hölzernes Langschwert | Lange Klingen-/Holzwaffe |  | -1 | ST/GE | 1,2 | +1 | 4 TT | häufig - mittel |  |  |  |
 | Keule mit Spikes | Wuchtwaffe | 5 | +1 | ST | 3,5 | -1 | 1 TT | mittel |  |  |  |
+| Langdolch | Kurze Klingen-/Wurf-/Stichwaffe | | -1 | ST/GE | 1,5 | +0 | 12 TT | | |
 | Langschwert \(diamanten\) | Lange Klingenwaffe | 5 | +6 | ST/GE | 4 | +2 | 50.000 GF | extrem selten |  |  |  |
 | Langspieß | Stangenwaffe | 7 | +1 | GE | 8 | -2 | 14 TT | eher selten | 5 m lang, KB -2 | selten |  |
 | Machete | Kurze Klingenwaffe (wie groß ist ne Machete?) | | +0 | ST | 2,5 | -1 | 10 TT | mittel - selten | |
