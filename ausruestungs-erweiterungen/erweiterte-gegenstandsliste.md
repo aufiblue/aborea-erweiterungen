@@ -50,6 +50,7 @@
 | Kamm \(aus Holz\) | 0,5 | 2 TT | mittel | ein Holzkamm |  |
 | Kamm \(aus Knochen\) | 1,5 | 4 TT | mittel - selten | ein Knochenkamm |  |
 | Kannabisöl | 0,5 | 7 TT | mittel - selten | 1 L Kannabisöl |  |
+| Karavelle | - | 4.000 GF|  sehr selten | Bis zu 20 Personen |
 | Karte eines einzelnen Reiches | 0,5 | 1 GF | selten | Karte eines einzelnen Reiches wie zum Beispiel von Trion oder von Xhara |  |
 | Karte Paleas | 1 | 15 GF | selten | Landkarte des Kontinents Palea |  |
 | Kartenspiel | 0,5 | 5 KL | häufig | ein Kartenspiel |  |
