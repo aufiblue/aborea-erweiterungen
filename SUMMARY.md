@@ -90,12 +90,8 @@
 
 ## Anderes
 
-### Zustaende
-
 * [Zustände](anderes/zustaende.md)
-
-### Anderes
-
+    * [Irgendwas](anderes/wetterzustaende.md)
 * [Wetterzustände](anderes/wetterzustaende.md)
 * [Vertrauen](anderes/vertrauen.md)
 * [Widerstandspunkte etc](anderes/widerstandspunkte-etc.md)
