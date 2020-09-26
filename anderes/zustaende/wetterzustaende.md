@@ -1,6 +1,4 @@
-## Wetterzustände
-
-### Erklärung
+### Wetterzustände
 
 Wetterzustände können einem Malusse einbringen.
 
