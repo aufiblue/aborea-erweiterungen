@@ -1,8 +1,4 @@
-# Anderes
-
-## Zustände
-
-### Erklärung
+### Allgemeine Zustände
 
 Man kann bestimmte Zustände haben, in denen man Malusse oder Bonusse hat.
 
