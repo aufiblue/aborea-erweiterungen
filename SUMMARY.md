@@ -91,6 +91,7 @@
 ## Anderes
 
 * [Zustände](anderes/zustaende.md)
+    * [Zustände](anderes/zustaende/zustaende.md)
     * [Wetterzustände](anderes/zustaende/wetterzustaende.md)
 * [Vertrauen](anderes/vertrauen.md)
 * [Widerstandspunkte etc](anderes/widerstandspunkte-etc.md)
