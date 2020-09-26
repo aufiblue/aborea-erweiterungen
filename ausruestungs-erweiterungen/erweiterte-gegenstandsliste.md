@@ -1,4 +1,4 @@
-# Ausrüstungs-Erweiterungen
+# Gebrauchsgegenstände
 
 ## Erweiterte Gegenstandsliste
 
@@ -36,21 +36,21 @@
 | Fleisch \(gesalzen\) | 0,5 | 3 TT | mittel - selten | ein Stück gesalzenes Fleisch |  |
 | Flöte \(schlecht\) | 0,5 | 6 GF | selten | eine schlecht gearbeitete Flöte |  |
 | Flöte \(gut\) | 0,5 | 12 GF | selten | eine gut gearbeitete Flöte |  |
-| Floß | 15 | 6 GF | mittel - selten | gut gearbeitetes Floß für 2 Personen |
+| Floß | 15 | 6 GF | mittel - selten | gut gearbeitetes Floß für 2 Personen |  |
 | Giftpfeil | 0,1 | 1 TT | sehr selten | in Gift getränkter Pfeil \(verursacht pro Stunde -3 TP, 5 Stunden lang, Gift Rang 3 |  |
 | Globus Paleas | 5 | 50 GF | extrem selten | Globus des Kontinents Palea |  |
-| Gürtel | 0,5 | 4 KL | häufig | einfacher Gürtel |
+| Gürtel | 0,5 | 4 KL | häufig | einfacher Gürtel |  |
 | Handwerker | - | pro Kilo des zu bearbeitenden 5 KL + Materialkosten | mittel | Handwerksarbeiten werden für einen verrichtet |  |
 | Handwerkskasten | 5 | 15 TT | mittel | +1 auf Manöver mit Handwerk |  |
 | Heuballen \(klein\) | 0,4 | 2 MU | eher häufig | etwas Heu |  |
 | Heuballen \(mittel\) | 1 | 4 MU | eher häufig | Heu |  |
 | Heuballen \(groß\) | 2,5 | 1 KL | häufig - mittel | viel Heu |  |
 | Heuballen \(riesig\) | 8 | 1 TT | selten | sehr viel Heu |  |
-| Kaktusfeige | 2 | 80 TT | selten - sehr selten | eine Kaktusfeige, enthält 2 l Wasser, gut aufgehoben |
+| Kaktusfeige | 2 | 80 TT | selten - sehr selten | eine Kaktusfeige, enthält 2 l Wasser, gut aufgehoben |  |
 | Kamm \(aus Holz\) | 0,5 | 2 TT | mittel | ein Holzkamm |  |
 | Kamm \(aus Knochen\) | 1,5 | 4 TT | mittel - selten | ein Knochenkamm |  |
 | Kannabisöl | 0,5 | 7 TT | mittel - selten | 1 L Kannabisöl |  |
-| Karavelle | - | 4.000 GF|  sehr selten | Bis zu 20 Personen |
+| Karavelle | - | 4.000 GF | sehr selten | Bis zu 20 Personen |  |
 | Karte eines einzelnen Reiches | 0,5 | 1 GF | selten | Karte eines einzelnen Reiches wie zum Beispiel von Trion oder von Xhara |  |
 | Karte Paleas | 1 | 15 GF | selten | Landkarte des Kontinents Palea |  |
 | Kartenspiel | 0,5 | 5 KL | häufig | ein Kartenspiel |  |
@@ -68,7 +68,7 @@
 | Knopf \(aus Holz, gut\) | - | 2 TT | selten | ein gut gearbeiteter Knopf aus Holz |  |
 | Knopf \(aus Messing, schlecht\) | - | 2 KL | mittel - selten | ein einfacher, schlecht gearbeiteter Knopf aus Messing |  |
 | Knopf \(aus Messing, gut\) | - | 1 TT | selten | ein gut gearbeiteter Knopf aus Messing |  |
-| Köcher (hölzern) | 3 | 10 KL | selten | gut gearbeiteter Köcher aus Holz |
+| Köcher \(hölzern\) | 3 | 10 KL | selten | gut gearbeiteter Köcher aus Holz |  |
 | Kochtopf \(klein\) | 2 | 5 KL | häufig | ein einfacher, kleiner Kochtopf |  |
 | Kochtopf \(groß\) | 4 | 2 TT | mittel | ein einfacher, großer Kochtopf |  |
 | Kokosnuss | 2,5 | 3 GF | selten | eine Kokosnuss |  |
@@ -127,13 +127,13 @@
 | Ring \(aus Gold, gut\) | 0,5 | 5 GF | sehr selten | ein Ring |  |
 | Robe | 2 | 4 GF | mittel | einfache Robe |  |
 | Sack | 1 | 1 KL & 5 MU | häufig | Fassungsvermögen 25 kg |  |
-| Salz | 0,5 | 2 GF & 5 TT | mittel - selten | 500 g Salz |
-| Sandalen | 0,5 | 9 KL | häufig | ein paar Sandalen |
+| Salz | 0,5 | 2 GF & 5 TT | mittel - selten | 500 g Salz |  |
+| Sandalen | 0,5 | 9 KL | häufig | ein paar Sandalen |  |
 | Schatulle \(versilbert\) | 0,5 | 6 TT | selten | Platz für kleine Gegenstände mit dem Gewicht von insg. 5 kg |  |
 | Schatzkarte | 0,2 | ist meist nicht zu kaufen | selten - extrem selten \(kommt immer drauf an\) | findet man meist in Piratenschiffen oder an ähnlichen Orten, sehr selten aber auch auf dem Schwarzmarkt etc. |  |
 | Schaumpfeife | 0,4 | 6 TT | mittel - selten | eine Schaumpfeife, zum Rauchen |  |
 | Schlafsack | 1,5 | 4 TT | mittel | wärmt nachts |  |
-| Schleifstein | 30 | 4 GF | eher selten | zum Schärfen von Waffen |
+| Schleifstein | 30 | 4 GF | eher selten | zum Schärfen von Waffen |  |
 | Signalhorn | 0,4 | 6 TT | selten | ein Signalhorn |  |
 | Spange \(aus Eisen\) | 0,2 | 8 MU | eher häufig | eine Spange, zum in die Haare stecken |  |
 | Spange \(aus Knochen\) | 0,2 | 1 KL | mittel | eine Spange, zum in die Haare stecken |  |
@@ -159,9 +159,9 @@
 | Trommel \(gut\) | 4 | 3 GF | selten - sehr selten | eine Trommel |  |
 | Truhe | 5 | 24 TT | mittel - selten | Truhe \(MS 7\) mit Schlüssel |  |
 | Trüffel | 0,05 | 10 GF | selten - extrem selten | Essen... aber teuer |  |
-| Truthahn | 8 | 1 GF | mittel - selten | ein lebendiger Truthahn|
-| Truthahn (gebraten) | 6 | 1 GF + 4 TT | mittel - selten | ein gebratener Truthahn |
-| Übersetzer | - | 1 TT + 5 KL pro Seite | selten | jemand, der einem einen Text übersetzt |
+| Truthahn | 8 | 1 GF | mittel - selten | ein lebendiger Truthahn |  |
+| Truthahn \(gebraten\) | 6 | 1 GF + 4 TT | mittel - selten | ein gebratener Truthahn |  |
+| Übersetzer | - | 1 TT + 5 KL pro Seite | selten | jemand, der einem einen Text übersetzt |  |
 | Wein \(aus den Ebenen\) | 1 | 5 TT | mittel - selten | Flasche gut schmeckender Wein aus den Ebenen |  |
 | „Weinende Suppe” | 0,2 | 4 TT | selten | 1 Anwendung, erinnert die Person, die sie trinkt, an schlimme Erfahrungen, die sie gemacht hat \(vielleicht hat sie jmd. verloren oder ihr oder einer anderen sehr gemochten oder geliebten Person ist etwas Schreckliches passiert?\), und zwar so sehr, dass sie anfangen muss, zu weinen |  |
 | Würfel \(aus Holz\) | 0,1 | 7 MU | häufig - selten | ein Holzwürfel \(ist nicht sehr genau\) |  |
@@ -170,3 +170,4 @@
 | Zielscheibe | 6 | 8 GF | mittel - sehr selten | einfache Zielscheibe zum Hinstellen oder Aufhängen und drauf Schießen |  |
 | Zitrone | 0,1 | 4 MU | selten - sehr selten | eine Zitrone |  |
 | Zipfelmütze | 0,5 | 4 TT | mittel - selten | einfache Zipfelmütze, wie Zwerge sie tragen |  |
+

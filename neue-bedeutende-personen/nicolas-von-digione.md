@@ -1,4 +1,4 @@
-# Neue bedeutende Personen
+# Nicolas von Digione
 
 ## Nicolas von Digione
 
@@ -21,3 +21,4 @@ Seine Armee besteht aus über 40.000 Kriegern. Sie ist mit Rammböcken, mobilen 
 ### Reichtum
 
 Reichtum spielt für ihn keine Rolle. Er besitzt so viel Geld, dass er seine Armee noch viele Jahrhunderte unterhalten könnte.
+

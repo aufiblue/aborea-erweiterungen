@@ -1,10 +1,10 @@
-## Einheiten Trions
+# Einheiten Trions
 
-### kleiner Überblick - Armeen Trions
+## kleiner Überblick - Armeen Trions
 
 Die Armeen Trions sind zwar sehr vielfältig, bestehen aber trotzdem zu einem großen Teil aus Menschen. Sie werden meist nur gegen Xhara angewendet, aber nötigenfalls auch gegen das Suderland oder Elbia. Die Armeen sind meist so aufgebaut, dass es ein paar Befehlshaber gibt und die Armee somit besser auf feindliche Aktionen reagieren und gegen die Feinde agieren kann. Trions Truppen kämpfen meist in bestimmten Formationen.
 
-### Trionarii \[Menschen\]
+## Trionarii \[Menschen\]
 
 | Kategorie | Werte |
 | :--- | :--- |
@@ -21,7 +21,7 @@ Beschreibung zu Trionarii
 
 Trionarii sind einfache Soldaten.
 
-### Trioniborii \[Menschen\]
+## Trioniborii \[Menschen\]
 
 | Kategorie | Werte |
 | :--- | :--- |
@@ -38,7 +38,7 @@ Beschreibung zu Trioniborii
 
 Trioniborii sind einfache Bogenschützen.
 
-### Trionikurii \[Menschen\]
+## Trionikurii \[Menschen\]
 
 | Kategorie | Werte |
 | :--- | :--- |
@@ -55,7 +55,7 @@ Beschreibung zu Trionikurii
 
 Trionikurii sind zwar nicht wirklich sehr gut ausgestattet, dafür sind sie aber sehr leichtfüßig und schnell.
 
-### Trionimarii \[Menschen\]
+## Trionimarii \[Menschen\]
 
 | Kategorie | Werte |
 | :--- | :--- |
@@ -72,7 +72,7 @@ Beschreibung zu Trionimarii
 
 Armbrustschützen.
 
-### Trionolarii \[Menschen\]
+## Trionolarii \[Menschen\]
 
 | Kategorie | Werte |
 | :--- | :--- |
@@ -89,7 +89,7 @@ Beschreibung zu Trionolarii
 
 Langbogenschützen.
 
-### Trionitirii \[Menschen\]
+## Trionitirii \[Menschen\]
 
 | Kategorie | Werte |
 | :--- | :--- |
@@ -106,7 +106,7 @@ Beschreibung zu Trionitirii
 
 Ritter.
 
-### Trionirittirii \[Menschen\]
+## Trionirittirii \[Menschen\]
 
 | Kategorie | Werte |
 | :--- | :--- |
@@ -124,7 +124,7 @@ Beschreibung zu Trionirittirii
 
 Berittene Ritter.
 
-### Trionilaria \[Menschen\]
+## Trionilaria \[Menschen\]
 
 | Kategorie | Werte |
 | :--- | :--- |
@@ -141,7 +141,7 @@ Beschreibung zu Trionilaria
 
 Speerkrieger, welche nötigenfalls auch mit dem Schwert kämpfen.
 
-### Trioniturii \[Menschen\]
+## Trioniturii \[Menschen\]
 
 | Kategorie | Werte |
 | :--- | :--- |
@@ -158,7 +158,7 @@ Beschreibung zu Trioniturii
 
 Nahkämpfer, welche vor dem aufeinandertreffen mit dem Feind ihre Wurfspeere werfen.
 
-### Izmawa \[Menschen\]
+## Izmawa \[Menschen\]
 
 | Kategorie | Werte |
 | :--- | :--- |
@@ -176,7 +176,7 @@ Beschreibung zu Izmawa
 
 Sie sind berittene Wachen Izma‘s dem ll.
 
-### Izmawa ll \[Menschen\]
+## Izmawa ll \[Menschen\]
 
 | Kategorie | Werte |
 | :--- | :--- |
@@ -194,7 +194,7 @@ Beschreibung zu Izmawa ll
 
 Sie sind berittene Wachen Izma‘s dem ll.
 
-### Trionz \[Zwerge\]
+## Trionz \[Zwerge\]
 
 | Kategorie | Werte |
 | :--- | :--- |
@@ -211,7 +211,7 @@ Beschreibung zu Trionz
 
 Nahkämpfer.
 
-### Trionzirii \[Zwerge\]
+## Trionzirii \[Zwerge\]
 
 | Kategorie | Werte |
 | :--- | :--- |
@@ -228,7 +228,7 @@ Beschreibung zu Trionzirii
 
 Nahkämpfer.
 
-### Trionoserii \[Halblinge\]
+## Trionoserii \[Halblinge\]
 
 | Kategorie | Werte |
 | :--- | :--- |
@@ -245,7 +245,7 @@ Beschreibung zu Trionoserii
 
 Klein und schnell. Gut für Hinterhalte.
 
-### Triongionii \[Gnome\]
+## Triongionii \[Gnome\]
 
 | Kategorie | Werte |
 | :--- | :--- |
@@ -261,3 +261,4 @@ Klein und schnell. Gut für Hinterhalte.
 Beschreibung zu Triongionii
 
 Klein und sehr schnell. Perfekt für Hinterhalte.
+

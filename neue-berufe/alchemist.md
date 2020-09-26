@@ -1,4 +1,4 @@
-# Neue Berufe
+# Alchemist
 
 ## Alchemist
 
@@ -88,3 +88,4 @@ Stufe 12:
 | Ewiger Widerstand | Ewiges Leben |
 | :--- | :--- |
 | Heilung x2 | Trefferpunkte +10 |
+

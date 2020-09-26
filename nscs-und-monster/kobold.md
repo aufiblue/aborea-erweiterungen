@@ -1,11 +1,11 @@
-# NSC's und Monster
+# Kobolde
 
 ## Kobold
 
 ### Kobold
 
 | Werte | Kobold |
-| ------ | ------- |
+| :--- | :--- |
 | TP | 4 |
 | Ini | +1 |
 | Waffe | Dolch, Schleuder |
@@ -19,3 +19,4 @@
 ### Beschreibung
 
 Kobolde leben in kleinen Gemeinschaften an meist abgeschiedenen Orten. Sie lieben zudem Schätze. Sie tragen meist keine Rüstung, sind aber trotzdem durch ihre Größe schwerer zu treffen.
+

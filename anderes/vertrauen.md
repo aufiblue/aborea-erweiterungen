@@ -1,10 +1,10 @@
-## Vertrauen
+# Vertrauen
 
-### Das Handeln
+## Das Handeln
 
 Das Vertrauen untereinander ist sehr wichtig. Hier kann man angeben, welches Vertrauen man in einen anderen SC oder einen NSC hat und dementsprechend handeln.
 
-### Eine Tabelle dazu
+## Eine Tabelle dazu
 
 | Vertrauen | Handeln |
 | :--- | :--- |
@@ -19,3 +19,4 @@ Das Vertrauen untereinander ist sehr wichtig. Hier kann man angeben, welches Ver
 | 8 Punkte | hilft gerne, freundlich |
 | 9 Punkte | sehr freundlich, hilft fast immer und sehr gerne, Best-Friend-Basis |
 | 10 Punkte | sehr freundlich, tut alles für diese Person, Liebe |
+

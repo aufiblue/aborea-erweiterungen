@@ -85,14 +85,14 @@
 
 ## Veranstaltungen Aborea
 
-* [Bogenschützen Wettbewerb](veranstaltungen-aborea/bogenschuetzen-wettschießen-leet.md)
-* [Rittertunier](veranstaltungen-aborea/ritterturnier-burg-mailara.md)
+* [Bogenschützen Wettbewerb](veranstaltungen-aborea/bogenschuetzen-wettschiessen-leet.md)
+* [Ritterturnier](veranstaltungen-aborea/ritterturnier-burg-mailara.md)
 
 ## Anderes
 
-* [Zustände](anderes/zustaende.md)
-    * [Zustände](anderes/zustaende/zustaende.md)
-    * [Wetterzustände](anderes/zustaende/wetterzustaende.md)
+* [Zustände](anderes/zustaende/README.md)
+  * [Allgemeine Zustände](anderes/zustaende/zustaende.md)
+  * [Wetterzustände](anderes/zustaende/wetterzustaende.md)
 * [Vertrauen](anderes/vertrauen.md)
 * [Widerstandspunkte etc](anderes/widerstandspunkte-etc.md)
 * [Seltenheiten](anderes/seltenheiten.md)

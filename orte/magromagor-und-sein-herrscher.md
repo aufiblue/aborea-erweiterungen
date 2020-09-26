@@ -1,4 +1,4 @@
-# Orte
+# Magromagor und sein Herrscher
 
 ## Magromagor und sein Herrscher
 
@@ -40,15 +40,13 @@ In der letzten Zeit gibt es immer häufiger an den Scheich und andere wichtige L
 
 „Mein Lieber Scheich,
 
-ich möchte Euch hiermit einen wichtigen Hinweis geben:
-Die Bande der betrunkenen Priester wird morgen einen Anschlag auf euren Freund Remus Rederius planen, der morgen auf dem großen Marktplatz Magromagor’s eine Rede halten wird. Lasst dies euren Freund wissen und lasst ihn durch jemand anderen ersetzen, schickt dazu einige eurer Krieger dorthin und Ihr werdet merken: Es lohnt sich.
-Freundliche Grüße,
+ich möchte Euch hiermit einen wichtigen Hinweis geben: Die Bande der betrunkenen Priester wird morgen einen Anschlag auf euren Freund Remus Rederius planen, der morgen auf dem großen Marktplatz Magromagor’s eine Rede halten wird. Lasst dies euren Freund wissen und lasst ihn durch jemand anderen ersetzen, schickt dazu einige eurer Krieger dorthin und Ihr werdet merken: Es lohnt sich. Freundliche Grüße,
 
 RB."
 
-RB steht hierbei für „Rote Bande"
-Niemand weiß, weshalb diese Person oder diese Personen dies tun, denn sie ziehen ja keinen Nutzen daraus. Die Rotlinge der „Roten Bande" und der Anführer’s der Rotlinge wissen dies natürlich - sie wollen einfach nur etwas Gutes für die Menschen tun.)
+RB steht hierbei für „Rote Bande" Niemand weiß, weshalb diese Person oder diese Personen dies tun, denn sie ziehen ja keinen Nutzen daraus. Die Rotlinge der „Roten Bande" und der Anführer’s der Rotlinge wissen dies natürlich - sie wollen einfach nur etwas Gutes für die Menschen tun.\)
 
 ### Der Plan der Bande
 
-Falls die „Rote Bande" es schaffen sollte Magromagor zu übernehmen (siehe „[Rotlinge](../neue-voelker/rotlinge.md) ”) würde sie tatsächlich mit dem Scheich Magromagor regieren. Sie würden sich um die Wirtschaft und die Menschen kümmern. Sie würden Kriminelle bekämpfen, wie sie es auch jetzt schon tun, aber dies alles nun mal mit dem Scheich.
+Falls die „Rote Bande" es schaffen sollte Magromagor zu übernehmen \(siehe „[Rotlinge](../neue-voelker/rotlinge.md) ”\) würde sie tatsächlich mit dem Scheich Magromagor regieren. Sie würden sich um die Wirtschaft und die Menschen kümmern. Sie würden Kriminelle bekämpfen, wie sie es auch jetzt schon tun, aber dies alles nun mal mit dem Scheich.
+

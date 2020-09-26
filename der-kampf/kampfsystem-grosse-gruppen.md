@@ -1,4 +1,4 @@
-# Der Kampf
+# Kampfsystem für große Gruppen
 
 ## Kampfsystem für große Gruppen
 
@@ -94,3 +94,4 @@ Diese Dinge muss man wissen, wenn man eine Schlacht kämpfen und danach noch wis
 ### mehr als 2 verschiedene Truppen an einem Platz
 
 Ist dies der Fall, dann werden die Truppen nicht zusammengetan \[es sei denn sie wollen es\], sondern beide Truppen können auf dem selben Platz gegen den selben Gegner kämpfen. Die Truppenaktionen werden eigentlich komplett normal gehandhabt und es gibt keine Veränderung des Spiels.
+

@@ -1,4 +1,4 @@
-# Leichtere Variante
+# Wiederbelebung
 
 ## Wiederbelebung
 

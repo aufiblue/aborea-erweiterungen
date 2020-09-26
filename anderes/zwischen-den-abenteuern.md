@@ -1,9 +1,9 @@
-## Zwischen den Abenteuern
+# Zwischen den Abenteuern
 
 Die folgende Tabelle ist für zwischen den Abenteuern. Hier sind ein paar Beispiele dafür, was zwischen den Abenteuern oder in den Abenteuern in der Welt von Aborea so passieren könnte.
 
 | Nummer | Was passiert? |
-| - | - |
+| :--- | :--- |
 | 1 | Händler mit günstigeren Sachen ,als normal, kommt vorbei |
 | 2 | Überfälle auf Händler häufen sich |
 | 3 | Neue Verbrecher-Organisation in der Nähe |
@@ -48,8 +48,9 @@ Die folgende Tabelle ist für zwischen den Abenteuern. Hier sind ein paar Beispi
 | 46 | Die Spieler begegnen in der Nacht einer Gruppe von 4 Ghulen |
 | 47 | Die Spieler finden einen wertvollen Gegenstand |
 | 48 | Die Spieler begegnen einem entlaufenen Streuner |
-| 49 | Einer der Spieler sieht etwas glitzerndes auf dem Boden liegen (ein Goldfalke liegt auf der Straße) |
-| 50 | Einer der Spieler sieht etwas glitzerndes auf dem Boden liegen (ein Trionthaler liegt auf der Straße) |
+| 49 | Einer der Spieler sieht etwas glitzerndes auf dem Boden liegen \(ein Goldfalke liegt auf der Straße\) |
+| 50 | Einer der Spieler sieht etwas glitzerndes auf dem Boden liegen \(ein Trionthaler liegt auf der Straße\) |
 | 51 | Ein Beutel mit 8 Kupferlingen darin liegt auf der Straße |
-| 52 | Ein luftdichter Beutel mit giftigem Gas darin liegt auf der Straße (Gift Rang 4, beim riechen des Gases Schaden: pro Stunde 5 Schaden für 4 Stunden lang, sehr schwer zu heilen, aber möglich) [nur machen, wenn die Spieler mehr TP als 30 Haben, denn ansonsten könnte der Spielercharakter durch andere Begebenheiten viel zu leicht sterben] |
-| 53 | Die Spieler begegnen einem armen Wesen [auf welche Art arm ist egal] |
+| 52 | Ein luftdichter Beutel mit giftigem Gas darin liegt auf der Straße \(Gift Rang 4, beim riechen des Gases Schaden: pro Stunde 5 Schaden für 4 Stunden lang, sehr schwer zu heilen, aber möglich\) \[nur machen, wenn die Spieler mehr TP als 30 Haben, denn ansonsten könnte der Spielercharakter durch andere Begebenheiten viel zu leicht sterben\] |
+| 53 | Die Spieler begegnen einem armen Wesen \[auf welche Art arm ist egal\] |
+

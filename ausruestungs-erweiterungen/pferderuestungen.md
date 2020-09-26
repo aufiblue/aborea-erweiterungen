@@ -1,4 +1,4 @@
-## Pferderüstungen
+# Pferderüstungen
 
 | Rüstungsart | Rüstung | Kosten | Kg | Häufigkeit |
 | :--- | :--- | :--- | :--- | :--- |
@@ -18,3 +18,4 @@
 | diamanten \(rechts\) | +4 | 100.000 GF | 15 | extrem selten |
 | diamanten \(links\) | +4 | 100.000 GF | 15 | extrem selten |
 | diamanten \(hinten\) | +4 | 100.000 GF | 10 | extrem selten |
+

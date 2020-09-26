@@ -1,15 +1,15 @@
-## Craftingdauer
+# Craftingdauer
 
-### Zwei Faktoren
+## Zwei Faktoren
 
 Beim Craften von Sachen spielen im Rollenspiel zwei Faktoren eine große Rolle, nämlich wie schwer das ist, was man bauen möchte und wie gut man im Bauen von Dingen ist.
 
-### Arbeitsdauer
+## Arbeitsdauer
 
 Die Arbeitsdauer wird durch den SG des zu Bauenden bestimmt.
 
 | SG | Arbeitsdauer |
-| - | - |
+| :--- | :--- |
 | Routine | 10 Minuten |
 | sehr einfach | 1 Stunde |
 | einfach | 2 Stunden |
@@ -19,12 +19,12 @@ Die Arbeitsdauer wird durch den SG des zu Bauenden bestimmt.
 | blanker Leichtsinn | 1 Tag |
 | absurd | 2 Tage |
 
-### Rang
+## Rang
 
 Desto erfahrener man ist, desto schneller geht es auch. Deshalb hier nochmal eine kleine Tabelle zur Einsparung der Zeit durch den Rang in der jeweiligen Handwerksfertigkeit.
 
 | Rang in Fertigkeit | Zeiteinsparung |
-| - | - |
+| :--- | :--- |
 | 0 | Keine |
 | 1 | 1/10 |
 | 2 | 1/9 |
@@ -37,3 +37,4 @@ Desto erfahrener man ist, desto schneller geht es auch. Deshalb hier nochmal ein
 | 9 und mehr | 1/2 |
 
 Mehr als 50% der Zeit kann man nicht einsparen, da dies irgendwann unlogisch und zu OP wird.
+
