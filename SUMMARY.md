@@ -91,8 +91,7 @@
 ## Anderes
 
 * [Zustände](anderes/zustaende.md)
-    * [Irgendwas](anderes/wetterzustaende.md)
-* [Wetterzustände](anderes/wetterzustaende.md)
+    * [Wetterzustände](anderes/zustaende/wetterzustaende.md)
 * [Vertrauen](anderes/vertrauen.md)
 * [Widerstandspunkte etc](anderes/widerstandspunkte-etc.md)
 * [Seltenheiten](anderes/seltenheiten.md)
