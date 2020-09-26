@@ -2,7 +2,7 @@
 
 ### Zwei Faktoren
 
-Beim Craften von Sachen spielen im Rollenspiel zwei Faktoren eine große Rolle, nämlich wie schwer das ist, was man bauen möchte und wie gut man im Bauen von Dingen ist.
+Beim Craften von Sachen spielen im Rollenspiel zwei Faktoren eine große Rolle, nämlich wie schwer das ist, was man bauen möchte und wie gut man im Bauen von Dingen ist. 
 
 ### Arbeitsdauer
 
