@@ -91,8 +91,12 @@
 ## Anderes
 
 * [Zustände](anderes/zustaende/README.md)
-  * [Allgemeine Zustände](anderes/zustaende/zustaende.md)
-  * [Wetterzustände](anderes/zustaende/wetterzustaende.md)
+    * [Allgemeine Zustände](anderes/zustaende/zustaende.md)
+    * [Wetterzustände](anderes/zustaende/wetterzustaende.md)
+* [Wirtschaft](anderes/wirtschaft/README.md)
+    * [Die Wirtschaft](anderes/wirtschaft/wirtschaft.md)
+* [Tabellen](anderes/tabellen/README.md)
+    * [Zwischen den Abenteuern](anderes/tabellen/zwischen-den-abenteuern.md)
 * [Vertrauen](anderes/vertrauen.md)
 * [Widerstandspunkte etc](anderes/widerstandspunkte-etc.md)
 * [Seltenheiten](anderes/seltenheiten.md)
@@ -105,13 +109,11 @@
 * [Spezielle Völker - Spezielle Waffen](anderes/spezielle-voelker-spezielle-waffen.md)
 * [Kreaturenerschaffung](anderes/kreaturenerschaffung.md)
 * [Erzadern im Casnewydd und Ghalgrat](anderes/erzadern-im-casnewydd-und-ghalgrat.md)
-* [Die Wirtschaft](anderes/wirtschaft.md)
-* [Zwischen den Abenteuern](anderes/zwischen-den-abenteuern.md)
 
-## Leichtere Variante
+## Leichtere Spielvariante
 
-* [Wiederbelebung](leichtere-variante/wiederbelebung.md)
-* [Währungen](leichtere-variante/waehrungen.md)
+* [Wiederbelebung](leichtere-spielvariante/wiederbelebung.md)
+* [Währungen](leichtere-spielvariante/waehrungen.md)
 
 ## Anhang
 

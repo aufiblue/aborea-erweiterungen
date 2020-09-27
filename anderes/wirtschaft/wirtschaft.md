@@ -1,7 +1,5 @@
 # Die Wirtschaft
 
-## Die Wirtschaft
-
 Die Wirtschaft eines Reiches o.a. ist hier in Punkten aufgeschrieben. Es hängt von ganz unterschiedlichen Faktoren ab, was das jeweilige Reich einnimmt und ausgeben kann, z.B. wie groß das Reich ist und wie viel Grünfläche es gibt oder ob das Reich viele Sklaven hat oder wie gut die Führung eines Reiches zu ihrer Bevölkerung ist und wie viel sie dementsprechend für sie ausgibt.
 
 ## Beispiele
