@@ -95,6 +95,9 @@
     * [Wetterzustände](anderes/zustaende/wetterzustaende.md)
 * [Wirtschaft](anderes/wirtschaft/README.md)
     * [Die Wirtschaft](anderes/wirtschaft/wirtschaft.md)
+* [Völkerspezifisches](anderes/voelkerspezifisches/README.md)
+    * [Kleines Wesen - Kleines Reittier](anderes/voelkerspezifisches/kleines-wesen-kleines-reittier.md)
+    * [Spezielle Völker - Spezielle Waffen](anderes/voelkerspezifisches/spezielle-voelker-spezielle-waffen.md)
 * [Tabellen](anderes/tabellen/README.md)
     * [Zwischen den Abenteuern](anderes/tabellen/zwischen-den-abenteuern.md)
 * [Vertrauen](anderes/vertrauen.md)
@@ -105,8 +108,6 @@
 * [Fallschaden](anderes/fallschaden.md)
 * [Hell Gefärbtes - Nachteil](anderes/helle-farbe.md)
 * [Dunkel Gefärbtes - Vorteil](anderes/dunkle-farbe.md)
-* [Kleines Wesen - Kleines Reittier](anderes/kleines-wesen-kleines-reittier.md)
-* [Spezielle Völker - Spezielle Waffen](anderes/spezielle-voelker-spezielle-waffen.md)
 * [Kreaturenerschaffung](anderes/kreaturenerschaffung.md)
 * [Erzadern im Casnewydd und Ghalgrat](anderes/erzadern-im-casnewydd-und-ghalgrat.md)
 
