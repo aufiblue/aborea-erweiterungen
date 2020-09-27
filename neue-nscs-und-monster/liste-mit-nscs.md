@@ -1,9 +1,5 @@
 # Liste mit NSC's
 
-## NSC's
-
-### Nichtspielercharaktere
-
 | Name | TP | Ini | Waffe | Schaden | KB | Rüstung | Reichtum | Sprache | Besonderes | SG |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Pirat | 14 | +1 | Säbel, Dolch, Kurzbogen, Fackel | nach Waffe | 3 | 6 \(Lederrüstung\) | im Wert von 1 TT | diverse | List 1 | 1 |

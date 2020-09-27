@@ -1,8 +1,6 @@
 # Wiederbelebung
 
-## Wiederbelebung
-
-### Sachen behalten
+## Sachen behalten
 
 Falls man tatsächlich sterben sollte, kann man, wenn die Gruppe einen nicht wiederbeleben kann, mit bestimmten Würfen einen kleinen Teil seiner Gegenstände behalten! Hier ein paar Tabellen:
 
@@ -55,7 +53,7 @@ Auch hier erhalten Waldläufer einen Bonus von +3 und Zauberer einen von +2.
 
 Wenn dies hier alles erledigt ist, wacht man 3 Tage nachher im Brandkessel in Leet in einem Zimmer auf und weiß erst mal nicht, was passiert ist und wer man überhaupt ist, doch es fällt einem nach einem weiteren Tag wieder ein.
 
-### Weshalb dies funktioniert
+## Weshalb dies funktioniert
 
 Dies ist die Magie der Welt Aborea. Sie sorgt dafür, dass man wiederauferstehen und -meist- einen Teil seiner Sachen behalten kann.
 

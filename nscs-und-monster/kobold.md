@@ -1,8 +1,10 @@
 # Kobolde
 
-## Kobold
+## Beschreibung
 
-### Kobold
+Kobolde leben in kleinen Gemeinschaften an meist abgeschiedenen Orten. Sie lieben zudem Schätze. Sie tragen meist keine Rüstung, sind aber trotzdem durch ihre Größe schwerer zu treffen.
+
+## Werte
 
 | Werte | Kobold |
 | :--- | :--- |
@@ -15,8 +17,4 @@
 | Reichtum | im Wert von 1 KL |
 | Sprache | Koboldinisch |
 | SG | ? |
-
-### Beschreibung
-
-Kobolde leben in kleinen Gemeinschaften an meist abgeschiedenen Orten. Sie lieben zudem Schätze. Sie tragen meist keine Rüstung, sind aber trotzdem durch ihre Größe schwerer zu treffen.
 

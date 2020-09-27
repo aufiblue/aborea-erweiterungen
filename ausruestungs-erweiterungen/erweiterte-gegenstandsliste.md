@@ -2,8 +2,6 @@
 
 ## Erweiterte Gegenstandsliste
 
-### Gebrauchsgegenstände
-
 | Gegenstand | Kg | Preis | Häufigkeit | Funktion |  |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Amboss | 60 | 100 GF | mittel - selten | zum Bearbeiten von Metall |  |

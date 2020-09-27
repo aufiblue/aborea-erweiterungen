@@ -4,7 +4,7 @@
 
 Das Vertrauen untereinander ist sehr wichtig. Hier kann man angeben, welches Vertrauen man in einen anderen SC oder einen NSC hat und dementsprechend handeln.
 
-## Eine Tabelle dazu
+## Tabelle
 
 | Vertrauen | Handeln |
 | :--- | :--- |

@@ -4,6 +4,8 @@
 
 Ich habe diese Tabelle nach Gefühl und nicht nach System erstellt.
 
+## Der Schaden
+
 | Untergrund | 3 m | 4 m | 5 m | 10 m | 15 m | 20 m | 25 m | 30 m | 35 m | tiefer |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Erde | 6 | 12 | 18 | 25 | 62 | 86 | 113 | 134 | 156 | tot |
@@ -13,5 +15,5 @@ Ich habe diese Tabelle nach Gefühl und nicht nach System erstellt.
 
 ## Abfangen
 
-Wenn man es schafft, sich mitten in einem Sturz abzufangen, zählt dieser Sturz als einzelner und er wird unabhängig von einem eventuellen weiteren Sturz berechnet.
+Wenn man es schafft, sich mitten in einem Sturz abzufangen, zählt dieser Sturz als einzelner und wird unabhängig von einem eventuellen weiteren Sturz berechnet.
 

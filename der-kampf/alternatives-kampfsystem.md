@@ -1,6 +1,6 @@
 # Alternatives Kampfsystem
 
-Alternatives Kampfsystem für Aborea
+Ein alternatives Kampfsystem für Aborea.
 
 ## Kampfrunden
 

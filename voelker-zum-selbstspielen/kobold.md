@@ -1,6 +1,6 @@
 # Kobold
 
-## Das Volk
+## Werte
 
 | Volk | ST | GE | KO | IN | CH | Berufe | Sonstiges |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

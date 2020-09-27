@@ -1,8 +1,6 @@
 # Kampfsystem für große Gruppen
 
-## Kampfsystem für große Gruppen
-
-### Nahkampf
+## Nahkampf
 
 Dieses System funktioniert so:
 
@@ -31,7 +29,7 @@ Es gibt 2 gegnerische Fraktionen und ein gewisses Schlachtfeld \(welches man sic
 | Lanze | W8 |
 | Säbel | W6 |
 
-### Fernkampf \(Bögen\)
+## Fernkampf \(Bögen\)
 
 Fernkampf mit Bögen funktioniert so, dass pro Runde Bogenschützen einmal schießen können. Man muss hierbei allerdings erstmal sehen, wie viele treffen, das macht man so: Man nimmt sich einen oder mehrere W10 und würfelt so oft mit einem, wie man Fernkämpfer hat \(abgerundet und aufgerundet auf 10er Reihen\). Wie oft man getroffen hat, kann man dann daran festmachen, welche Zahl man insgesamt mit allen malen würfeln gewürfelt hat. Schaden gibt es dementsprechend mehr oder weniger bei Bogenschützen.
 
@@ -42,7 +40,7 @@ Fernkampf mit Bögen funktioniert so, dass pro Runde Bogenschützen einmal schie
 | Langbogen | pro mal getroffen 0,7 |
 | Schleuder | pro mal getroffen 0,2 |
 
-### Fernkampf \(Armbrüste\)
+## Fernkampf \(Armbrüste\)
 
 Bei Armbrüsten funktioniert das System genauso wie bei Bögen, allerdings müssen sie nach dem Schießen immer eine Runde nachladen.
 
@@ -50,7 +48,7 @@ Bei Armbrüsten funktioniert das System genauso wie bei Bögen, allerdings müss
 | :--- | :--- |
 | Armbrust | pro mal getroffen 1 |
 
-### Wurfwaffen wie Wurfspeere etc.
+## Wurfwaffen wie Wurfspeere etc.
 
 Funktionieren eigentlich genau so wie Bögen.
 
@@ -59,7 +57,7 @@ Funktionieren eigentlich genau so wie Bögen.
 | Netz | Auswirkungen des Netzes |
 | andere Waffen | ganz normal |
 
-### Deckung
+## Deckung
 
 Deckung kann überlebenswichtig sein.
 
@@ -69,7 +67,7 @@ Deckung kann überlebenswichtig sein.
 | 60% | -8 Schaden von Angreifern \(Fernkampf\) |
 | 90% | -16 Schaden von Angreifern \(Fernkampf\) |
 
-### Erhöhungen
+## Erhöhungen
 
 Es kann für Fernkampf sehr wichtig sein, eine höhere Stellung zu haben.
 
@@ -83,7 +81,7 @@ Es kann für Fernkampf sehr wichtig sein, eine höhere Stellung zu haben.
 | mind. 50 m | 6 mehr |
 | pro 10 m mehr | +1 mehr |
 
-### Truppenbögen
+## Truppenbögen
 
 Jede Einheit bzw. Truppe hat einen Truppenbogen, auf dem diese Sachen hier notiert werden:
 
@@ -91,7 +89,7 @@ Jede Einheit bzw. Truppe hat einen Truppenbogen, auf dem diese Sachen hier notie
 
 Diese Dinge muss man wissen, wenn man eine Schlacht kämpfen und danach noch wissen möchte, was man den besiegten Feinden eventuell noch abnehmen kann.
 
-### mehr als 2 verschiedene Truppen an einem Platz
+## Mehr als 2 verschiedene Truppen an einem Platz
 
 Ist dies der Fall, dann werden die Truppen nicht zusammengetan \[es sei denn sie wollen es\], sondern beide Truppen können auf dem selben Platz gegen den selben Gegner kämpfen. Die Truppenaktionen werden eigentlich komplett normal gehandhabt und es gibt keine Veränderung des Spiels.
 
