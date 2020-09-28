@@ -18,6 +18,7 @@
 
 * [Alchemist](neue-berufe/alchemist.md)
 * [Buddler](neue-berufe/buddler.md)
+* [Kopfgeldjäger](neue-berufe/kopfgeldjaeger.md)
 
 ## Neue Fertigkeiten
 
@@ -64,6 +65,8 @@
 
 * [Alternatives Kampfsystem](der-kampf/alternatives-kampfsystem.md)
 * [Kampfsystem für große Gruppen](der-kampf/kampfsystem-grosse-gruppen.md)
+* [Kampfsystem für große Gruppen 2](der-kampf/kampfsystem-grosse-gruppen-2.md)
+* [Kampfsystem für große Gruppen 3](der-kampf/kampfsystem-grosse-gruppen-3.md)
 * [Einheiten Trions](der-kampf/einheiten-trion.md)
 * [Einheiten Xharas](der-kampf/einheiten-xhara.md)
 
