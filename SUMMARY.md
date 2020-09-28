@@ -98,6 +98,8 @@
 * [Völkerspezifisches](anderes/voelkerspezifisches/README.md)
     * [Kleines Wesen - Kleines Reittier](anderes/voelkerspezifisches/kleines-wesen-kleines-reittier.md)
     * [Spezielle Völker - Spezielle Waffen](anderes/voelkerspezifisches/spezielle-voelker-spezielle-waffen.md)
+* [Schadensarten](anderes/schadensarten/README.md)
+    * [Fallschaden](anderes/schadensarten/fallschaden.md)
 * [Tabellen](anderes/tabellen/README.md)
     * [Zwischen den Abenteuern](anderes/tabellen/zwischen-den-abenteuern.md)
 * [Vertrauen](anderes/vertrauen.md)
