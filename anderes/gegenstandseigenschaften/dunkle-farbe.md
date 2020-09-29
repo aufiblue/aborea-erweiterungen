@@ -1,7 +1,5 @@
 # Dunkel Gefärbtes - Vorteil
 
-## Vorteil
-
 Dunkel Gefärbtes kann unter gegebenen Umständen einen Vorteil auf Schleichen, Tarnen etc. geben. \[Es wird immer abgerundet!\]
 
 | gefärbter Gegenstand | Vorteil |
