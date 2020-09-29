@@ -112,6 +112,8 @@
     * [Dunkel Gefärbtes - Vorteil](anderes/gegenstandseigenschaften/dunkle-farbe.md)
     * [Hell Gefärbtes - Nachteil](anderes/gegenstandseigenschaften/helle-farbe.md)
     * [Rostige Gegenstände](anderes/gegenstandseigenschaften/rostiges.md)
+* [Punktesysteme](anderes/punktesysteme/README.md)
+    * [Widerstandspunkte etc.](anderes/punktesysteme/widerstandspunkte-etc.md)
 * [Vertrauen](anderes/vertrauen.md)
 * [Widerstandspunkte etc](anderes/widerstandspunkte-etc.md)
 * [Seltenheiten](anderes/seltenheiten.md)
