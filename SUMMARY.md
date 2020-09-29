@@ -14,6 +14,15 @@
 * [Kobold](voelker-zum-selbstspielen/kobold.md)
 * [Rotling](voelker-zum-selbstspielen/rotling.md)
 
+## Aborea-Zombie Apocalypse Mode
+
+* [Einleitung](aborea-zombie-apocalypse-mode/einleitung.md)
+* [Die Zombies](aborea-zombie-apocalypse-mode/zombies.md)
+* [Infiziert werden](aborea-zombie-apocalypse-mode/infektionspunkte.md)
+* [Startkapital](aborea-zombie-apocalypse-mode/startkapital.md)
+* [Paleas Population](aborea-zombie-apocalypse-mode/population.md)
+* [Andere Kontinente](aborea-zombie-apocalypse-mode/andere-kontinente.md)
+
 ## Neue Berufe
 
 * [Alchemist](neue-berufe/alchemist.md)
