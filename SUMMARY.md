@@ -109,7 +109,7 @@
 * [Tabellen](anderes/tabellen/README.md)
     * [Zwischen den Abenteuern](anderes/tabellen/zwischen-den-abenteuern.md)
 * [Besondere Gegenstandseigenschaften](anderes/gegenstandseigenschaften/README.md)
-    * [Dunkel Gefärbtes - Nachteil](anderes/gegenstandseigenschaften/dunkle-farbe.md)
+    * [Dunkel Gefärbtes - Vorteil](anderes/gegenstandseigenschaften/dunkle-farbe.md)
     * [Hell Gefärbtes - Nachteil](anderes/gegenstandseigenschaften/helle-farbe.md)
     * [Rostige Gegenstände](anderes/gegenstandseigenschaften/rostiges.md)
 * [Vertrauen](anderes/vertrauen.md)
