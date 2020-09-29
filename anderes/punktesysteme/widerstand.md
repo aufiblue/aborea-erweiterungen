@@ -1,4 +1,4 @@
-# Widerstandspunkte etc
+# Widerstand gegen Krankheiten usw.
 
 ## Krankheiten durchmachen
 

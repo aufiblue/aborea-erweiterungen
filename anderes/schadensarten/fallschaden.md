@@ -13,7 +13,3 @@ Ich habe diese Tabelle nach Gefühl und nicht nach System erstellt.
 | Schnee | - | 6 | 12 | 16 | 24 | 48 | 62 | 80 | 100 | pro 5 m +25 Schaden |
 | Wasser | 4 | 6 | 10 | 24 | 49 | 84 | 128 | 145 | 168 | tot |
 
-## Abfangen
-
-Wenn man es schafft, sich mitten in einem Sturz abzufangen, zählt dieser Sturz als einzelner und wird unabhängig von einem eventuellen weiteren Sturz berechnet.
-

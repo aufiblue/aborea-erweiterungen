@@ -2,5 +2,8 @@
 
 Hier sind unterschiedliche Punktesysteme für unterschiedliche Angelegenheiten aufgeführt.
 
-* [Widerstandspunkte etc.](widerstandspunkte-etc.md)
+* [Widerstand gegen Krankheiten usw.](widerstand.md)
+* [Wut](wut.md)
+* [Motivation](motivation.md)
+* [Erschöpfung](erschoepfung.md)
 
