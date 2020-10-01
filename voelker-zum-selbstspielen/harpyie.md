@@ -2,9 +2,16 @@
 
 ## Werte
 
-| Volk | ST | GE | KO | IN | CH | Berufe | Sonstiges |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Harpyie | +2 | -1 | -1 | +0 | +0 | Keine | sehr listig \(+1 auf List\), immer weiblich, guter Schutz gegen Zauber \(+1 auf Zauberresistenz\), schwer zu treffen \(+1 auf Rüstung\) |
+| Kategorie | Wert |
+| - | - |
+| Volk | Harpyie |
+| ST | +2 |
+| GE | -1 |
+| KO | -1 |
+| IN | +0 |
+| CH | +0 |
+| Berufe | Keine |
+| Sonstiges | sehr listig (+1 auf List), immer weiblich, Schutz gegen Zauber (+1 auf Zauberresistenz), schwer zu treffen (+1 auf Rüstung) |
 
 ## Warnung
 

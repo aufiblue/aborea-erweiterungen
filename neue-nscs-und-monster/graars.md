@@ -6,7 +6,16 @@ Graars sind quasi Zombies, nur in sehr viel stärker. Sie sehen dementsprechend 
 
 ## Werte
 
-| TP | Ini | Waffe | Schaden | KB | Rüstung | Reichtum | Sprache | Besonderes | SG |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 30 | -2 | Klauen | +2 | 3 | 6 | Schatz C | Zombiesprache | Nachgiebig, Stirbt nicht 2.0 | 6 |
+| Kategorie | Wert |
+| - | - |
+| TP | 30 |
+| INI | -2 |
+| Waffe | Klauen |
+| Schaden | +2 |
+| KB | 3 |
+| Rüstung | 6 (sehr zäh) |
+| Reichtum | Schatz C |
+| Sprache | Zombiesprache |
+| Besonderes | Nachgiebig |
+| SG | 6 |
 

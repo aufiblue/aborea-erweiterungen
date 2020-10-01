@@ -6,7 +6,16 @@ Erle sind, meist ca. 2 m große, Kreaturen mit grauer Haut. Sie haben meist gelb
 
 ## Werte
 
-| TP | Ini | Waffe | Schaden | KB | Rüstung | Reichtum | Sprache | Besonderes | SG |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 40 | +0 | diverse \(meist Langschwert\) | nach Waffe | 8 | 6 | Schatz D | Erleisch, manchmal dazu auch diverse andere | Nachgiebig, Angst SG 8 | 5 |
+| Kategorie | Wert |
+| - | - |
+| TP | 40 |
+| INI | +0 |
+| Waffe | diverse (meist Langschwert) |
+| Schaden | nach Waffe |
+| KB | 8 |
+| Rüstung | 6 (sehr zäh) |
+| Reichtum | Schatz D |
+| Sprache | Erleisch, manchmal diverse andere |
+| Besonderes | Nachgiebig, Angst SG 8 |
+| SG | 8 |
 

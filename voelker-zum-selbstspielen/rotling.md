@@ -2,7 +2,16 @@
 
 ## Werte
 
-| Volk | ST | GE | KO | IN | CH | Berufe | Sonstiges |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Rotling | +1 | -2 | +0 | +1 | +0 | Keine Zauberer | einschüchternd \(+1 auf Einflussnahme-Manöver\), sehr zäh \(+1 Rüstungsbonus\) |
+| Kategorie | Wert |
+| - | - |
+| Volk | Rotling |
+| ST | +1 |
+| GE | -2 |
+| KO | +0 |
+| IN | +1 |
+| CH | +0 |
+| Berufe | Keine Zauberer |
+| Sonstiges | einschüchternd (+1 auf Einflussnahme), sehr zäh (Rüstungsbonus +1) |
+
+*Rotlinge siehe [Rotlinge](../neue-voelker/rotlinge.md)
 

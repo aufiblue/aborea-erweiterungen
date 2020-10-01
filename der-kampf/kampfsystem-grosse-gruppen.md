@@ -63,7 +63,7 @@ Sie funktionieren genau so wie Bögen.
 | Waffe | Schaden |
 | ------ | --------- |
 | Netz | Auswirkungen des Netzes |
-| andere Waffen | normal |
+| weitere Waffen | normal |
 
 ## Boni
 
