@@ -1,10 +1,10 @@
 # Wut
 
-Wenn man wütend wird, kann das positive oder auch negative Auswirkungen haben.
+Wenn man wütend wird, kann das positive, aber auch negative Auswirkungen haben.
 
 ## Wut zum Start
 
-Man startet mit einer Wut von 100, was zwar viel klingt, aber ganz und gar mittelmäßig ist.
+Man startet mit einer Wut von 100, was zwar viel klingt, aber ganz und gar normal ist.
 
 ## Höchste und niedrigste Wut
 
@@ -14,11 +14,11 @@ Die höchste Wut, die man haben kann, ist 200. Die Niedrigste ist 0.
 
 | Ereignis | Bonus |
 | - | - |
-| geärgert werden | +1 |
+| geärgert werden | +6 |
 | gefangen genommen werden | +20 |
 | Geschlechtsverkehr | +1W10 |
 | KO gehen | +10 |
-| zu wenig Schlaf | pro Stunde +2 |
+| Zu wenig Schlaf | Pro Stunde zu wenig +2 |
 
 ## Mali auf Wut
 
@@ -27,11 +27,11 @@ Die höchste Wut, die man haben kann, ist 200. Die Niedrigste ist 0.
 | beruhigt werden | -5 |
 | Geschlechtsverkehr | -1W10 |
 | Jemanden zu etw. überreden | +2 |
-| Schlaf | pro Stunde -2 |
+| Schlaf | Pro Stunde -2 |
 
 ## Besonderheit Geschlechtsverkehr
 
-Man würfelt einmal mit einem W10. Wenn man 1-8 würfelt, dann erhält man den Bonus, wenn man allerdings 9 oder 10 würfelt, erhält man den Malus.
+Man würfelt einmal mit einem W10. Wenn man 1-8 würfelt, erhält man den Malus, wenn man allerdings 9 oder 10 würfelt, erhält man den Bonus.
 
 ## Auswirkungen der Wutpunkte
 

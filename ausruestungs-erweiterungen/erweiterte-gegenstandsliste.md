@@ -35,7 +35,7 @@
 | Flöte \(schlecht\) | 0,5 | 6 GF | selten | eine schlecht gearbeitete Flöte |  |
 | Flöte \(gut\) | 0,5 | 12 GF | selten | eine gut gearbeitete Flöte |  |
 | Floß | 15 | 6 GF | mittel - selten | gut gearbeitetes Floß für 2 Personen |  |
-| Giftpfeil | 0,1 | 1 TT | sehr selten | in Gift getränkter Pfeil \(verursacht pro Stunde -3 TP, 5 Stunden lang, Gift Rang 3 |  |
+| Giftpfeil | 0,1 | 1 TT | sehr selten | in Gift getränkter Pfeil \(verursacht bei Treffer pro Stunde -3 TP, 5 Stunden lang, Gift Rang 3 |  |
 | Globus Paleas | 5 | 50 GF | extrem selten | Globus des Kontinents Palea |  |
 | Gürtel | 0,5 | 4 KL | häufig | einfacher Gürtel |  |
 | Handwerker | - | pro Kilo des zu bearbeitenden 5 KL + Materialkosten | mittel | Handwerksarbeiten werden für einen verrichtet |  |

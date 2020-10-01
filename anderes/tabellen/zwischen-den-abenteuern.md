@@ -1,10 +1,10 @@
 # Zwischen den Abenteuern
 
-Die folgende Tabelle ist für zwischen den Abenteuern. Hier sind ein paar Beispiele dafür, was zwischen den Abenteuern oder in den Abenteuern in der Welt von Aborea so passieren könnte.
+Die folgende Tabelle ist für zwischen den Abenteuern. Hier sind ein paar Beispiele dafür, was zwischen den Abenteuern oder in den Abenteuern in der Welt von Aborea so passieren kann.
 
 | Nummer | Was passiert? |
 | :--- | :--- |
-| 1 | Händler mit günstigeren Sachen ,als normal, kommt vorbei |
+| 1 | Händler mit günstigeren Sachen, als normal, kommt vorbei |
 | 2 | Überfälle auf Händler häufen sich |
 | 3 | Neue Verbrecher-Organisation in der Nähe |
 | 4 | Neuer Orden in der Nähe |

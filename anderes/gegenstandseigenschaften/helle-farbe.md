@@ -1,6 +1,6 @@
 # Hell Gefärbtes - Nachteil
 
-Hell Gefärbtes kann unter gegebenen Umständen einen Nachteil auf Tarnen etc. geben. \[Es wird immer abgerundet!\]
+Hell Gefärbtes kann unter gegebenen Umständen einen Nachteil auf Tarnen etc. gewähren (immer abgerundet!).
 
 | gefärbter Gegenstand | Nachteil |
 | :--- | :--- |
@@ -14,7 +14,7 @@ Hell Gefärbtes kann unter gegebenen Umständen einen Nachteil auf Tarnen etc. g
 | Kettenhemd | -1 |
 | Halbe Platte | -1 |
 | Plattenpanzer | -1 |
-| komplette Ritterrüstung | -4 |
+| Komplette Ritterrüstung | -4 |
 | Schild | -0,5 |
 | Turmschild | -1,5 |
 

@@ -10,7 +10,7 @@ Er ist ein Mensch.
 
 ## Schlachten
 
-Er hat noch kaum Schlachten selbst miterlebt, aber diese, bei denen er der Befehlshaber war, wurden immer gewonnen.
+Er selbst hat noch kaum Schlachten miterlebt, aber diese, bei denen er der Befehlshaber war, wurden bisher immer gewonnen.
 
 ## Armee
 

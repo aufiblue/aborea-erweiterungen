@@ -3,10 +3,8 @@
 | Rüstungsart | Mind. Stärke | Rüstung | Manöver | Kosten | Kg | Häufigkeit | Besonderes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | beschlagene Lederrüstung\* | 4 | 7 | +0 | 16 GF | 14 | mittel | teilweise mit Eisen beschlagen |
-| „Eis-erne" Ritterrüstung | 7 | 11 | -5 | 100 GF | 50 | extrem selten \(in Norvlie im Tumtrah-Reich mittlere Häufigkeit\) |  |
-| Fellrüstung\* | 3 | 5 \(immer ein Wurf: bei mind. 6 hat das Wesdn, was sie trägt, bei einem Angriff des Gegners 6 Rüstung\) | +0 | 5 GF | 7 | mittel |  |
-| Rüstungsart | Mind.Stärke | Rüstung | Manöver | Kosten | Gewicht in Kg |  |  |
-| - | - | - | - | - | - |  |  |
+| „Eis-erne" Ritterrüstung | 7 | 11 | -5 | 100 GF | 50 | extrem selten \(in Norvlie im Tumtrah-Reich mittlere Häufigkeit\) |
+| Fellrüstung\* | 3 | 5 \(immer ein Wurf: bei mind. 6 hat das Wesdn, was sie trägt, bei einem Angriff des Gegners 6 Rüstung\) | +0 | 5 GF | 7 | mittel | |
 | Kettenhemd \(ärmellos\) | 4 | 6 bzw. 7 | +0 | 7 GF | 12 |  | nach Kauf einmal würfeln: 5 oder weniger auf Würfel -&gt; 6 Rüstung \(schlechtes Kettenhemd\), bei 6 oder mehr auf Würfel -&gt; 7 Rüstung \(gutes Kettenhemd\), es sei denn es wird auf Arme des Trägers gezielt |
 | Magierrüstung \(schlecht\)\* | 3 | 6 | +0 | 14 GF | 8 | selten |  |
 | Magierrüstung \(mittel\)\* | 3 | 7 | -1 | 64 GF | 10 | sehe selten |  |

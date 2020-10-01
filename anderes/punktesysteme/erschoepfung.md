@@ -1,12 +1,14 @@
 # Erschöpfung
 
-Erschöpfung kann einen in seinem Handeln sehr beeinträchtigen.
+Erschöpfung kann Jemanden in seinem Handeln sehr beeinträchtigen.
+
+## Erschöpfungspunkte
 
 Jeder Charakter erhält 10 + 3x seinem KO-Bonus an Erschöpfungspunkten.
 
-## Erschöpfungspunkte verlieren
+### Erschöpfungspunkte verlieren
 
-### Fortbewegung
+#### Fortbewegung
 
 | Situation | Erschöpfungspunkteverbrauch |
 | - | - |
@@ -17,22 +19,22 @@ Jeder Charakter erhält 10 + 3x seinem KO-Bonus an Erschöpfungspunkten.
 | Reiten (mittelhohe Geschwindigkeit) | 1 pro 20 Minuten |
 | Reiten (hohe Geschwindigkeit) | 1 pro 5 Minuten |
 
-### Kampf
+#### Kampf
 
 | Kampfart | Erschöpfungspunkteverlust |
 | - | - |
 | Nahkampf | 1 pro 6 Runden |
 | Fernkampf | 1 pro 12 Runden |
-| Berittener Kampf | +0,5 mehr pro Abrechnung |
+| berittener Kampf | +0,5 mehr pro Abrechnung |
 
-### Zauberei
+#### Zauberei
 
 | Zauberart | Erschöpfungspunkteverlust |
 | - | - |
-| Normale Zauber | 1 pro 4 Zauber |
-| Gezielte Zauber | 1 pro 3 Zauber |
+| normale Zauber | 1 pro 4 Zauber |
+| gezielte Zauber | 1 pro 3 Zauber |
 
-## Erschöpfungspunkte zurückerhalten
+### Erschöpfungspunkte zurückerhalten
 
 | Situation | Erschöpfungspunkte-Regeneration |
 | - | - |
@@ -42,7 +44,7 @@ Jeder Charakter erhält 10 + 3x seinem KO-Bonus an Erschöpfungspunkten.
 | Schlafen | 1 pro 20 Minuten |
 | Schlafen (unangenehm) | 1 pro 40 Minuten |
 
-## Beeinträchtigungen bei wenigen Erschöpfungspunkten
+### Beeinträchtigungen bei wenigen Erschöpfungspunkten
 
 | verbrauchte % der Erschöpfungspunkte | Malus auf kraftbenötigende Manöver |
 | - | - |

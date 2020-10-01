@@ -1,6 +1,6 @@
 # Dunkel Gefärbtes - Vorteil
 
-Dunkel Gefärbtes kann unter gegebenen Umständen einen Vorteil auf Schleichen, Tarnen etc. geben. \[Es wird immer abgerundet!\]
+Dunkel Gefärbtes kann unter gegebenen Umständen einen Vorteil auf Tarnen etc. gewähren (immer abgerundet!).
 
 | gefärbter Gegenstand | Vorteil |
 | :--- | :--- |
@@ -14,7 +14,7 @@ Dunkel Gefärbtes kann unter gegebenen Umständen einen Vorteil auf Schleichen, 
 | Kettenhemd | +1 |
 | Halbe Platte | +1 |
 | Plattenpanzer | +1 |
-| komplette Ritterrüstung | +4 |
+| Komplette Ritterrüstung | +4 |
 | Schild | +0,5 |
 | Turmschild | +1,5 |
 

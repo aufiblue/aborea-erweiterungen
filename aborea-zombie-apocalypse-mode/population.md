@@ -1,8 +1,8 @@
 # Paleas Population
 
-Die Population Paleas hat sich in diesen Zeiten sehr verändert.
+Die Population Paleas hat sich durch die Apokalypse sehr verändert.
 
-Die Häufigkeiten der verschiedenen Wesen sind in % angegeben. Das heißt, circa soviel Prozent gibt es heutzutage noch mehr oder weniger als früher von der jeweiligen Spezies.
+Die Häufigkeiten der verschiedenen Wesen sind in % angegeben. Das heißt, circa soviel Prozent gibt es heutzutage noch mehr oder weniger von der jeweiligen Spezies als früher.
 
 Wer zum Beispiel schneller rennen kann oder stärker ist, hat Vorteile. Es hängt von unterschiedlichsten Faktoren ab. Das sieht man auch bei den Prozentangaben, die die Schätzungen einiger sehr weiser Wesen sind.
 
@@ -35,5 +35,5 @@ Wer zum Beispiel schneller rennen kann oder stärker ist, hat Vorteile. Es häng
 | Zombie | 40000% |
 | Zwerg | 1% |
 
-*siehe "Neue NSC‘s und Monster" [Link einfügen]
+*siehe „[Neue NSC‘s und Monster](../neue-nscs-und-monster)” [Link einfügen]
 

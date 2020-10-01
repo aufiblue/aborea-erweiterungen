@@ -2,7 +2,7 @@
 
 Hier eine Tabelle für gewisse Seltenheitswerte und damit man etwa einschätzen kann, wie selten ein bestimmter Gegenstand oder etwas anderes in der Welt von Aborea circa ist.
 
-| Seltenheitsgrad | Beschrieben mit |
+| Seltenheitsgrad | beschrieben mit |
 | :--- | :--- |
 | 1 | sehr häufig |
 | 2 | häufig |

@@ -1,6 +1,6 @@
 # Kreaturenerschaffung
 
-Das folgende sind Eigenschaften, die man an eine Kreatur bei der Erschaffung vergeben kann.
+Das folgende sind Eigenschaften, die man bei der Erschaffung einer Kreatur vergeben kann.
 
 ## Brennend
 
