@@ -35,5 +35,8 @@ Wer zum Beispiel schneller rennen kann oder stärker ist, hat Vorteile. Es häng
 | Zombie | 40000% |
 | Zwerg | 1% |
 
-*siehe „[Neue NSC‘s und Monster](neue-nscs-und-monster)”
+* siehe:
+„[Endra](../neue-nscs-und-monster/endra.md)”
+„[Erle](../neue-nscs-und-monster/erle.md)”
+„[Graars](../neue-nscs-und-monster/graars.md)”
 
