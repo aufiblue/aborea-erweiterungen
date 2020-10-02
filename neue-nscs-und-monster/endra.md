@@ -6,7 +6,16 @@ Endra sind riesige Raubvögel, die gerne Dinge stehlen \(sie können immer höch
 
 ## Werte
 
-| TP | Ini | Waffe | Schaden | KB | Rüstung | Reichtum | Sprache | Besonderes | SG |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 25 | +1 | Krallen | +1 | 8 | 8 | Schatz E | Endraeisch | Fliegend | 5 |
+| Kategorie | Wert |
+| - | - |
+| TP | 25 |
+| INI | +1 |
+| Waffe | Krallen |
+| Schaden | +1 |
+| KB | 8 |
+| Rüstung | 8 (sehr zäh) |
+| Reichtum | Schatz E |
+| Sprache | Endraeisch |
+| Besonderes | Fliegend |
+| SG | 5 |
 
