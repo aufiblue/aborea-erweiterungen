@@ -6,8 +6,5 @@ Ein kleines Wesen sollte ein kleines Reittier wie ein Pony reiten, da sie selbst
 
 Diese Regel gilt Beispielsweise für
 
-„Goblins”
-„[Kobolde](../nscs-und-monster/kobold.md)”
-„[Rotlinge](../neue-voelker/rotlinge.md)"
-„Zwerge”
+„Goblins”, „[Kobolde](../nscs-und-monster/kobold.md)”, „[Rotlinge](../neue-voelker/rotlinge.md)”, „Zwerge”    
 
