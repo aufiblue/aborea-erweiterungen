@@ -74,7 +74,7 @@
 
 * [Alternatives Kampfsystem](der-kampf/alternatives-kampfsystem.md)
 * [In Nahkampf schießen](der-kampf/in-nahkampf-schiessen.md)
-* [Initiativeveränderung durch Rüstungen](der-kampf/initiativeveraenderung-ruestungen.md)
+* [Initiativeveränderung durch Rüstungen](der-kampf/initiativeveraenderung-ruestung.md)
 * [Kampfsystem für große Gruppen](der-kampf/kampfsystem-grosse-gruppen.md)
 * [Kampfsystem für große Gruppen 2](der-kampf/kampfsystem-grosse-gruppen-2.md)
 * [Kampfsystem für große Gruppen 3](der-kampf/kampfsystem-grosse-gruppen-3.md)
