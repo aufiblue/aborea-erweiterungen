@@ -120,6 +120,7 @@
     * [Pflanzenpest](anderes/krankheiten/pflanzenpest.md)
     * [Die Krankheit der Faulen](anderes/krankheiten/krankheit-der-faulen.md)
 * [Tabellen](anderes/tabellen/README.md)
+    * [Reiseereignisse](anderes/tabellen/reiseereignisse.md)
     * [Zwischen den Abenteuern](anderes/tabellen/zwischen-den-abenteuern.md)
 * [Besondere Gegenstandseigenschaften](anderes/gegenstandseigenschaften/README.md)
     * [Dunkel Gefärbtes - Vorteil](anderes/gegenstandseigenschaften/dunkle-farbe.md)
