@@ -128,6 +128,9 @@
     * [Handschuhe im waffenlosen Kampf](anderes/gegenstandseigenschaften/handschuhe.md)
     * [Rostige Gegenstände](anderes/gegenstandseigenschaften/rostiges.md)
     * [TP von Gegenständen](anderes/gegenstandseigenschaften/tp-gegenstaende.md)
+* [Crafting](anderes/crafting/README.md)
+    * [Craftingdauer](anderes/crafting/craftingdauer.md)
+    * [Craftingqualität](anderes/crafting/craftingqualitaet.md)
 * [Punktesysteme](anderes/punktesysteme/README.md)
     * [Widerstand gegen Krankheiten usw.](anderes/punktesysteme/widerstand.md)
     * [Wut](anderes/punktesysteme/wut.md)
@@ -136,7 +139,6 @@
 * [Vertrauen](anderes/vertrauen.md)
 * [Widerstandspunkte etc](anderes/widerstandspunkte-etc.md)
 * [Seltenheiten](anderes/seltenheiten.md)
-* [Craftingdauer](anderes/craftingdauer.md)
 * [Kreaturenerschaffung](anderes/kreaturenerschaffung.md)
 * [Erzadern im Casnewydd und Ghalgrat](anderes/erzadern-im-casnewydd-und-ghalgrat.md)
 
