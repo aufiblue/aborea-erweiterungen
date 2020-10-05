@@ -124,6 +124,7 @@
 * [Besondere Gegenstandseigenschaften](anderes/gegenstandseigenschaften/README.md)
     * [Dunkel Gefärbtes - Vorteil](anderes/gegenstandseigenschaften/dunkle-farbe.md)
     * [Hell Gefärbtes - Nachteil](anderes/gegenstandseigenschaften/helle-farbe.md)
+    * [Handschuhe im waffenlosen Kampf](anderes/gegenstandseigenschaften/handschuhe.md)
     * [Rostige Gegenstände](anderes/gegenstandseigenschaften/rostiges.md)
     * [TP von Gegenständen](anderes/gegenstandseigenschaften/tp-gegenstaende.md)
 * [Punktesysteme](anderes/punktesysteme/README.md)
