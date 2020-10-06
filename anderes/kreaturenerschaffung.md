@@ -11,6 +11,54 @@ Das folgende sind Eigenschaften, die man bei der Erschaffung einer Kreatur verge
 | +3 | 150 |
 | pro 1 weiteres | je +50 KP |
 
+## Explosion
+
+Dies kann nur eine Kreatur erhalten, die explosives Gas und Feuer speien kann! Es bewirkt, dass die Kreatur die zuerst das explosive Gas und dann das Feuer speit, eine Explosion auslöst, die allen Wesen in Reichweite einen Schaden von 12 TP zufügt und zudem alle Wesen in Reichweite anzündet. Das Feuer verursacht dann pro Runde weitere 4 TP Schaden, bis es gelöscht wurde.
+
+KP +280
+
+## Farbwechsler
+
+Die Kreatur kann sich seiner Umgebung anpassen und sich somit sehr sehr gut verstecken: Bonus auf Schleichen, Verstecken, Tarnen etc.
+
+| Bonus | KP |
+| :--- | :--- |
+| +1 | +75 |
+| +2 | +100 |
+| +3 | +125 |
+| +4 | +150 |
+| +5 | +175 |
+| +6 | +200 |
+| +7 | +225 |
+| +8 | +250 |
+| +9 | +275 |
+| +10 | +300 |
+| +1 dazu | +25 dazu |
+
+## Festhalten
+
+Die Kreatur kann mit ihrem normalen Kampfbonus diese Attacke ausführen. Wenn sie gelingt, kann sich das Opfer für eine Runde nicht bewegen und lässt die Waffe bei einem fehlschlagenden Wurf mit einem W10, erleichtert um den ST-Bonus, auf 7 fallen.
+
+KP +100
+
+## Flammenballschleuderer
+
+Die Kreatur kann alle 2 Runden anstatt einer normalen Attacke einen Flammenball auf einen seiner Gegner schleudern, der wenn er trifft 6 TP Schaden macht. Dann erlischt er aber auch sofort wieder.
+
+KP +120
+
+## Hitze
+
+Von der Kreatur geht eine solche Hitze aus, dass jede Kreatur die sich in der Nähe befindet alle 2 Minuten einen MS 14 Widerstandswurf erleichtert um den KO-Bonus würfeln muss. Wenn dies misslingt erhält man ganze 6 TP Schaden. Zudem fangen alle sehr leicht entzündlichen Gegenstände in der Nähe der Kreatur Feuer \(Pergamente, Kartenspiele etc.\).
+
+KP +220
+
+## Huftritt
+
+Wenn die Kreatur einen Huftritt ausführt und trifft, dann tritt es eine andere Kreatur je nach Größe und Stärke so und so weit weg, welche dann eine Runde lang nicht agieren kann.
+
+KP +40
+
 ## Krallengriff \(Vögel\)
 
 Wenn die Kreatur diese Aktion ausführt, krallt sie sich nach einem Angriff mit ihren Krallen in den Gegner, um in der nächsten Runde mit ihrem Schnabel anzugreifen. Das Opfer erhält, solange die Kreatur in es gekrallt ist, einen Malus auf seinen Angriff und einen Malus auf seine Verteidigung. Sich von dem Griff zu lösen erfordert ein erfolgreiches Manöver, erleichtert um den Wert in Athletik und den ST- oder GE-Bonus. Wenn man es schafft, dann erhält man Schaden, da es wehtut sich vom Griff zu lösen.
@@ -33,51 +81,11 @@ Malus Angriff + Verteidigung Pro 1 Malus auf Angriff oder Verteidigung gibt +25 
 | +3 | +30 |
 | +1 dazu | +10 dazu |
 
-## Farbwechsler
+## Lichtaufsauger
 
-Die Kreatur kann sich seiner Umgebung anpassen und sich somit sehr sehr gut verstecken: Bonus auf Schleichen, Verstecken, Tarnen etc.
+Die Kreatur kann im Umkreis von einem Meter alles Licht aufsaugen, sodass andere in dem Umkreis nur noch ein schwarzes Loch sehen.
 
-| Bonus | KP |
-| :--- | :--- |
-| +1 | +75 |
-| +2 | +100 |
-| +3 | +125 |
-| +4 | +150 |
-| +5 | +175 |
-| +6 | +200 |
-| +7 | +225 |
-| +8 | +250 |
-| +9 | +275 |
-| +10 | +300 |
-| +1 dazu | +25 dazu |
-
-## Sturzflug
-
-Die Kreatur kann die Attacke Sturzflug ausführen und -vorausgesetzt er schafft den Angriff- macht dann doppelten Schaden.
-
-KP +80
-
-## Huftritt
-
-Wenn die Kreatur einen Huftritt ausführt und trifft, dann tritt es eine andere Kreatur je nach Größe und Stärke so und so weit weg, welche dann eine Runde lang nicht agieren kann.
-
-KP +40
-
-## Umrennen
-
-Wenn die Kreatur den Angriff „Umrennen" ausführt und damit Erfolg hat, trampelt es einen nieder und macht sehr wahrscheinlich Extraschaden. Man selbst liegt dann.
-
-KP ohne Extra-Schaden +40
-
-Extra-Schaden:
-
-| Extra-Schaden | KP |
-| :--- | :--- |
-| +1 | +10 |
-| +2 | +20 |
-| +3 | +30 |
-| +4 | +40 |
-| +1 dazu | +10 dazu |
+KP +180
 
 ## Niedertrampeln
 
@@ -92,6 +100,36 @@ KP ohne Extra-Schaden +40
 | +3 | +30 |
 | +4 | +40 |
 | +1 dazu | +10 dazu |
+
+## Resistenz
+
+Das Wesen ist gegen eine Sache komplett resistent und kann dadurch keinen Schaden erhalten (z.B. Feuer, Wasser).
+
+KP +180
+
+## Rüstungsknacker
+
+Rüstung spielt für die Kreatur keine Rolle. Sie ignoriert jegliche Art von Rüstung.
+
+KP +100
+
+## Stromschlag
+
+Die Kreatur kann alle 5 Minuten einmal einen Stromschlag verteilen, der 8 TP Schaden macht, wenn die gegnerische Kreatur einen Widerstandswurf gegen MS 10 erleichtert um den KO-Bonus nicht schafft.
+
+KP +60
+
+## Sturzflug
+
+Die Kreatur kann die Attacke Sturzflug ausführen und -vorausgesetzt er schafft den Angriff- macht dann doppelten Schaden.
+
+KP +80
+
+## Taucher
+
+Die Kreatur kann solange tauchen, wie sie will.
+
+KP +80
 
 ## Teil-Fliegend
 
@@ -168,51 +206,25 @@ Jede 7. Runde:
 
 Das geht immer so weiter.
 
-## Stromschlag
+## Umrennen
 
-Die Kreatur kann alle 5 Minuten einmal einen sehr heftigen Stromschlag austeilen, der 8 TP Schaden macht, wenn die gegnerische Kreatur einen Widerstandswurf gegen MS 10 erleichtert um den KO-Bonus nicht schafft und die Kreatur den Angriff aner hinbekommt.
+Wenn die Kreatur den Angriff „Umrennen" ausführt und damit Erfolg hat, trampelt es einen nieder und macht sehr wahrscheinlich Extraschaden. Man selbst liegt dann.
 
-KP +60
+KP ohne Extra-Schaden +40
 
-## Rüstungsknacker
+Extra-Schaden:
 
-Rüstung spielt für die Kreatur keine Rolle. Sie ignoriert jegliche Art von Rüstung.
-
-KP +100
-
-## Hitze
-
-Von der Kreatur geht eine solche Hitze aus, dass jede Kreatur die sich in der Nähe befindet alle 2 Minuten einen MS 14 Widerstandswurf erleichtert um den KO-Bonus würfeln muss. Wenn dies misslingt erhält man ganze 6 TP Schaden. Zudem fangen alle sehr leicht entzündlichen Gegenstände in der Nähe der Kreatur Feuer \(Pergamente, Kartenspiele etc.\).
-
-KP +220
-
-## Lichtaufsauger
-
-Die Kreatur kann im Umkreis von einem Meter alles Licht aufsaugen, sodass andere in dem Umkreis nur noch ein schwarzes Loch sehen.
-
-KP +180
-
-## Taucher
-
-Die Kreatur kann solange tauchen, wie sie will.
-
-KP +80
-
-## Explosion
-
-Dies kann nur eine Kreatur erhalten, die explosives Gas und Feuer speien kann! Es bewirkt, dass die Kreatur die zuerst das explosive Gas und dann das Feuer speit, eine Explosion auslöst, die allen Wesen in Reichweite einen Schaden von 12 TP zufügt und zudem alle Wesen in Reichweite anzündet. Das Feuer verursacht dann pro Runde weitere 4 TP Schaden, bis es gelöscht wurde.
-
-KP +280
+| Extra-Schaden | KP |
+| :--- | :--- |
+| +1 | +10 |
+| +2 | +20 |
+| +3 | +30 |
+| +4 | +40 |
+| +1 dazu | +10 dazu |
 
 ## Widerständig
 
 Die Kreatur erhält auf alle Widerstandswürfe einen Bonus von +3.
 
 KP +20
-
-## Flammenballschleuderer
-
-Die Kreatur kann alle 2 Runden anstatt einer normalen Attacke einen Flammenball auf einen seiner Gegner schleudern, der wenn er trifft 6 TP Schaden macht. Dann erlischt er aber auch sofort wieder.
-
-KP +120
 

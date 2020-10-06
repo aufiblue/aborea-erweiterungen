@@ -56,6 +56,8 @@
 ## Neue Gilden und Orden
 
 * [Die Aufständler-Gilde](neue-gilden-und-orden/die-aufstaendler-gilde.md)
+* [Die Gilde der Arbeitslosen](neue-gilden-und-orden/gilde-der-arbeitslosen.md)
+* [Die Gilde der Reichen](neue-gilden-und-orden/gilde-der-reichen.md)
 
 ## NSC's und Monster
 
@@ -138,7 +140,6 @@
     * [Motivation](anderes/punktesysteme/motivation.md)
     * [Erschöpfung](anderes/punktesysteme/erschoepfung.md)
 * [Vertrauen](anderes/vertrauen.md)
-* [Widerstandspunkte etc](anderes/widerstandspunkte-etc.md)
 * [Seltenheiten](anderes/seltenheiten.md)
 * [Kreaturenerschaffung](anderes/kreaturenerschaffung.md)
 * [Erzadern im Casnewydd und Ghalgrat](anderes/erzadern-im-casnewydd-und-ghalgrat.md)
@@ -147,6 +148,10 @@
 
 * [Wiederbelebung](leichtere-spielvariante/wiederbelebung.md)
 * [Währungen](leichtere-spielvariante/waehrungen.md)
+
+## Regelveränderungen
+
+* [Veränderung der Schwimmregel](regelveraenderungen/schwimmregel-aenderung.md)
 
 ## Anhang
 
