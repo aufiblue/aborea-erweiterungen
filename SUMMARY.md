@@ -151,7 +151,7 @@
 
 ## Regelveränderungen
 
-* [Veränderung der Schwimmregel](regelveraenderungen/schwimmregel-aenderung.md)
+* [Veränderung der Schwimmregel](regelaenderungen/schwimmregel-aenderung.md)
 
 ## Anhang
 
