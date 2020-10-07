@@ -14,7 +14,7 @@
 * [Kobold](voelker-zum-selbstspielen/kobold.md)
 * [Rotling](voelker-zum-selbstspielen/rotling.md)
 
-## Aborea-Zombie Apocalypse Mode
+## Aborea - Zombie Apocalypse Mode
 
 * [Einleitung](aborea-zombie-apocalypse-mode/einleitung.md)
 * [Die Zombies](aborea-zombie-apocalypse-mode/zombies.md)
@@ -22,6 +22,11 @@
 * [Startkapital](aborea-zombie-apocalypse-mode/startkapital.md)
 * [Paleas Population](aborea-zombie-apocalypse-mode/population.md)
 * [Andere Kontinente](aborea-zombie-apocalypse-mode/andere-kontinente.md)
+
+## Der Start
+
+* [Zu wenig Startvermögen](der-start/zu-wenig-startvermoegen.md)
+* [Alternatives Startvermögen](der-start/alternatives-startvermoegen.md)
 
 ## Neue Berufe
 
@@ -67,6 +72,7 @@
 
 * [Liste mit NSC's](neue-nscs-und-monster/liste-mit-nscs.md)
 * [Die 10 Braunbärbrüder](neue-nscs-und-monster/die-10-braunbaerbrueder.md)
+* [Der Fluch im Nebel](neue-nscs-und-monster/fluch-im-nebel.md)
 * [Onky und Krollz](neue-nscs-und-monster/onky-und-krollz.md)
 * [Erle](neue-nscs-und-monster/erle.md)
 * [Graars](neue-nscs-und-monster/graars.md)
@@ -143,6 +149,7 @@
 * [Seltenheiten](anderes/seltenheiten.md)
 * [Kreaturenerschaffung](anderes/kreaturenerschaffung.md)
 * [Erzadern im Casnewydd und Ghalgrat](anderes/erzadern-im-casnewydd-und-ghalgrat.md)
+* [Die KO-Grenze](ko-grenze.md)
 
 ## Leichtere Spielvariante
 
