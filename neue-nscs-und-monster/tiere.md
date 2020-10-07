@@ -33,75 +33,75 @@ Hier sind die Werte einiger Tiere aufgeführt.
 | Windpferd-Arbeitspferd | 10 | +2 | Hufe oder Haupt | -1 | 2 | 5 | Huftritt, Umrennen (6) | | 2 |
 | Windpferd-Schlachtross | 20 | +4 | Hufe oder Haupt | +1 | 4 | 6 | Huftritt, Umrennen (6) | | 4 |
 
-## 1
+## 1 - Sturzflug
 
 Gilt für: Adler & Falke
 
 Ein Adler oder ein Falke kann die Attacke Sturzflug ausführen und -vorausgesetzt er schafft den Angriff- macht er dann doppelten Schaden
 
-## 2
+## 2 - Krallengriff
 
 Gilt für: Falke
 
 Wenn ein Falke diese Aktion ausführt, krallt er sich nach einem Angriff mit seinen Krallen in den Gegner, um in der nächsten Runde mit seinem Schnabel anzugreifen. Das Opfer erhält, solange der Falke in es gekrallt ist, einen Malus von -3 auf seinen Angriff und einen von -1 auf seine Verteidigung. Sich von dem Griff zu lösen erfordert ein erfolgreiches MS 10 Manöver, erleichtert um den Wert in Athletik und den ST- oder GE-Bonus. Wenn man es schafft, dann erhält man trotzdem 2 Schaden, da es wehtut sich von dem Griff zu lösen.
 
-## 3
+## 3 - Krallengriff
 
 Gilt für: Adler
 
 Wenn ein Adler diese Aktion ausführt, krallt er sich nach einem Angriff mit seinen Krallen in den Gegner, um in der nächsten Runde mit seinem Schnabel anzugreifen. Das Opfer erhält, solange der Adler in es gekrallt ist, einen Malus von -3 auf seinen Angriff und einen von -2 auf seine Verteidigung. Sich von dem Griff zu lösen erfordert ein erfolgreiches MS 12 Manöver, erleichtert um den Wert in Athletik und den ST- oder GE-Bonus. Wenn man es schafft, dann erhält man 2 Schaden, da es wehtut sich von dem Griff zu lösen.
 
-## 4
+## 4 - Krallengriff
 
 Gilt für: Rabe
 
 Wenn ein Rabe diese Aktion ausführt, krallt er sich nach einem Angriff mit seinen Krallen in den Gegner, um in der nächsten Runde mit seinem Schnabel anzugreifen. Das Opfer erhält, solange der Rabe in es gekrallt ist, einen Malus von -2 auf seinen Angriff und einen von -1 auf seine Verteidigung. Sich von dem Griff zu lösen erfordert ein erfolgreiches MS 8 Manöver, erleichtert um den Wert in Athletik und den ST- oder GE-Bonus. Wenn man es schafft, dann erhält man 1 Schaden, da es wehtut sich von dem Griff zu lösen.
 
-## 5
+## 5 - Umrennen
 
 Gilt für: Kamel
 
-Wenn ein Pferd den Angriff „Umrennen" ausführt und damit Erfolg hat, trampelt es einen nieder und macht 1 Schaden mehr. Man selbst liegt dann.
+Wenn ein Kamel den Angriff „Umrennen" ausführt und damit Erfolg hat, trampelt es einen nieder und macht 1 Schaden mehr. Man selbst liegt dann.
 
-## 6
+## 6 - Umrennen
 
 Gilt für: Arbeitspferd, Kriegskamel, Reitpferd, Schlachtross, Windpferd, Windpferd-Arbeitspferd & Windpferd-Schlachtross
 
 Wenn ein Tier den Angriff „Umrennen" ausführt und damit Erfolg hat, trampelt es einen nieder und macht 2 Schaden mehr. Man selbst liegt dann.
 
-## 7
+## 7 - Umrennen
 
 Gilt für: Nishar-Schlachtross, Nishar-Pferd & Nishar-Arbeitspferd
 
 Wenn ein Nishar-Pferd den Angriff „Umrennen" ausführt und damit Erfolg hat, trampelt es einen nieder und macht 3 Schaden mehr. Man selbst liegt dann.
 
-## 8
+## 8 - Umrennen/Niedertrampeln
 
 Gilt für: Elefant
 
 Wenn ein Elefant den Angriff „Umrennen" bzw. „Niedertrampeln" ausführt und damit Erfolg hat, trampelt er einen nieder und macht 4 Schaden mehr. Man selbst liegt dann.
 
-## 9
+## 9 - Teil-Fliegend
 
 Gilt für: Ente
 
 Eine Ente kann alle 10 Runden einmal ca. 10 Meter weit fliegen.
 
-## 10
+## 10 - Teil-Fliegend
 
 Gilt für: Wildente
 
 Eine Wildente kann alle 8 Runden einmal ca. 12 Meter weit fliegen.
 
-## 11
+## 11 - Teil-Fliegend
 
-Gilg für: Wildgans
+Gilt für: Wildgans
 
 Eine Wildgans kann alle 10 Runden einmal ca. 25 Meter weit fliegen.
 
-## 12
+## 12 - Farbwechsler
 
-Gilt für: Farbwechsler
+Gilt für: Chamäleon
 
 Ein Chamäleon kann sich seiner Umgebung anpassen und sich somit sehr sehr gut verstecken: +4 auf Fertigkeiten wie Schleichen oder Verstecken.
 
