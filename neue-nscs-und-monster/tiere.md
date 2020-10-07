@@ -45,13 +45,13 @@ Gilt für: Falke
 
 Wenn ein Falke diese Aktion ausführt, krallt er sich nach einem Angriff mit seinen Krallen in den Gegner, um in der nächsten Runde mit seinem Schnabel anzugreifen. Das Opfer erhält, solange der Falke in es gekrallt ist, einen Malus von -3 auf seinen Angriff und einen von -1 auf seine Verteidigung. Sich von dem Griff zu lösen erfordert ein erfolgreiches MS 10 Manöver, erleichtert um den Wert in Athletik und den ST- oder GE-Bonus. Wenn man es schafft, dann erhält man trotzdem 2 Schaden, da es wehtut sich von dem Griff zu lösen.
 
-## 3 - Krallengriff
+## 3 - Krallengriff (2)
 
 Gilt für: Adler
 
 Wenn ein Adler diese Aktion ausführt, krallt er sich nach einem Angriff mit seinen Krallen in den Gegner, um in der nächsten Runde mit seinem Schnabel anzugreifen. Das Opfer erhält, solange der Adler in es gekrallt ist, einen Malus von -3 auf seinen Angriff und einen von -2 auf seine Verteidigung. Sich von dem Griff zu lösen erfordert ein erfolgreiches MS 12 Manöver, erleichtert um den Wert in Athletik und den ST- oder GE-Bonus. Wenn man es schafft, dann erhält man 2 Schaden, da es wehtut sich von dem Griff zu lösen.
 
-## 4 - Krallengriff
+## 4 - Krallengriff (3)
 
 Gilt für: Rabe
 
@@ -63,13 +63,13 @@ Gilt für: Kamel
 
 Wenn ein Kamel den Angriff „Umrennen" ausführt und damit Erfolg hat, trampelt es einen nieder und macht 1 Schaden mehr. Man selbst liegt dann.
 
-## 6 - Umrennen
+## 6 - Umrennen (2)
 
 Gilt für: Arbeitspferd, Kriegskamel, Reitpferd, Schlachtross, Windpferd, Windpferd-Arbeitspferd & Windpferd-Schlachtross
 
 Wenn ein Tier den Angriff „Umrennen" ausführt und damit Erfolg hat, trampelt es einen nieder und macht 2 Schaden mehr. Man selbst liegt dann.
 
-## 7 - Umrennen
+## 7 - Umrennen (3)
 
 Gilt für: Nishar-Schlachtross, Nishar-Pferd & Nishar-Arbeitspferd
 
@@ -87,13 +87,13 @@ Gilt für: Ente
 
 Eine Ente kann alle 10 Runden einmal ca. 10 Meter weit fliegen.
 
-## 10 - Teil-Fliegend
+## 10 - Teil-Fliegend (2)
 
 Gilt für: Wildente
 
 Eine Wildente kann alle 8 Runden einmal ca. 12 Meter weit fliegen.
 
-## 11 - Teil-Fliegend
+## 11 - Teil-Fliegend (3)
 
 Gilt für: Wildgans
 
