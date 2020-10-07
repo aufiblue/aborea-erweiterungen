@@ -25,7 +25,7 @@
 
 ## Der Start
 
-* [Zu wenig Startvermögen](der-start/zu-wenig-startvermoegen.md)
+* [Zu wenig Startkapital](der-start/zu-wenig-startkapital.md)
 * [Alternatives Startvermögen](der-start/alternatives-startvermoegen.md)
 
 ## Neue Berufe
