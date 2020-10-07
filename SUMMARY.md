@@ -71,6 +71,7 @@
 ## Neue NSC's und Monster
 
 * [Liste mit NSC's](neue-nscs-und-monster/liste-mit-nscs.md)
+* [Tiere](neue-nscs-und-monster/tiere.md)
 * [Der Fluch im Nebel](neue-nscs-und-monster/fluch-im-nebel.md)
 * [Die 10 Braunbärbrüder](neue-nscs-und-monster/die-10-braunbaerbrueder.md)
 * [Endra](neue-nscs-und-monster/endra.md)
@@ -126,6 +127,7 @@
 * [Erzadern im Casnewydd und Ghalgrat](anderes/erzadern-im-casnewydd-und-ghalgrat.md)
 * [Krankheiten](anderes/krankheiten/README.md)
     * [Die Krankheit der Faulen](anderes/krankheiten/krankheit-der-faulen.md)
+    * [Krankheiten durch Nahrungseinnahme](anderes/krankheiten/krankheiten-durch-nahrung.md)
     * [Pflanzenpest](anderes/krankheiten/pflanzenpest.md)
 * [Kreaturenerschaffung](anderes/kreaturenerschaffung.md)
 * [Punktesysteme](anderes/punktesysteme/README.md)
@@ -138,6 +140,7 @@
     * [Explosionsschaden](anderes/schadensarten/explosionsschaden.md)
     * [Schaden beim Ertrinken](anderes/schadensarten/schaden-ertrinken.md)
 * [Seltenheiten](anderes/seltenheiten.md)
+* [Strafen](anderes/strafen.md)
 * [Tabellen](anderes/tabellen/README.md)
     * [Reiseereignisse](anderes/tabellen/reiseereignisse.md)
     * [Zwischen den Abenteuern](anderes/tabellen/zwischen-den-abenteuern.md)

@@ -4,10 +4,12 @@
 
 | Waffe | Gruppe | Mind.Stärke | Schaden | Attribut | Kg | Ini | Preis | Häufigkeit | Besonderes |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Angespitzter Holzpflock | Wuchtwaffe | 6 | -1 | ST | 8 | -3 | 2 TT | mittel | zweihändig geführt |
 | Fleischer-Messer | Kurze Klingen-/Wurf-/Stichwaffe | 3 | -1 | ST/GE | 1 | +0 | 12 TT | häufig - mittel |  |  |  |
 | hölzernes Bastardschwert | Lange Klingen-/Holzwaffe |  | -1 | ST/GE | 1 | +1 | 4 TT | häufig - mittel |  |  |  |
 | hölzernes Kurzschwert | Kurze Klingen-/Holzwaffe |  | -1 | ST/GE | 0,8 | +1 | 2 TT | häufig - mittel |  |  |  |
 | hölzernes Langschwert | Lange Klingen-/Holzwaffe |  | -1 | ST/GE | 1,2 | +1 | 4 TT | häufig - mittel |  |  |  |
+| Katana | Lange Klingenwaffe | 4 | +1 | ST/GE | 3,5 | +0 | 38 TT | selten | |
 | Keule mit Spikes | Wuchtwaffe | 5 | +1 | ST | 3,5 | -1 | 1 TT | mittel |  |  |  |
 | Langdolch | Kurze Klingen-/Wurf-/Stichwaffe |  | -1 | ST/GE | 1,5 | +0 | 12 TT |  |  |  |  |
 | Langschwert \(diamanten\) | Lange Klingenwaffe | 5 | +6 | ST/GE | 4 | +2 | 50.000 GF | extrem selten |  |  |  |
@@ -21,6 +23,7 @@
 | Silberdolch | Kurze Klingen-/Wurf-/Stichwaffe |  | -2 | ST/GE | 0,5 | +2 | 12 TT | selten |  |  |  |
 | Spitzhacke | Wuchtwaffe | 4 | -1/+0 \(bei Zweihand\) | ST | 3,5 | -2/-1 \(bei Zweihand\) | 8 TT | mittel |  |  |  |
 | Stock | Stangenwaffe |  | -2 | ST/GE | 0,5 | +1/+2 \(bei Zweihand\) | 0 | häufig |  |  |  |
+| Streitkolben | Wuchtwaffe | 3 | +1 | ST | 4 | +0 | 26 TT | mittel - selten | |
 
 ## Waffen \(Fernkampf\)
 

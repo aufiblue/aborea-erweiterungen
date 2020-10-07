@@ -5,6 +5,7 @@
 | Gegenstand | Kg | Preis | Häufigkeit | Funktion |  |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Amboss | 60 | 100 GF | mittel - selten | zum Bearbeiten von Metall |  |
+| Amphore | 1,5 | 4 TT | eher häufig | Fassungsvermögen 4 l |
 | Angel \(mit Zubehör\) | 1 | 2 TT | mittel | zum Angeln |  |
 | Äpfel | 0,1 | 1 MU | häufig - mittel | 3 Äpfel zum Essen |  |
 | Atlas Palea’s | 4 | 24 GF | selten | Atlas der bekannten Welt |  |
