@@ -122,7 +122,7 @@
 * [Crafting](anderes/crafting/README.md)
     * [Craftingdauer](anderes/crafting/craftingdauer.md)
     * [Craftingqualität](anderes/crafting/craftingqualitaet.md)
-* [Die KO-Grenze](ko-grenze.md)
+* [Die KO-Grenze](anderes/ko-grenze.md)
 * [Erzadern im Casnewydd und Ghalgrat](anderes/erzadern-im-casnewydd-und-ghalgrat.md)
 * [Krankheiten](anderes/krankheiten/README.md)
     * [Die Krankheit der Faulen](anderes/krankheiten/krankheit-der-faulen.md)
