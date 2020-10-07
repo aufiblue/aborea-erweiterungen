@@ -33,51 +33,75 @@ Hier sind die Werte einiger Tiere aufgeführt.
 | Windpferd-Arbeitspferd | 10 | +2 | Hufe oder Haupt | -1 | 2 | 5 | Huftritt, Umrennen (6) | | 2 |
 | Windpferd-Schlachtross | 20 | +4 | Hufe oder Haupt | +1 | 4 | 6 | Huftritt, Umrennen (6) | | 4 |
 
-## 1 - Sturzflug (Adler & Falke)
+## 1
 
-Ein Adler und ein Falke kann die Attacke Sturzflug ausführen und -vorausgesetzt er schafft den Angriff- macht er dann doppelten Schaden
+Gilt für: Adler & Falke
 
-## 2 - Krallengriff (Falke)
+Ein Adler oder ein Falke kann die Attacke Sturzflug ausführen und -vorausgesetzt er schafft den Angriff- macht er dann doppelten Schaden
+
+## 2
+
+Gilt für: Falke
 
 Wenn ein Falke diese Aktion ausführt, krallt er sich nach einem Angriff mit seinen Krallen in den Gegner, um in der nächsten Runde mit seinem Schnabel anzugreifen. Das Opfer erhält, solange der Falke in es gekrallt ist, einen Malus von -3 auf seinen Angriff und einen von -1 auf seine Verteidigung. Sich von dem Griff zu lösen erfordert ein erfolgreiches MS 10 Manöver, erleichtert um den Wert in Athletik und den ST- oder GE-Bonus. Wenn man es schafft, dann erhält man trotzdem 2 Schaden, da es wehtut sich von dem Griff zu lösen.
 
-## 3 - Krallengriff (Adler)
+## 3
+
+Gilt für: Adler
 
 Wenn ein Adler diese Aktion ausführt, krallt er sich nach einem Angriff mit seinen Krallen in den Gegner, um in der nächsten Runde mit seinem Schnabel anzugreifen. Das Opfer erhält, solange der Adler in es gekrallt ist, einen Malus von -3 auf seinen Angriff und einen von -2 auf seine Verteidigung. Sich von dem Griff zu lösen erfordert ein erfolgreiches MS 12 Manöver, erleichtert um den Wert in Athletik und den ST- oder GE-Bonus. Wenn man es schafft, dann erhält man 2 Schaden, da es wehtut sich von dem Griff zu lösen.
 
-## 4 - Krallengriff (Rabe)
+## 4
+
+Gilt für: Rabe
 
 Wenn ein Rabe diese Aktion ausführt, krallt er sich nach einem Angriff mit seinen Krallen in den Gegner, um in der nächsten Runde mit seinem Schnabel anzugreifen. Das Opfer erhält, solange der Rabe in es gekrallt ist, einen Malus von -2 auf seinen Angriff und einen von -1 auf seine Verteidigung. Sich von dem Griff zu lösen erfordert ein erfolgreiches MS 8 Manöver, erleichtert um den Wert in Athletik und den ST- oder GE-Bonus. Wenn man es schafft, dann erhält man 1 Schaden, da es wehtut sich von dem Griff zu lösen.
 
-## 5 - Umrennen (Kamel)
+## 5
+
+Gilt für: Kamel
 
 Wenn ein Pferd den Angriff „Umrennen" ausführt und damit Erfolg hat, trampelt es einen nieder und macht 1 Schaden mehr. Man selbst liegt dann.
 
-## 6 - Umrennen (Arbeitspferd, Kriegskamel, Reitpferd, Schlachtross, Windpferd, Windpferd-Arbeitspferd & Windpferd-Schlachtross)
+## 6
+
+Gilt für: Arbeitspferd, Kriegskamel, Reitpferd, Schlachtross, Windpferd, Windpferd-Arbeitspferd & Windpferd-Schlachtross
 
 Wenn ein Tier den Angriff „Umrennen" ausführt und damit Erfolg hat, trampelt es einen nieder und macht 2 Schaden mehr. Man selbst liegt dann.
 
-## 7 - Umrennen (Nishar-Schlachtross, Nishar-Pferd & Nishar-Arbeitspferd)
+## 7
+
+Gilt für: Nishar-Schlachtross, Nishar-Pferd & Nishar-Arbeitspferd
 
 Wenn ein Nishar-Pferd den Angriff „Umrennen" ausführt und damit Erfolg hat, trampelt es einen nieder und macht 3 Schaden mehr. Man selbst liegt dann.
 
-## 8 - Umrennen bzw. Niedertrampeln (Elefant)
+## 8
+
+Gilt für: Elefant
 
 Wenn ein Elefant den Angriff „Umrennen" bzw. „Niedertrampeln" ausführt und damit Erfolg hat, trampelt er einen nieder und macht 4 Schaden mehr. Man selbst liegt dann.
 
-## 9 - Teil-Fliegend (Ente)
+## 9
+
+Gilt für: Ente
 
 Eine Ente kann alle 10 Runden einmal ca. 10 Meter weit fliegen.
 
-## 10 - Teil-Fliegend (Wildente)
+## 10
+
+Gilt für: Wildente
 
 Eine Wildente kann alle 8 Runden einmal ca. 12 Meter weit fliegen.
 
-## 11 - Teil-Fliegend (Wildgans)
+## 11
+
+Gilg für: Wildgans
 
 Eine Wildgans kann alle 10 Runden einmal ca. 25 Meter weit fliegen.
 
-## 12 - Farbwechsler
+## 12
+
+Gilt für: Farbwechsler
 
 Ein Chamäleon kann sich seiner Umgebung anpassen und sich somit sehr sehr gut verstecken: +4 auf Fertigkeiten wie Schleichen oder Verstecken.
 
