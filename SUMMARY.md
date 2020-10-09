@@ -84,7 +84,7 @@
 * [Emilia von Erlenhertz (NSC)](neue-nscs-und-monster/emilia-erlenhertz.md)
 * [Erle](neue-nscs-und-monster/erle.md)
 * [Graars](neue-nscs-und-monster/graars.md)
-* [Lenina Emmelius (NSC)](lenina-emmelius.md)
+* [Lenina Emmelius (NSC)](neue-nscs-und-monster/lenina-emmelius.md)
 * [Onky und Krollz](neue-nscs-und-monster/onky-und-krollz.md)
 
 ## Der Kampf
