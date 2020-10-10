@@ -128,6 +128,7 @@
     * [Die Krankheit der Faulen](anderes/krankheiten/krankheit-der-faulen.md)
     * [Krankheiten durch Nahrungseinnahme](anderes/krankheiten/krankheiten-durch-nahrung.md)
     * [Pflanzenpest](anderes/krankheiten/pflanzenpest.md)
+    * [System gegen gefährliche Krankheiten](anderes/krankheiten/system-gegen-krankheiten.md)
 * [Kreaturenerschaffung](anderes/kreaturenerschaffung.md)
 * [Punktesysteme](anderes/punktesysteme/README.md)
     * [Erschöpfung](anderes/punktesysteme/erschoepfung.md)
