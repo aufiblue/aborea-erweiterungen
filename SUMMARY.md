@@ -42,6 +42,7 @@
 
 ## Neue Fertigkeiten
 
+* [Angeln/Fischen](neue-fertigkeiten/angeln-fischen.md)
 * [Humor](neue-fertigkeiten/humor.md)
 * [Zechen](neue-fertigkeiten/zechen.md)
 
@@ -120,6 +121,7 @@
 * [Crafting](anderes/crafting/README.md)
     * [Craftingdauer](anderes/crafting/craftingdauer.md)
     * [Craftingqualität](anderes/crafting/craftingqualitaet.md)
+* [Das Angeln/Fischen](anderes/das-angeln-fischen.md)
 * [Die KO-Grenze](anderes/ko-grenze.md)
 * [Erzadern im Casnewydd und Ghalgrat](anderes/erzadern-im-casnewydd-und-ghalgrat.md)
 * [Krankheiten](anderes/krankheiten/README.md)
