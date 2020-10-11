@@ -140,6 +140,7 @@
     * [Explosionsschaden](anderes/schadensarten/explosionsschaden.md)
     * [Schaden beim Ertrinken](anderes/schadensarten/schaden-ertrinken.md)
 * [Seltenheiten](anderes/seltenheiten.md)
+* [Sterben durchs Alter](anderes/sterben-durch-alter.md)
 * [Strafen](anderes/strafen.md)
 * [Tabellen](anderes/tabellen/README.md)
     * [Reiseereignisse](anderes/tabellen/reiseereignisse.md)
