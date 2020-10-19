@@ -20,3 +20,12 @@
 | 20,1-40 cm | 16 |
 | pro weiteren 20 cm | je vorheriges x2 |
 
+## Material: Stein
+
+| Dicke des Gegenstands | TP |
+| - | - |
+| 0,1-5 cm | 4 |
+| 5,1-10 cm | 8 |
+| 10,1-20 cm | 16 |
+| 20,1-40 cm | 32 |
+| pro weiteren 20 cm | je vorheriges x2 |
