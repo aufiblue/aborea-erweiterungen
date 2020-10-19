@@ -30,7 +30,7 @@ Bei Explosionen wird der Schaden nach Stärke der Explosion und nach Reichweite 
 | 5 - 8 m | 4W10 |
 | 8 - 12 m | 3W10 |
 | 12 - 15 m | 2W10 |
-| 15 - 20 m | 1W10
+| 15 - 20 m | 1W10 |
 
 ## Sehr heftige Explosion
 
