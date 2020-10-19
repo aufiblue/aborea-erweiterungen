@@ -6,10 +6,10 @@ Ich habe diese Tabelle nach Gefühl und nicht nach System erstellt.
 
 ## Der Schaden
 
-| Untergrund | 3 m | 4 m | 5 m | 10 m | 15 m | 20 m | 25 m | 30 m | 35 m | tiefer |
+| Untergrund | 3 m | 4 m | 5 m | 10 m | 15 m | 20 m | 25 m | 30 m | 35 m | Tiefer |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Erde | 6 | 12 | 18 | 25 | 62 | 86 | 113 | 134 | 156 | tot |
-| Stein | 10 | 20 | 32 | 45 | 73 | 104 | 140 | 162 | tot | tot |
-| Schnee | - | 6 | 12 | 16 | 24 | 48 | 62 | 80 | 100 | pro 5 m +25 Schaden |
-| Wasser | 4 | 6 | 10 | 24 | 49 | 84 | 128 | 145 | 168 | tot |
+| Erde | 6 | 12 | 18 | 25 | 62 | 86 | 113 | 134 | 156 | Tot |
+| Stein | 10 | 20 | 32 | 45 | 73 | 104 | 140 | 162 | Tot | Tot |
+| Schnee | - | 6 | 12 | 16 | 24 | 48 | 62 | 80 | 100 | Pro 5 m +25 Schaden |
+| Wasser | 4 | 6 | 10 | 24 | 49 | 84 | 128 | 145 | 168 | Tot |
 

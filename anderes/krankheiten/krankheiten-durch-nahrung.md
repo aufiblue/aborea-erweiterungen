@@ -8,3 +8,5 @@ Immer, wenn eine Person 3 mal eine Mahlzeit zu sich genommen hat, wirft sie 2W10
 | 7-8 | mittelheftige Krankheit |
 | 9-10 | heftige Krankheit |
 
+Beispielsweise durch verunreinigte oder sehr saubere Nahrung, können sich die Zahlen der oberen Tabelle ändern.
+

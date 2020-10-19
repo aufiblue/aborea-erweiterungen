@@ -8,15 +8,15 @@ Das Vertrauen untereinander ist sehr wichtig. Hier kann man angeben, welches Ver
 
 | Vertrauen | Handeln |
 | :--- | :--- |
-| 0 Punkte | sehr sehr misstrauisch, unfreundlich, tut nichts für diese Person, wahrscheinlich verfeindet, Hass |
-| 1 Punkt | sehr misstrauisch, unfreundlich, tut nichts für diese Person |
-| 2 Punkte | sehr misstrauisch, unfreundlich, tut nichts für diese Person |
-| 3 Punkte | misstrauisch, unfreundlich |
-| 4 Punkte | unfreundlich |
-| 5 Punkte | reagiert normal |
-| 6 Punkte | freundlich |
-| 7 Punkte | hilft teilweise und gerne, freundlich |
-| 8 Punkte | hilft gerne, freundlich |
-| 9 Punkte | sehr freundlich, hilft fast immer und sehr gerne, Best-Friend-Basis |
-| 10 Punkte | sehr freundlich, tut alles für diese Person, Liebe |
+| 0 Punkte | Sehr sehr misstrauisch, unfreundlich, tut nichts für diese Person, wahrscheinlich verfeindet, Hass |
+| 1 Punkt | Sehr misstrauisch, unfreundlich, tut nichts für diese Person |
+| 2 Punkte | Sehr misstrauisch, unfreundlich, tut nichts für diese Person |
+| 3 Punkte | Misstrauisch, unfreundlich |
+| 4 Punkte | Unfreundlich |
+| 5 Punkte | Reagiert normal |
+| 6 Punkte | Freundlich |
+| 7 Punkte | Hilft teilweise und gerne, freundlich |
+| 8 Punkte | Hilft gerne, freundlich |
+| 9 Punkte | Sehr freundlich, hilft fast immer und sehr gerne, Best-Friend-Basis |
+| 10 Punkte | Sehr freundlich, tut alles für diese Person, Liebe |
 

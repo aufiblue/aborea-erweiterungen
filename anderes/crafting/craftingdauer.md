@@ -10,14 +10,14 @@ Die Arbeitsdauer wird durch den SG des zu Bauenden bestimmt.
 
 | SG | Arbeitsdauer |
 | :--- | :--- |
-| routine | 10 Minuten |
-| sehr einfach | 1 Stunde |
-| einfach | 2 Stunden |
-| schwer | 8 Stunden |
-| sehr schwer | 14 Stunden |
-| äußerst schwer | 18 Stunden |
-| blanker Leichtsinn | 1 Tag |
-| absurd | 2 Tage |
+| Routine | 10 Minuten |
+| Sehr einfach | 1 Stunde |
+| Einfach | 2 Stunden |
+| Schwer | 8 Stunden |
+| Sehr schwer | 14 Stunden |
+| Äußerst schwer | 18 Stunden |
+| Blanker Leichtsinn | 1 Tag |
+| Absurd | 2 Tage |
 
 ## Rang
 

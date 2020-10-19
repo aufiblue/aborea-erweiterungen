@@ -46,15 +46,12 @@ Man würfelt einmal mit einem W10. Wenn man 1-8 würfelt, dann erhält man den B
 
 ## Auswirkungen Motivationspunkte
 
-| Punkte | Auswirkungen |
-| - | - |
-| 0 | Malus von -5 auf Manöver |
-| 1-30 | Malus von -3 auf Manöver |
-| 31-69 | Malus von -2 auf Manöver |
-| 70-89 | Malus von -1 auf Manöver |
-| 90-110 | Keine Auswirkungen |
-| 111-130 | Bonus von +1 auf Manöver |
-| 131-169 | Bonus von +2 auf Manöver |
-| 170-199 | Bonus von +3 auf Manöver |
-| 200 | Bonus von +5 auf Manöver |
-
+| Punkte | Situation | Auswirkungen |
+| - | - | - |
+| 0 | Depressiv | Malus von 4 auf Manöver |
+| 1-20 | Sehr unmotiviert | Malus von 2 auf Manöver |
+| 21-40 | Unmotiviert | Malus von 1 auf Manöver |
+| 41-159 | Normal | Keine Auswirkungen |
+| 160-179 | Motiviert, Bonus von 1 auf Manöver |
+| 180-199 | Sehr motiviert | Bonus von 2 auf Manöver |
+| 200 | Extrem motiviert | Bonus von 4 auf Manöver |

@@ -6,12 +6,12 @@ Pro Stunde Angeln oder Fischen wird ein Würfelwurf fällig (je nach Gebiet etc.
 
 | Angelqualität | Fisch bei maximal |
 | - | - |
-| keine Angel | 2 |
-| schlecht | 3 |
-| eher schlecht | 4 |
-| mittelgut | 5 |
-| gut | 6 |
-| sehr gut | 7 |
+| Keine Angel | 2 |
+| Schlecht | 3 |
+| Eher schlecht | 4 |
+| Mittelgut | 5 |
+| Gut | 6 |
+| Sehr gut | 7 |
 
 ### Rang in Fischen/Angeln
 
@@ -27,14 +27,14 @@ Man erhält bei einem erfolgreichen Wurf zwar einen Fisch, aber welche Geschmack
 
 | Würfelwurf | Fischqualität |
 | - | - |
-| 1 | toter Fisch |
-| 2 | schmeckt ganz und garnicht |
-| 3 | nicht sehr schmackhaft |
-| 4 | kann man essen |
-| 5 | ist ok |
-| 6 | relativ gut |
-| 7 | gut |
-| 8 | sehr gut |
-| 9 | sehr sehr gut |
-| 10 | exzellent |
+| 1 | Toter Fisch |
+| 2 | Schmeckt ganz und garnicht |
+| 3 | Nicht sehr schmackhaft |
+| 4 | Kann man essen |
+| 5 | Ist ok |
+| 6 | Relativ gut |
+| 7 | Gut |
+| 8 | Sehr gut |
+| 9 | Sehr sehr gut |
+| 10 | Exzellent |
 

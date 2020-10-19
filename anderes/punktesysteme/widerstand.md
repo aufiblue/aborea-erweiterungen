@@ -24,7 +24,7 @@ Das Überleben einer Vergiftung gibt einem einen Malus auf kommende Vergiftungsw
 
 Nach dem durchmachen einer Vergiftung erhält man Vergiftungspunkte! Ein Vergiftungspunkt ist ein Malus von -1 auf Widerstandswürfe gegen Vergiftungen. Bei dem Malus von Vergiftungspunkten wird bei Würfen immer abgerundet.
 
-| Rang des Giftes | Widerstandspunkte |
+| Rang des Giftes | Vergiftungspunkte |
 | :--- | :--- |
 | 1 | -0,1 |
 | 2 | -0,2 |

@@ -9,7 +9,7 @@ Das folgende sind Eigenschaften, die man bei der Erschaffung einer Kreatur verge
 | +1 | 50 |
 | +2 | 100 |
 | +3 | 150 |
-| pro 1 weiteres | je +50 KP |
+| Pro 1 weiteres | Je +50 KP |
 
 ## Explosion
 

@@ -12,8 +12,8 @@ Man erhält durch bestimmte Ereignisse und Situationen Infektionspunkte.
 
 | Ereignis | Infektionspunkte |
 | - | - |
-| gebissen werden (von Zombie) | +2 |
-| in Raum mit mehr als 8 komplett toten Zombies kommen (das erste mal in diesem Raum, Zombies länger als 2 Tage tot) | +1 |
+| Gebissen werden (von Zombie) | +2 |
+| In Raum mit mehr als 8 komplett toten Zombies kommen (das erste mal in diesem Raum, Zombies länger als 2 Tage tot) | +1 |
 
 ### Infektionspunkte loswerden
 
@@ -23,7 +23,7 @@ Spielercharaktere haben durch bestimmte Ereignisse und Situationen die Möglichk
 | - | - |
 | Schlaf (pro Stunde) | -0,5 |
 | Ausruhen (leichte Aktivitäten, pro Stunde) | -0,2 |
-| Essen (pro 500g) | nach 10 Minuten -0,5 |
+| Essen (pro 500g) | Nach 10 Minuten -0,5 |
 
 ### Metallrüstungen
 
