@@ -162,7 +162,7 @@
 
 ## Leichtere Spielvariante
 
-* [Gewicht](leichtere-spielvariante/waehrungen.md)
+* [Gewicht](leichtere-spielvariante/gewicht.md)
 * [Währungen](leichtere-spielvariante/waehrungen.md)
 * [Wiederbelebung](leichtere-spielvariante/wiederbelebung.md)
 
