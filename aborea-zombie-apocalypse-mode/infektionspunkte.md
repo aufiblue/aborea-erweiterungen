@@ -1,14 +1,14 @@
 # Infiziert werden
 
-Spielercharaktere können infiziert, also selbst zu Zombies, werden, wenn sie zu viele Infektionspunkte sammeln.
+Spielercharaktere können infiziert, also selbst zu Zombies, werden, wenn sie zu viele Infektionspunkte gesammelt haben.
 
 ## Infektionspunkte (IP)
 
-Spielercharaktere werden selbst zum Zombie, wenn sie mehr als 12 Infektionspunkte erhalten. Man startet mit null.
+Spielercharaktere werden selbst zum Zombie, wenn sie mehr als 12 Infektionspunkte auf ihrer „Infektions-Skala" gesammelt haben.
 
 ### Infektionspunkte erhalten
 
-Man erhält durch bestimmte Ereignisse und Situationen Infektionspunkte.
+Durch besondere Ereignisse können Spielercharaktere Infektionspunkte erhalten.
 
 | Ereignis | Infektionspunkte |
 | - | - |
@@ -17,7 +17,7 @@ Man erhält durch bestimmte Ereignisse und Situationen Infektionspunkte.
 
 ### Infektionspunkte loswerden
 
-Spielercharaktere haben durch bestimmte Ereignisse und Situationen die Möglichkeit, Infektionspunkte loszuwerden.
+Spielercharaktere haben durch bestimmte Dinge die Möglichkeit, Infektionspunkte loszuwerden.
 
 | Ereignis | Infektionspunkte |
 | - | - |
@@ -27,9 +27,9 @@ Spielercharaktere haben durch bestimmte Ereignisse und Situationen die Möglichk
 
 ### Metallrüstungen
 
-Wenn man dort, wo man eigentlich gebissen werden würde, Metallrüstung trägt, erhält man keine Infektionspunkte.
+Wenn man an der Stelle, an der man eigentlich gebissen werden würde, Metallrüstung trägt, erhält man keine Infektionspunkte.
 
 ### Masken
 
-Masken können den Erhalt von Infektionspunkten reduzieren.
+Masken können den Erhalt von Infektionspunkten unter gegebenen Umständen reduzieren.
 

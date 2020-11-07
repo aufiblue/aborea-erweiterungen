@@ -2,15 +2,15 @@
 
 ## Ihre Werte
 
-Man kann sich an den Werten aus dem Spielleiterheft orientieren, jedoch sind die Werte von Zombie zu Zombie etwas unterschiedlich.
+Man kann sich an den Werten aus dem Spielleiterheft orientieren. Jedoch sind die Werte von Zombie zu Zombie etwas anders.
 
 ## Schnell oder langsam?
 
-Es gibt wesentliche Unterschiede zwischen Zombies. Manche sind sehr schnell, andere dafür eher langsam.
+In diesem Punkt gibt es wesentliche Unterschiede zwischen den Zombies. Manche sind sehr schnell, andere aber äußerst langsam.
 
 ## Besonderheit - Infektionsbiss
 
-Zombies infizieren durch einen Biss. Deshalb erhalten sie die Sonderfertigkeit Biss ([Kreaturenerschaffung](../anderes/kreaturenerschaffung.md)). Das bedeutet, dass Zombies, wenn sie mindestens 1,5 m in der Nähe des Gegners sind, einen Bissangriff ohne OB ausführen dürfen. Dieser bewirkt, wenn ein Zombie trifft, dass der jeweilige Spielercharakter ein +2 auf seinen Infektionswert erhält ([Infiziert werden](../aborea-zombie-apocalypse-mode/infektionspunkte.md)). Zombies haben bei dieser Attacke allerdings einen Defensiv-Malus von 2.
+Zombies infizieren durch einen Biss. Deshalb erhalten sie die Sonderfertigkeit „Biss". Das bedeutet, dass Zombies, wenn sie mindestens 1,5 m in der Nähe des Gegners sind, einen Bissangriff ohne OB ausführen dürfen. Dieser bewirkt bei einem Treffer, dass der jeweilige Spielercharakter einen Bonus von 2 auf seinen Infektionswert erhält. Zombies bekommen bei der Durchführung dieser Attacke einen Malus von 2 auf seinen Defensiv-Wert.
 
-Monster können nicht infiziert werden!
+Wichtig ist, dass Monster nicht infiziert werden können!
 
