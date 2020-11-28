@@ -2,15 +2,6 @@
 
 * [Willkommen bei den Aborea-Erweiterungen!](README.md)
 
-## Aborea - Zombie Apocalypse Mode
-
-* [Einleitung](aborea-zombie-apocalypse-mode/einleitung.md)
-* [Die Zombies](aborea-zombie-apocalypse-mode/zombies.md)
-* [Infiziert werden](aborea-zombie-apocalypse-mode/infektionspunkte.md)
-* [Startkapital](aborea-zombie-apocalypse-mode/startkapital.md)
-* [Paleas Population](aborea-zombie-apocalypse-mode/population.md)
-* [Andere Kontinente](aborea-zombie-apocalypse-mode/andere-kontinente.md)
-
 ## Ausrüstungs-Erweiterungen
 
 * [Gebrauchsgegenstände](ausruestungs-erweiterungen/erweiterte-gegenstandsliste.md)
@@ -68,7 +59,6 @@
 ## Neue Gilden und Orden
 
 * [Die Aufständler-Gilde](neue-gilden-und-orden/die-aufstaendler-gilde.md)
-* [Die Gilde der Arbeitslosen](neue-gilden-und-orden/gilde-der-arbeitslosen.md)
 * [Die Gilde der Reichen](neue-gilden-und-orden/gilde-der-reichen.md)
 
 ## NSC's und Monster
@@ -92,8 +82,9 @@
 
 * [Erweiterung zum zweihändigen Kampf](der-kampf/erweiterung-zweihaendiger-kampf.md)
 * [In den Nahkampf schießen](der-kampf/in-nahkampf-schiessen.md)
-* [Alternatives Kampfsystem](der-kampf/alternatives-kampfsystem.md)
 * [Initiativeveränderung durch Rüstungen](der-kampf/initiativeveraenderung-ruestung.md)
+* [Handschuhe im waffenlosen Kampf](der-kampf/handschuhe-waffenloser-kampf.nd)
+* [Alternatives Kampfsystem](der-kampf/alternatives-kampfsystem.md)
 * [Kampfsystem für große Gruppen](der-kampf/kampfsystem-grosse-gruppen.md)
 * [Kampfsystem für große Gruppen 2](der-kampf/kampfsystem-grosse-gruppen-2.md)
 * [Kampfsystem für große Gruppen 3](der-kampf/kampfsystem-grosse-gruppen-3.md)
@@ -115,7 +106,6 @@
 * [Besondere Gegenstandseigenschaften](anderes/gegenstandseigenschaften/README.md)
     * [Dunkel Gefärbtes - Vorteil](anderes/gegenstandseigenschaften/dunkle-farbe.md)
     * [Hell Gefärbtes - Nachteil](anderes/gegenstandseigenschaften/helle-farbe.md)
-    * [Handschuhe im waffenlosen Kampf](anderes/gegenstandseigenschaften/handschuhe.md)
     * [Rostige Gegenstände](anderes/gegenstandseigenschaften/rostiges.md)
     * [TP von Gegenständen](anderes/gegenstandseigenschaften/tp-gegenstaende.md)
 * [Crafting](anderes/crafting/README.md)
@@ -166,9 +156,9 @@
 * [Währungen](leichtere-spielvariante/waehrungen.md)
 * [Wiederbelebung](leichtere-spielvariante/wiederbelebung.md)
 
-## Regelveränderungen
+## Meine Regeländerungen
 
-* [Veränderung der Schwimmregel](regelaenderungen/schwimmregel-aenderung.md)
+* [Änderung der Schwimmregel](regelaenderungen/schwimmregel-aenderung.md)
 
 ## Anhang
 

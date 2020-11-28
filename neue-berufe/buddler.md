@@ -2,35 +2,35 @@
 
 ## Kurzbeschreibung
 
-Buddler werden als solche geboren und können von Grund auf sehr gut graben und sind häufig durch ihre Fähigkeit sehr stark geworden.
+Buddler werden als solche geboren und können von Grund auf sehr gut buddeln und werden durch diese Fähigkeit oft sehr stark.
 
 ## Magie
 
-Buddler können nur die Spruchliste „Elementare Magie" erlernen, was für sie allerdings äußerst schwer ist.
+Buddler können die Spruchliste „Elementare Magie" erlernen, was für sie allerdings sehr schwer ist.
 
 ## Stark
 
-Durch häufiges Graben und Buddeln sind Buddler meist sehr stark. Dadurch erhalten sie einen Situationsbonus von +3 auf alles, was mit Buddeln zu tun hat und zudem noch einen Bonus von +1 auf das Attribut Stärke.
+Durch häufiges Graben und Buddeln werden Buddler oft sehr stark. Dadurch erhalten sie einen Situationsbonus von 3 auf alles, was mit Buddeln und Graben zu tun hat. Außerdem erhalten sie einen Bonus von 1 auf das Attribut Stärke.
 
 ## Instinkt
 
-Durch Graben in der Wildnis besitzen Buddler einen Gefahreninstinkt, da es in der Wildnis sehr gefährlich sein kann. Mit einem erfolgreichen MS 8 Wahrnehmungswurf des Spielleiters für den Spieler nehmen sie lebende Gefahr im Umkreis von 20 m wahr.
+Durch das Graben und Buddeln in der Wildnis besitzen Buddler einen gewissen Gefahreninstinkt, da es in der Wildnis sehr gefährlich sein kann. Mit einem erfolgreichen und passiven MS 8 Wahrnehmungswurf nehmen sie lebende Gefahr im Umkreis von 20 m grob wahr.
 
 ## Aufmerksamkeit
 
-Buddler sind durch ihr Graben in der Wildnis sehr aufmerksam geworden und erhalten somit einen Situationsbonus von +1 auf Wahrnehmung.
+Buddler sind durch das häufige "in der Wildnis sein" sehr aufmerksam. Somit erhalten sie einen Situationsbonus von 1 auf Wahrnehmung.
 
 ## Nicht sehr Intelligent
 
-Durch dieses häufige und gerne auch lange Graben, haben Buddler nicht viel Zeit zum Lernen und erhalten somit einen Malus von -1 auf das Attribut Intelligenz.
+Durch dieses häufige und lange Graben, haben Buddler nicht viel Zeit zum Lernen. Sie erhalten einen Malus von 1 auf das Attribut Intelligenz.
 
 ## Trefferpunkte
 
-Buddler sind durch ihr Graben in der Wildnis sehr robust und widerstandsfähig geworden und erhalten deshalb 8 Trefferpunkte \(plus Konstitutionsbonus\) pro Stufe.
+Buddler sind durch ihr Graben in der Wildnis sehr robust und widerstandsfähig. Sie erhalten deshalb 8 Trefferpunkte \(plus Konstitutionsbonus\) pro Stufe.
 
 ## Magiepunkte
 
-Ein Buddler erhält so viele Magiepunkte, wie er Ränge in der Fertigkeit „Magie entwickeln" \(Fertigkeit\) hat, multipliziert mit dem Ergebnis aus 3 plus seinem Intelligenzbonus: \(IN-Bonus + 3\) x Rang.
+Ein Buddler erhält so viele Magiepunkte, wie er Ränge in der Fertigkeit „Magie entwickeln" hat, multipliziert mit dem Ergebnis aus 3 plus seinem Intelligenzbonus: \(IN-Bonus + 3\) x Rang.
 
 ## Fertigkeitskosten
 

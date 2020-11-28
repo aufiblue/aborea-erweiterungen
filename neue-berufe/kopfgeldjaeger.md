@@ -6,23 +6,23 @@ Kopfgeldjäger jagen Wesen für Geld und haben meist kaum ein Gewissen.
 
 ## Magie
 
-Der Kopfgeldjäger kann die Spruchliste Schwarze Magie erlernen.
+Kopfgeldjäger können die Spruchliste "Schwarze Magie" erlernen.
 
 ## Zwielichtig
 
-Kopfgeldjäger sind von Geburt an zwielichtige Wesen, daher erhalten sie einen Situationsbonus von +1 auf List.
+Kopfgeldjäger sind von Geburt an zwielichtige Wesen. Sie erhalten einen Situationsbonus von 1 auf List.
 
 ## Unzerstörbar
 
-Ein Kopfgeldjäger wird bei 0 TP nicht bewusstlos, da er einen unfassbaren Willen hat, wenn es um sein Leben und darum geht, Gold zu verdienen.
+Ein Kopfgeldjäger wird bei 0 TP nicht bewusstlos, da er einen unfassbaren Willen hat, wenn es um sein Leben geht. Dies ist genauso, wenn er für Geld hinter jemandem ist.
 
 ## Waffenkundig
 
-Kopfgeldjäger können von Natur aus sehr gut mit Waffen umgehen und erhalten daher beim Kämpfen mit ungelernten Waffen keinen Malus.
+Kopfgeldjäger können von Natur aus in der Regel gut mit Waffen umgehen und erhalten daher beim Kämpfen mit ungelernten Waffen keinen Malus.
 
 ## Unsympathisch, aber stark/geschickt
 
-Kopfgeldjäger haben es nicht so mit dem Umgang mit anderen Wesen, sind dafür aber sehr stark oder geschickt. Daher erhalten sie einen Malus von -2 auf Charisma, dafür aber auch einen Bonus von +2 auf Kraft oder Geschicklichkeit.
+Kopfgeldjäger haben es nicht so mit dem Umgang mit anderen Wesen, sind dafür aber meist sehr stark oder geschickt. Daher erhalten sie zwar einen Malus von 2 auf Charisma, aber auch einen Bonus von 2 auf Kraft oder Geschicklichkeit.
 
 ## Trefferpunkte
 
@@ -30,7 +30,7 @@ Kopfgeldjäger sind robust und unverwüstlich. Daher erhalten sie 10 Trefferpunk
 
 ## Magiepunkte
 
-Kopfgeldjäger erhalten so viele Magiepunkte, wie sie Ränge in der Fertigkeit Magie entwickeln haben, multipliziert mit dem Ergebnis aus 3 plus seinem Intelligenz-Bonus: (IN-Bonus + 3) x Rang.
+Kopfgeldjäger erhalten so viele Magiepunkte, wie sie Ränge in der Fertigkeit Magie entwickeln haben, multipliziert mit dem Ergebnis aus 3 plus ihrem Intelligenz-Bonus: (IN-Bonus + 3) x Rang.
 
 ## Fertigkeitskosten
 
@@ -84,3 +84,4 @@ Stufe 12
 *Nur nach Kämpfer wählbar
 
 **Nur nach Jäger wählbar
+

@@ -1,9 +1,5 @@
 # Fallschaden
 
-## Nach Gefühl
-
-Ich habe diese Tabelle nach Gefühl und nicht nach System erstellt.
-
 ## Der Schaden
 
 | Untergrund | 3 m | 4 m | 5 m | 10 m | 15 m | 20 m | 25 m | 30 m | 35 m | Tiefer |

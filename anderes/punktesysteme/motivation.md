@@ -1,10 +1,10 @@
 # Motivation
 
-Die Motivation kann ein wichtiger Faktor sein. Wenn man zu viel geärgert wird oder anderes, dann hat man schließlich irgendwann einfach keine Lust mehr, irgendetwas zu tun.
+Die Motivation kann ein wichtiger Faktor sein. Wird man zu viel geärgert  oder anderes, dann hat man schließlich irgendwann keine Lust mehr, irgendetwas zu tun und wird depressiv.
 
 ## Motivation zum Start
 
-Man startet mit einer Motivation von 100. 
+Man startet mit einer Motivation von 100.
 
 ## Höchste und niedrigste Motivation
 
@@ -42,7 +42,7 @@ Die höchste Motivation, die man haben kann, ist 200. Die Niedrigste ist 0.
 
 ## Besonderheit Geschlechtsverkehr
 
-Man würfelt einmal mit einem W10. Wenn man 1-8 würfelt, dann erhält man den Bonus, bei einer 9 oder 10 allerdings den Malus.
+Man würfelt einmal mit einem W10. Wenn man 1-8 würfelt, bekommt man den Bonus. Bei einer 9 oder 10 bekommt man allerdings den Malus.
 
 ## Auswirkungen Motivationspunkte
 

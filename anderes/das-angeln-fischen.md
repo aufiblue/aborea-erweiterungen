@@ -2,7 +2,7 @@
 
 ## Generell
 
-Pro Stunde Angeln oder Fischen wird ein Würfelwurf fällig (je nach Gebiet etc. kann sich das verändern). Besteht man diesen Wurf, so erhält man einen rohen Fisch.
+Pro Stunde wird beim Angeln oder Fischen ein Würfelwurf fällig, der je durch Gebiet etc. beeinflusst werden kann. Besteht man diesen Würfelwurf, so erhält man einen rohen Fisch.
 
 | Angelqualität | Fisch bei maximal |
 | - | - |
@@ -19,11 +19,11 @@ Pro Rang in der Fertigkeit „[Fischen/Angeln](../neue-fertigkeiten/angeln-fisch
 
 ### Angel geht kaputt
 
-Bei einem Angeln-Würfelwurf von 1 reißt die Leine der Angel beim Angeln.
+Bei einem Angeln-Würfelwurf von 1 reißt die Leine der jeweiligen Angel.
 
 ## Fischqualität
 
-Man erhält bei einem erfolgreichen Wurf zwar einen Fisch, aber welche Geschmacksqualität hat dieser? Dies kann mit der folgenden Tabelle geklärt werden, indem der Spielleiter auf sie wirft, wenn der Spielercharakter den Würfelwurf geschafft hat.
+Man erhält bei einem erfolgreichen Würfelwurf zwar einen Fisch, aber bleibt nun die Frage offen, welche Qualität dieser hat. Dies kann mit der folgenden Tabelle geklärt werden. Der Spielleiter würfelt auf sie, wenn der Spielercharakter den Würfelwurf erfolgreich bestanden hat.
 
 | Würfelwurf | Fischqualität |
 | - | - |

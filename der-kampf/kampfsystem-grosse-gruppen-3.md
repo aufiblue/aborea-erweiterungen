@@ -2,7 +2,7 @@
 
 ## Bewegung
 
-Schlachtfelder sind wortwörtlich in Feldern aufgebaut. Je nach Reittier oder anderem kann man sich und so weit in einer Runde bewegen.
+Schlachtfelder werden hier in Felder unterteilt. Je nach Reittier kann man sich in einer Runde so- und soweit bewegen.
 
 | Bezeichnung | Bewegung (Felder) pro Runde |
 | - | - |
@@ -24,18 +24,17 @@ Schlachtfelder sind wortwörtlich in Feldern aufgebaut. Je nach Reittier oder an
 
 ## Nahkampf
 
-Man hat mehrer Gruppen, die gegeneinander kämpfen.
-Die Gruppen würfeln in einer Runde je einmal mit einem W6. Wer die höhere Zahl würfelt, trifft und macht dementsprechenden Schaden.
+Man hat mehrere Gruppen, die gegeneinander kämpfen. Die Anführer der Gruppen würfeln in einer Runde je einmal mit einem W6. Wer die höhere Zahl würfelt, trifft und macht dementsprechend Schaden.
 
 ## Fernkampf
 
-Wenn mehrere Fraktionen aufeinander schießen funktioniert es so, wie beim Nahkampf. Wenn allerdings eine Gruppe Schützen auf eine andere Gruppe schießen, ohne dass sie zurückschießt, funktioniert das System so: Beide Gruppen würfeln einmal mit einem W6. Wenn die Schützen die höhere Zahl würfeln, treffen sie und machen dementsprechenden Schaden. Wenn aber die andere Gruppe die höhere Zahl würfelt, verfehlen die Schützen.
+Schießen Fraktionen gegenseitig aufeinander, ist die Regel dieselbe, wie im Nahkampf. Wenn allerdings eine Gruppe Schützen auf eine andere Gruppe schießt, die nicht zurückschießt, funktioniert das System so: Die Anführer der Gruppen würfeln jeweils einmal mit einem W6. Würfeln die Schützen die höhere Zahl, treffen sie und machen dementsprechend Schaden. Wenn aber die andere Gruppe die höhere Zahl würfelt, verfehlen die Schützen. Auch bei Gleichstand treffen die Schützen nicht.
 
 ## Boni
 
 ### Höhere Position
 
-Fernkämpfer können einen Bonus erhalten, wenn sie ein höhere Position haben, als der Gegner.
+Fernkämpfer können einen Bonus erhalten, wenn sie auf einer höheren Position stehen, als der Gegner.
 
 | Meter höher | Bonus (Schaden) pro Person | Bonus (Rüstung) pro Person |
 | - | - | - |
@@ -50,7 +49,7 @@ Für die ersten 5 Runden erhalten die Angreifer bei einem Hinterhalt einen Bonus
 
 ## Waffen - Gruppenstärke (Schaden)
 
-Wenn Schaden zB mit einem W10 ausgewürfelt wird und eine 8 gewürfelt wird, verliert die Gruppe, die den Schaden erhält, 8 Wesen.
+Wird beispielsweise Schaden mit einem W10 ausgewürfelt und eine 8 gewürfelt, verliert die Gruppe, die Schaden erhält, exakt 8 Wesen.
 
 | Waffe | Gruppenstärke (Schaden) |
 | - | - |
@@ -83,7 +82,7 @@ Wenn Schaden zB mit einem W10 ausgewürfelt wird und eine 8 gewürfelt wird, ver
 
 ## Rüstungen - Gruppenstärke (Rüstung)
 
-Wenn man Schaden erhalten würde, würfelt man einmal mit dem dementsprechenden Würfel. Die Zahl, die gewürfelt wurde, ist eine Anzahl an Wesen, die die Gruppe weniger Schaden verliert.
+Wenn man Schaden erhalten würde, würfelt man einmal mit dem dementsprechenden Würfel. Die Zahl, die gewürfelt wurde, ist eine Anzahl an Wesen, die die Gruppe weniger verliert.
 
 | Rüstung | Gruppenstärke (Rüstung) |
 | - | - |
@@ -100,7 +99,7 @@ Die Gruppen-TP werden durch die durchschnittlichen TP der einzelnen Kämpfer get
 
 ## Gruppenbögen
 
-Jede Gruppe hat einen Gruppenbogen, in dem ihre Werte eingetragen werden. Das sieht dann zum Beispiel so aus, wie das folgende Beispiel.
+Jede Gruppe hat einen Gruppenbogen, in dem ihre Werte eingetragen werden. Das kann dann beispielsweise so aussehen, wie folgendes Beispiel.
 
 | Kategorie | Werte |
 | - | - |

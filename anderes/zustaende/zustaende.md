@@ -1,6 +1,6 @@
 # Allgemeine Zustände
 
-Man kann bestimmte Zustände haben, in denen man Malusse oder Bonusse hat.
+Man kann bestimmte Zustände haben, durch die man Mali bzw. Boni erhält.
 
 | Zustand | passiert bei | Auswirkungen |
 | -------- | ------------ | -------------- |

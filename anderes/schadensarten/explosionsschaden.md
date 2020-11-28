@@ -34,5 +34,5 @@ Bei Explosionen wird der Schaden nach Stärke der Explosion und nach Reichweite 
 
 ## Sehr heftige Explosion
 
-Eine Explosion solcher Ausmaße zu überleben, ist nahezu unmöglich!
+Eine Explosion solcher Ausmaße zu überleben, ist nahezu unmöglich.
 

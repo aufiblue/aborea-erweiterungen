@@ -3,7 +3,7 @@
 ## Nahkampf
 
 Dieses System funktioniert so:
-Es gibt 2 gegnerische Fraktionen und ein gewisses Schlachtfeld (welches man sich aufgemalt hat). Wenn Nahkämpfer aufeinander treffen, dann gibt es zwei Fraktionen, die gewisse Truppenstärke haben. Alle SG's der Kampfbeteiligten werden auf beiden Seiten aufeinander gerechnet, somit hat man die Truppenstärke. Dann wird pro Runde (in welcher alle anderen Kampfbeteiligten sich entweder ein Feld [oder im Falle von Pferden oder anderen ähnlichen Reittieren 3 Felder] bewegen oder kämpfen dürfen [berittene Bogenschützen dürfen beides] ) auf beiden Seiten je nach Waffen entweder mit einem W4, einem W6, einem W8, einem W10, einem W12 oder einem W20 gewürfelt und die jeweilige Zahl auf dem jeweiligen Würfel wird von der jeweiligen Truppenstärke der anderen abgezogen.
+Es gibt 2 gegnerische Fraktionen und ein Schlachtfeld, welches aufgemalt wird. Treffen Nahkämpfer aufeinander, gibt es zwei Fraktionen, die eine gewisse Truppenstärke haben. Alle Schwierigkeitsgrade der Kampfbeteiligten werden auf jeder Seite jeweils zusammengerechnet. Das ist dann die jeweilige Truppenstärke! Pro Runde darf sich jeder Kampfbeteiligte bewegen oder kämpfen. Auf beiden Seiten wird je nach Waffen mit einem W4, W6, W8, W10, W12 oder W20 gewürfelt. Die jeweils gewürfelte Zahl wird von der jeweiligen Truppenstärke der Gegner abgezogen.
 
 ### Waffen Nahkampf
 
@@ -32,21 +32,20 @@ Es gibt 2 gegnerische Fraktionen und ein gewisses Schlachtfeld (welches man sich
 
 ## Fernkampf (Bögen)
 
-Fernkampf mit Bögen funktioniert so, dass pro Runde Bogenschützen einmal schießen können. Man muss hierbei allerdings erstmal sehen, wie viele treffen, das macht man so:
-Man nimmt sich einen oder mehrere W10 und würfelt so oft mit einem, wie man Fernkämpfer hat (abgerundet und aufgerundet auf 10er Reihen). Wie oft man getroffen hat, kann man dann daran festmachen, welche Zahl man insgesamt mit allen malen würfeln gewürfelt hat. Schaden gibt es dementsprechend mehr oder weniger bei Bogenschützen. 
+Fernkampf mit Bögen funktioniert so, dass Bogenschützen pro Runde einmal schießen können. Man muss hierbei allerdings erst einmal sehen, wieviele treffen, das macht man dann so: Man nimmt sich einen oder mehrere W10 und würfelt so oft mit einem dieser Würfel, wie man Fernkämpfer hat (abgerundet und aufgerundet auf 10er Reihen). Wie oft getroffen wird, kann man daran festmachen, welche Zahl insgesamt gewürfelt wird. Das ist dann eine Anzahl an Gegnern, die durch einen Pfeil getroffen und besiegt sind.
 
 ### Fernkampfwaffen (Bögen)
 
-| Waffe | Schaden (nach so und soviel mal getroffen haben) |
+| Waffe | Schaden (auf- und abgerundet) |
 | ------ | ---------------------------- |
-| Kompositbogen | pro mal getroffen 0,8 (auf- bzw. abgerundet) |
+| Kompositbogen | pro mal getroffen 0,8 |
 | Kurzbogen | pro mal getroffen 0,4 |
 | Langbogen | pro mal getroffen 0,7 |
 | Schleuder | pro mal getroffen 0,2 |
 
 ## Fernkampf (Armbrüste)
 
-Bei Armbrüsten funktioniert das System genauso wie bei Bögen, allerdings müssen sie nach dem Schießen immer eine Runde nachladen.
+Bei Armbrüsten funktioniert es genauso wie bei Bögen, allerdings müssen sie nach dem Schießen eine Runde nachladen.
 
 ### Fernkampfwaffen (Armbrüste)
 
@@ -56,7 +55,7 @@ Bei Armbrüsten funktioniert das System genauso wie bei Bögen, allerdings müss
 
 ## Wurfwaffen wie Wurfspeere etc.
 
-Sie funktionieren genau so wie Bögen.
+Sie funktionieren genauso, wie Bögen.
 
 ### Wurfwaffen
 
@@ -71,8 +70,6 @@ Sie funktionieren genau so wie Bögen.
 
 Deckung kann überlebenswichtig sein.
 
-Hier eine Tabelle zur Deckung
-
 | Deckung | Auswirkung |
 | --------- | ------------ |
 | 30% | -4 Schaden von Angreifern (Fernkampf) |
@@ -81,11 +78,9 @@ Hier eine Tabelle zur Deckung
 
 ### Erhöhungen
 
-Es kann für Fernkampf sehr wichtig sein, eine höhere Stellung zu haben.
+Es kann für Fernkämpfer sehr wichtig sein, eine höhere Stellung zu haben.
 
-Hier die Auswirkungen je nach Höhe über dem Gegner in einer Tabelle dazu
-
-| Höhe | Schaden insgesamt |
+| Höhere Stellung | Schaden insgesamt |
 | ----- | -------------------- |
 | mind. 5m | 1 mehr |
 | mind. 10 m | 2 mehr |
@@ -97,11 +92,11 @@ Hier die Auswirkungen je nach Höhe über dem Gegner in einer Tabelle dazu
 
 ## Gruppenmoral
 
-Moral spielt im Gruppenkampf eine grosse Rolle und kann heftige Auswirkungen auf  Schlachten und Kämpfe haben.
+Moral spielt im Gruppenkampf eine grosse Rolle und kann heftige Auswirkungen auf Kämpfe und Schlachten haben.
 
 ### Gruppenmoral zu Start
 
-Die Gruppenmoral besteht am Anfang der Schlacht zu 100%. Mehr Moral kann eine Gruppe auch nicht haben.
+Die Gruppenmoral besteht am Anfang der Schlacht im besten Fall aus 100%. Mehr Moral kann eine Gruppe nicht haben.
 
 ### Auswirkungen der Moral auf Einheiten
 
@@ -130,16 +125,17 @@ Die Gruppenmoral besteht am Anfang der Schlacht zu 100%. Mehr Moral kann eine Gr
 
 ## Truppenbögen
 
-Jede Einheit bzw. Truppe hat einen Truppenbogen, auf dem diese Sachen hier notiert werden:
+Jede Gruppe hat einen Truppenbogen, auf dem folgende Sachen notiert werden:
 
-1.Einheiten generell
+1.Einheit (Name)
 2.Truppenstärke
 3.Waffenschaden
-4.Was die Einheit alles bei sich hat
 
-Diese Dinge muss man wissen, wenn man eine Schlacht kämpfen und danach noch wissen möchte, was man den besiegten Feinden eventuell noch abnehmen kann.
+### 4.Was die Einheit bei sich trägt
 
-## Kampf von mehr als 2 verschiedenen Einheiten an einem Platz
+Was die Einheit seit Anfang des Kampfes bei sich getragen hat, ist gut zu wissen, wenn man am Ende noch Looten möchte.
 
-Ist dies der Fall, dann werden die Truppen nicht zusammengetan [es sei denn sie wollen es], sondern beide Truppen können auf dem selben Platz gegen den selben Gegner kämpfen. Die Truppenaktionen werden eigentlich komplett normal gehandhabt und es gibt keine Veränderung des Spiels.
+## Kampf mit mehr als 2 verschiedenen Einheiten an einem Ort
+
+Ist dies der Fall, werden die Truppen nicht zusammengebracht, es sei denn, sie möchten es. Beide Truppen kämpfen auf dem selben Platz gegen die Gegner. Die Truppenaktionen werden komplett normal gehandhabt.Es gibt keine Veränderung des Spiels!
 

@@ -2,7 +2,7 @@
 
 ## Zwei Faktoren
 
-Beim Craften von Sachen spielen im Rollenspiel zwei Faktoren eine große Rolle, nämlich wie schwer das ist, was man bauen möchte und wie gut man im Bauen von Dingen ist.
+Beim Craften von Gegenständen spielen beim Rollenspiel im Grunde zwei Faktoren eine große Rolle. Diese sind, wie schwer das ist, was man bauen möchte und wie gut man selbst im Bauen von Dingen ist.
 
 ## Arbeitsdauer
 
@@ -21,7 +21,7 @@ Die Arbeitsdauer wird durch den SG des zu Bauenden bestimmt.
 
 ## Rang
 
-Desto erfahrener man ist, desto schneller geht es auch. Deshalb hier nochmal eine kleine Tabelle zur Einsparung der Zeit durch den Rang in der jeweiligen Handwerksfertigkeit.
+Desto erfahrener man ist, desto schneller kann man auch bauen. Deshalb hier nochmal eine kleine Tabelle zur Einsparung der Zeit durch den Rang in der jeweiligen Handwerksfertigkeit.
 
 | Rang in Fertigkeit | Zeiteinsparung |
 | :--- | :--- |
@@ -36,5 +36,5 @@ Desto erfahrener man ist, desto schneller geht es auch. Deshalb hier nochmal ein
 | 8 | 1/3 |
 | 9 und mehr | 1/2 |
 
-Mehr als 50% der Zeit kann man nicht einsparen, da dies irgendwann unlogisch und zu OP wird.
+Mehr als 50% der Zeit kann man nicht einsparen, da dies irgendwann zu schnell wird.
 

@@ -2,9 +2,9 @@
 
 Hier ist eine alternative Variante zum Erwürfeln des Vermögens aufgeführt.
 
-Wie Reich ein Charakter ist, muss vor dem Würfeln mit dem Spielleiter abgesprochen sein, denn je nach Charakterhintergrund ist dieser schließlich ärmer oder reicher.
+Wie reich ein Charakter ist, muss vor dem Würfeln mit dem Spielleiter abgesprochen und je nach Charakterhintergrund logisch sein.
 
-Das erwürfelte Vermögen ist von persönlichen Gegenständen unabhängig.
+Das gewürfelte Vermögen ist von persönlichen Gegenständen unabhängig.
 
 | Reichtum-Verhältnisse | Wurf | Währung |
 | - | - | - |

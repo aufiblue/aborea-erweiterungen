@@ -29,11 +29,11 @@ In der Welt gibt es Gesetze und somit auch Strafen. Hier sind einige aufgeführt
 
 ## Waffenfreie Bereiche
 
-Es gibt auf Palea für Zivilisten waffenfreie Bereiche wie zum Beispiel bestimmte Städte oder Kirchen. Wenn ein Zivilist dieses Verbot missachtet, erhält er eine Strafe.
+Für Zivilisten gobt es auf Palea „waffenfreie Bereiche” wie beispielsweise bestimmte Städte oder Kirchen. Missachtet ein Zivilist dieses Verbot, erhält er eine Strafe.
 
 | Situation | Strafe |
 | - | - |
-| Hat Niemanden verletzt | Hohe Geldstrafe |
+| Hat Niemanden verletzt | Hohe Geldstrafe und Rauswurf |
 | Hat Jemanden verletzt | Gefängnis für 1 Jahr und hohe Geldstrafe |
 | Hat Jemanden umgebracht | Gefängnis für mind. 5 Jahre und hohe Geldstrafe oder wird umgebracht |
 

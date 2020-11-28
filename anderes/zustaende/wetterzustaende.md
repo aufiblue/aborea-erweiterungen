@@ -1,6 +1,6 @@
 # Wetterzustände
 
-Wetterzustände können einem Malusse einbringen.
+Wetterzustände können Spoelercharakteren Mali einbringen.
 
 | Zustand | Auswirkungen |
 | :--- | :--- |

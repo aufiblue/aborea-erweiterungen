@@ -1,6 +1,6 @@
 # Hell Gefärbtes - Nachteil
 
-Hell Gefärbtes kann unter gegebenen Umständen einen Nachteil auf Tarnen etc. gewähren (immer abgerundet!).
+Hell gefärbte Gegenstände können unter gegebenen Umständen einen Nachteil auf Tarnen etc. gewähren (immer abgerundet!).
 
 | gefärbter Gegenstand | Nachteil |
 | :--- | :--- |

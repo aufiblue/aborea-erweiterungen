@@ -2,7 +2,7 @@
 
 ## Bewegung
 
-Schlachtfelder sind wortwörtlich in Feldern aufgebaut. Je nach Reittier oder anderem kann man sich und so weit in einer Runde bewegen.
+Schlachtfelder werden hier in Felder unterteilt. Je nach Reittier kann man sich in einer Runde so- und soweit bewegen.
 
 | Bezeichnung | Bewegung (Felder) pro Runde |
 | - | - |
@@ -24,18 +24,18 @@ Schlachtfelder sind wortwörtlich in Feldern aufgebaut. Je nach Reittier oder an
 
 ## Nahkampf
 
-Man hat mehrer Gruppen, die gegeneinander kämpfen.
-Die Gruppen würfeln in einer Runde je einmal mit einem W6. Wer die höhere Zahl würfelt, trifft und macht dementsprechenden Schaden.
+Man hat mehrere Gruppen, die gegeneinander kämpfen.
+Die Spieler und der Spielleiter, die die Truppen befehligen, würfeln in einer Runde je einmal mit einem W6. Wer die höhere Zahl würfelt, trifft und macht dementsprechenden Schaden.
 
 ## Fernkampf
 
-Wenn mehrere Fraktionen aufeinander schießen funktioniert es so, wie beim Nahkampf. Wenn allerdings eine Gruppe Schützen auf eine andere Gruppe schießen, ohne dass sie zurückschießt, funktioniert das System so: Beide Gruppen würfeln einmal mit einem W6. Wenn die Schützen die höhere Zahl würfeln, treffen sie und machen dementsprechenden Schaden. Wenn aber die andere Gruppe die höhere Zahl würfelt, verfehlen die Schützen.
+Wenn mehrere Fraktionen aufeinander schießen, funktioniert es so, wie im Nahkampf. Wenn allerdings eine Gruppe Schützen auf eine andere Gruppe schießt, ohne dass sie zurückschießt, funktioniert das so: Beide Gruppen-Kommandeure würfeln einmal mit einem W6. Wenn die Schützen die höhere Zahl würfeln, treffen sie und machen dementsprechend Schaden. Wenn aber die andere Gruppe die höhere Zahl würfelt, verfehlen die Schützen.
 
 ## Boni
 
 ### Höhere Position
 
-Fernkämpfer können einen Bonus erhalten, wenn sie ein höhere Position haben, als der Gegner.
+Fernkämpfer können einen Bonus erhalten, wenn sie während des Schießens auf einer höheren Position stehen, als der Gegner.
 
 | Meter höher | Bonus (Schaden) pro Person | Bonus (Rüstung) pro Person |
 | - | - | - |
@@ -46,11 +46,11 @@ Fernkämpfer können einen Bonus erhalten, wenn sie ein höhere Position haben, 
 
 ### Hinterhalt
 
-Für die ersten 5 Runden erhalten die Angreifer bei einem Hinterhalt einen Bonus von +1 auf jeden Würfelwurf.
+Für die ersten 5 Runden erhalten die Angreifer, wenn sie einen Hinterhalt erfolgreich ausführen, einen Bonus von +1 auf jeden Würfelwurf.
 
 ## Waffen - Gruppenstärke (Schaden)
 
-Wenn Schaden zB mit einem W10 ausgewürfelt wird und eine 8 gewürfelt wird, verliert die Gruppe, die den Schaden erhält, 8 Wesen.
+Wenn Schaden beispielsweise mit einem W10 ausgewürfelt wird und eine 8 gewürfelt wird, verliert die Gruppe, die den Schaden erhält, 8 Wesen.
 
 | Waffe | Gruppenstärke (Schaden) |
 | - | - |

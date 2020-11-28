@@ -1,10 +1,10 @@
 # Wut
 
-Wenn man wütend wird, kann das negative, aber auch positive Auswirkungen haben.
+Wenn man wütend wird, kann das positive und negative Auswirkungen haben.
 
 ## Wut zum Start
 
-Man startet mit einer Wut von 100, was zwar viel klingt, aber ganz und gar normal ist.
+Jeder Spielercharakter startet mit einer Wut von 100.
 
 ## Höchste und niedrigste Wut
 

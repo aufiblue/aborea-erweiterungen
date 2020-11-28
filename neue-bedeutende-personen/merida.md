@@ -2,21 +2,21 @@
 
 ## Titel
 
-Sie hat den Titel „die Taktische" oder wird auch „das Taktikgenie" genannt. Sie ist eine der wichtigsten Heerführerinnen Trions.
+Ihr wurde der Titel "die Taktische" oder auch "das Taktikgenie" verliehen. Sie ist eine der wichtigsten Heerführerinnen Trions.
 
 ## Wesen
 
-Es gab immer Ausnahmen und sie ist eine davon, denn sie ist eine Goblinin, die äußerst gut natürlich Goblinisch, aber auch sehr gut die Handelssprache und Trionisch spricht.
+Es gab immer schon Ausnahmen. Sie ist eine Goblinin und somit eine jener Ausnahmen. Sie spricht sehr gut Goblinisch, die Handelssprache und Trionisch.
 
 ## Die Schlachten
 
-Sie gewinnt Schlachten durch unterschiedlichste Taktiken. Sie gewinnt Schlachten nicht durch ihre Soldaten, sondern durch ihre Klugheit.
+Schlachten gewinnt sie durch die unterschiedlichsten Taktiken. Sie gewinnt Schlachten nicht durch ihre Krieger, sondern durch ihre Klugheit.
 
 ## Die Armee
 
-645 Krieger. Größer ist ihre Armee nicht. Ihre Armee hat außerdem kaum Kriegsgeräte.
+Ihre Armee besteht aus 645 Kriegern und vergleichsweise wenigen Kriegsgeräten.
 
 ## Reichtum
 
-Für eine so erfolgreiche Kriegsführerin hat sie äußerst wenig Geld. Sie könnte ihre vergleichsweise sehr kleine Armee höchstens noch ein paar Jahre unterhalten, danach hätte sie kein Geld mehr.
+Für eine sehr erfolgreiche Kriegsführerin, die sie nunmal ist, hat sie eher wenig Geld. Sie könnte ihre Armee unter gleichbleibenden Bedingungen höchstens noch ein paar Jahre unterhalten. Danach hätte sie kein Geld mehr und müsste die Armee auflösen.
 

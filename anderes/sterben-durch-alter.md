@@ -1,4 +1,4 @@
 # Sterben durchs Alter
 
-Der Spieler muss jedes Jahr über der durchschnittlichen Lebenserwartung des Charakters (seines Volks) einmal 1W10 würfeln. Er gibt davor eine Zahl an. Wenn er diese würfelt, stirbt der Charakter irgendwann durch irgendetwas in diesem Jahr.
+Der Spieler muss jedes Jahr über der durchschnittlichen Lebenserwartung des Charakters bzw. seines Volkes einmal mit einem W10 würfeln. Er gibt davor eine Zahl an. Wenn er diese würfelt, stirbt sein Charakter irgendwann und durch irgendwas in ebendiesem Jahr.
 

@@ -2,35 +2,35 @@
 
 ## Kurzbeschreibung
 
-Alchemisten werden zwar von vielen Menschen akzeptiert und gebraucht \(v.a. in den Städten\), aber auch verachtet und gejagt \(eher auf dem Land\). Es gibt nicht viele Alchemisten und, da sie häufig zum Affen gemacht werden, entwickeln einige von ihnen einen Hang zum „Böse sein”. Die meisten werden einfach nur sehr unfreundlich, manche werden allerdings sehr listig und möchten, v.a. denen, von denen sie gejagt werden und jenen, welche sie hänseln und zum Affen machen, nur noch Schaden. Meist teilen Alchemisten anderen gar nicht oder erst sehr spät mit, wer oder was sie sind, daher sie dadurch häufig schnell zum Tode kommen. Alchemisten werden als das geboren, was sie sind, und finden dies häufig erst späg heraus.
+Alchemisten werden zwar vor allem in den Städten eher akzeptiert, auf dem Land jedoch oft verachtet und gejagt. Es gibt nicht viele ihrer Art. Da sie häufig zum Affen gemacht werden, entwickeln einige von ihnen einen Hang zum „Böse sein”. Die meisten werden sehr unfreundlich, manche allerdings sehr listig und möchten jenen, von denen sie verachtet werden, nur noch Schaden. Meist teilen Alchemisten freiwillig Personen, denen sie sehr gut vertrauen mit, was sie wirklich sind. Alchemisten finden meist erst spät heraus, was sie sind.
 
 ## Magie
 
-Alchemisten können die Spruchlisten „Freie Magie”, „Wunder \(Leitmagie\)” und „Elementare Magie” erlernen. Alchemisten brauchen und verwenden zum ausführen der Magie einen Gegenstand wie zum Beispiel einen Armreif oder einen Dolch, den sie immer bei sich tragen. Sie beginnen das Spiel mit einem solchen Gegenstand.
+Alchemisten können die Spruchlisten „Freie Magie”, „Wunder \(Leitmagie\)” und „Elementare Magie” erlernen. Sie benötigen zum ausführen der Magie einen Gegenstand wie beispielsweise einen Armreif oder einen Dolch. Diesen Gegenstand tragen sie meist bei sich. Tun sie dies allerdings nicht, können sie ihn immer zu sich holen, indem sie an ihn denken. Er erscheint dann in einer Hand des jeweiligen Alchimisten. Das Spiel beginnen sie meist mit einem solchen Gegenstand.
 
 ## Magische Gegenstände
 
-Alchemisten verstehen alle magischen Gegenstände auf den ersten Blick. Sie wissen, was diese Gegenstände bewirken und wie sie funktionieren und können sie direkt verwenden.
+Alchemisten verstehen alle magischen Gegenstände auf den ersten Blick. Sie wissen, was diese bewirken und wie sie funktionieren und können sie sofort verwenden.
 
 ## Alchemie
 
-Alchemisten erhalten bei Proben, die mit Alchemie zu tun haben, einen Situationsbonus von +2, da sie von Geburt an Alchemisten sind und sich sehr mit Alchemie befassen und sich daher sehr gut mit Alchemie auskennen.
+Alchemisten erhalten bei Proben, die mit Alchemie zu tun haben, einen Situationsbonus von 2, da sie von Geburt an Alchemisten sind und sich häufig zumindest ein wenig mit Alchemie befassen und sich daher sehr gut damit auskennen.
 
 ## Listigkeit
 
-Alchemisten können sowieso sehr listig sein und, da sie häufig verfolgt und gejagt werden, können sie sich zudem sehr gut verstecken. Deshalb erhalten sie einen Situationsbonus von +1 auf List.
+Da Alchemisten häufig gehänselt und gejagt werden, können sie listig werden und sich sehr gut verstecken. Deshalb erhalten sie einen Situationsbonus von +1 auf List.
 
 ## Flucht
 
-Alchemisten befinden sich häufig auf der Flucht. Manchmal auch wortwörtlich, d.h. sie müssen vor anderen Lebewesen davonlaufen. Daher erhalten sie einen Situationsbonus von +1 auf Athletik.
+Alchemisten befinden sich häufig auf der Flucht. Daher erhalten sie einen Situationsbonus von 1 auf Athletik.
 
 ## Beruf
 
-Alchemisten können den Beruf niemals wechseln, da sie von Geburt an Alchemisten sind.
+Alchemisten können ihren Beruf niemals wechseln, da sie hineingeboren werden.
 
 ## Trefferpunkte
 
-Durch ihr häufig zähes und anstrengendes Leben erhalten sie 6 Trefferpunkte \(plus Konstitutionsbonus\) pro Stufe.
+Durch ihr häufig anstrengendes Leben erhalten sie 6 Trefferpunkte \(plus Konstitutionsbonus\) pro Stufe.
 
 ## Magiepunkte
 
@@ -54,7 +54,7 @@ Ein Alchemist erhält so viele Magiepunkte, wie er Ränge in Magie entwickeln ha
 | Wahrnehmung | 1 |
 | Wissen | 2 |
 
-## Kosten von Zechen und Humor
+## Kosten der Spezial-Fertigkeiten
 
 | Fertigkeit | Kosten |
 | :--- | :--- |

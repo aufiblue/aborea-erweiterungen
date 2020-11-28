@@ -2,7 +2,7 @@
 
 ## Das Handeln
 
-Das Vertrauen untereinander ist sehr wichtig. Hier kann man angeben, welches Vertrauen man in einen anderen SC oder einen NSC hat und dementsprechend handeln.
+Das Vertrauen untereinander ist sehr wichtig. Man kann angeben, welches Vertrauen man in einen anderen Spielercharakter oder einen Nicht-Spielercharakter hat und handelt dementsprechend.
 
 ## Tabelle
 
