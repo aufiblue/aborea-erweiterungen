@@ -4,7 +4,7 @@
 
 Bei diesem Turnier muss jeder, der am Turnier teilnimmt, 10 GF in einen Sack werfen und wer gewinnt, erhält alles.
 
-## Bereits angemeldet sind
+## Bereits angemeldet
 
 ### Der Grüne Gerold
 

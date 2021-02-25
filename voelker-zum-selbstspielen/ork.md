@@ -4,7 +4,6 @@
 
 | Kategorie | Wert |
 | - | - |
-| Volk | Ork |
 | ST | +2 |
 | GE | +0 |
 | KO | +0 |

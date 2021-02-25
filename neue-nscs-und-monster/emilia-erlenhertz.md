@@ -41,5 +41,5 @@
 | Gewicht | 52 Kilogramm |
 | Vermögen | 16 TT, 24 KL, 8 MU |
 
-Außerdem trägt sie ein Medaillon aus Silber bei sich, welches ein Erbstück ihres früh verstorbenen Vaters ist. Der Materialwert des Medaillons beträgt 4 GF.
+Außerdem trägt sie ein Medaillon aus Silber bei sich, welches ein Erbstück ihres früh verstorbenen Vaters ist. Der Materialwert des Medaillons beträgt 4 GF. (Genauere Beschreibungen kommen noch.)
 

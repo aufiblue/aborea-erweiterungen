@@ -1,10 +1,10 @@
 # Trionischer König
 
-## So funktionierts
-
-Bei diesem Spiel nimmt man ein Skatspiel und zieht so lange Karten, bis jemand den Herzkönig zieht, wer ihn hat, hat gewonnen. \(Jeder setzt 1 TT und wer gewinnt erhält alles.\)
-
 ## Spielerzahl
 
-Zwei bis Zweiunddreißig.
+Zwei bis Zweiunddreißig, wobei eine gerade Zahl besser funktioniert, als eine ungerade.
+
+## Spielregeln
+
+Bei diesem Spiel nimmt man ein Skatspiel und zieht so lange Karten, bis jemand den Herzkönig zieht. Wer ihn bekommt, gewinnt.
 

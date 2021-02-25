@@ -43,5 +43,5 @@
 | Gewicht | 67 Kilogramm |
 | Vermögen | 4 KL |
 
-Außerdem wird sie leicht aggressiv.
+Außerdem wird sie leicht aggressiv. (Genauere Beschreibungen kommen noch.)
 

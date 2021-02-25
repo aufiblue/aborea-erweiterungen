@@ -1,6 +1,6 @@
 # Bogenschützen Wettbewerb
 
-### Wer veranstaltet dies?
+### Welcher Veranstalter?
 
 Dies ist eine Veranstaltung von Sir Mereno von Leet.
 

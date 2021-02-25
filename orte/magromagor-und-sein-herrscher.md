@@ -2,11 +2,11 @@
 
 ## Titel
 
-Der Herrscher Magromagor’s ist ein Scheich.
+Der Herrscher Magromagors ist ein Scheich.
 
 ## Name
 
-Niemand weiß so genau, was sein echter Name ist. Manche denken, er würde „Ertrian" oder auch „Merin" heißen, aber er selbst redet nicht gern über seinen Namen.
+Niemand weiß genau, was sein echter Name ist. Manche denken, er hieße „Ertrian" oder auch „Merin". Selbst redet der Scheich nicht über seinen Namen.
 
 ## Wesen
 
@@ -14,7 +14,7 @@ Der Scheich ist ein Mensch.
 
 ## Reichtum
 
-Er soll ein Vermögen von etwa 1,5 Mio. Goldfalken sein Eigen nennen.
+Angeblich nennt er ein Vermögen von etwa 1,5 Mio. Goldfalken sein Eigen.
 
 ## Beliebtheit
 

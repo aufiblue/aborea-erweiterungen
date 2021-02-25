@@ -4,7 +4,6 @@
 
 | Kategorie | Wert |
 | - | - |
-| Volk | Goblin |
 | ST | -1 |
 | GE | +2 |
 | KO | +0 |

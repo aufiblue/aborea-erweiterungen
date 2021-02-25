@@ -2,6 +2,10 @@
 
 * [Willkommen bei den Aborea-Erweiterungen!](README.md)
 
+## Neueste Updates
+
+* [Updates](updates/updates.md)
+
 ## Ausrüstungs-Erweiterungen
 
 * [Gebrauchsgegenstände](ausruestungs-erweiterungen/erweiterte-gegenstandsliste.md)

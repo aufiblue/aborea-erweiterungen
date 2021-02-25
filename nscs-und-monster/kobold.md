@@ -1,8 +1,8 @@
 # Kobolde
 
-## Beschreibung
+## Kurzbeschreibung
 
-Kobolde leben in kleinen Gemeinschaften an meist abgeschiedenen Orten. Sie lieben zudem Schätze. Sie tragen meist keine Rüstung, sind aber trotzdem durch ihre Größe schwerer zu treffen.
+Kobolde leben in kleinen Gemeinschaften an meist abgeschiedenen Orten. Sie lieben jedoch Schätze. Auch tragen sie meist keine Rüstung, sind durch ihre Größe aber dennoch schwerer zu treffen.
 
 ## Werte
 
@@ -14,7 +14,7 @@ Kobolde leben in kleinen Gemeinschaften an meist abgeschiedenen Orten. Sie liebe
 | Schaden | nach Waffe |
 | KB | 2 |
 | Rüstung | 6 |
-| Reichtum | im Wert von 1 KL |
+| Schatz | C |
 | Sprache | Koboldinisch |
-| SG | ? |
+| SG | 1 |
 

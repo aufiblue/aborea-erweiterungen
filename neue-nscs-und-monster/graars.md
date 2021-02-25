@@ -2,7 +2,7 @@
 
 ## Beschreibung
 
-Graars sind quasi Zombies, nur in sehr viel stärker. Sie sehen dementsprechend auch so aus, denn sie haben sehr viele Muskeln an ihrem Körper.
+Graars sind quasi Zombies, jedoch um einiges stärker. Sie sehen im Grunde so aus wie das typische Zombieviech, sie sind aber viel muskulöser.
 
 ## Werte
 
@@ -13,7 +13,7 @@ Graars sind quasi Zombies, nur in sehr viel stärker. Sie sehen dementsprechend 
 | Waffe | Klauen |
 | Schaden | +2 |
 | KB | 3 |
-| Rüstung | 6 (sehr zäh) |
+| Rüstung | 6 (Zähigkeitsbonus) |
 | Reichtum | Schatz C |
 | Sprache | Zombiesprache |
 | Besonderes | Nachgiebig |

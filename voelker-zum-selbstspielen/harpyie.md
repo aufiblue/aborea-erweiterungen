@@ -4,32 +4,31 @@
 
 | Kategorie | Wert |
 | - | - |
-| Volk | Harpyie |
 | ST | +2 |
 | GE | -1 |
 | KO | -1 |
 | IN | +0 |
 | CH | +0 |
 | Berufe | Keine |
-| Sonstiges | sehr listig (+1 auf List), immer weiblich, Schutz gegen Zauber (+1 auf Zauberresistenz), schwer zu treffen (+1 auf Rüstung) |
+| Sonstiges | sehr listig (+2 auf List), immer weiblich, Schutz gegen Zauber (+1 auf Zauberresistenz) |
 
-## Warnung
+## Vorwarnung
 
-Harpyien sind als SC äußerst eingeschränkt und sicherlich nicht leicht zu spielen, hier aber trotzdem die Dinge, die eine Harpyie ausführen kann und wie sie sich entwickelt:
+Harpyien sind als Spielercharaktere äußerst eingeschränkt und sicherlich nicht leicht zu spielen.
 
 ## Attributspunkte
 
-35 \(normal wie bei allen Völkern aufteilen\)
+35 \(wie bei allen Völkern normal aufteilen\)
 
 ## Stufen aufsteigen
 
-Harpyien erhalten pro Stufe 8 AP, welche sie in Fertigkeiten investieren dürfen.
+Harpyien erhalten pro Stufe 8 AP, die sie in Fertigkeiten investieren dürfen.
 
 ## Waffentalente
 
-Als Waffentalent können sie nur das Talent „Krallen" erlernen. Schaden machen sie +1.
+Als Waffentalent können sie nur das Talent „Krallen" erlernen. Schaden machen sie automatisch +1.
 
-## Tabelle für die Fertigkeitskosten
+## Die Fertigkeitskosten
 
 | Fertigkeit | Kosten |
 | :--- | :--- |
@@ -56,7 +55,7 @@ Als Waffentalent können sie nur das Talent „Krallen" erlernen. Schaden machen
 
 ## Trefferpunkte
 
-Eine Harpyie ist durch das Leben in der freien Natur gut abgehärtet. Sie erhält 6 \(plus Konstitutionsbonus\) pro Stufe.
+Eine Harpyie ist durch das Leben in der freien Natur abgehärtet. Sie erhält 6 Trefferpunkte \(plus Konstitutionsbonus\) pro Stufe.
 
 ## Magiepunkte
 
@@ -68,23 +67,23 @@ Harpyien können die Spruchliste „Wilde Magie" und „[Harpyienmagie](../neue-
 
 ## Initiative
 
-Anfangs -3, steigt jede 2. Stufe um +1.
+Anfangs -3, steigt jede 2. Stufe aber um +1.
 
 ## Fliegend
 
-Eine Harpyie kann fliegen.
+Harpyien können fliegen.
 
-## Schrei
+## Betäubender Schrei
 
-Wenn eine Harpyie diese Aktion ausführt, kann sie einen Gegner eine Runde lang lähmen. In dieser Zeit ist er handlungsunfähig, aber Einflussnahme oder Intelligenz-Manöver gegen MS 12 können das verhindern.
+Wenn Harpyien diese Aktion ausführen, können sie einen Gegner eine Runde lang lähmen. In dieser Zeit ist er handlungsunfähig. Einflussnahme oder Intelligenz-Manöver gegen MS 12 können dies verhindern.
 
 ## Gewicht
 
-Bei einer Harpyie ist das Gewicht häufig ein Problem, da sie wegen den Flügeln z.B. keinen Rucksack tragen kann.
+Bei Harpyien ist das Gewicht eher ein Problem, da sie wegen ihrer Flügel z.B. keine Rucksäcke tragen können.
 
-## Gegenstände
+## Gegenstände und Kleidung
 
-Harpyien können Gegenstände zwar aufheben, aber sie können sie nicht als Waffen benutzen. Ihre einzigen Waffen sind ihre Krallen. Sie erhalten immer einen Malus, wenn sie normale Gegenstände verwenden wollen. Sie können zudem keine normale Kleidung tragen.
+Harpyien erhalten immer einen Malus, wenn sie normale Gegenstände verwenden wollen, da ihre Krallen nicht zum hantieren mit diesen gemacht sind. Sie können zudem keine normale Kleidung tragen, da ihre Flügel das kaum zulassen.
 
 ## Talentebaum
 
@@ -96,13 +95,13 @@ Stufe 3:
 
 Stufe 6:
 
-| Die Fiese | Die Geniehafte | Die körperlich Begabte | Die Magiebegabte |
+| Die Gemeine | Die Geniehafte | Die körperlich Begabte | Die Magiebegabte |
 | :--- | :--- | :--- | :--- |
 | List +2 | auf alle „Wissen"-Fertigkeiten +1 | Athletik +2 | Magie entwickeln +1 |
 
 Stufe 9:
 
-| Die Humorvolle | Die Humorlose |
+| Die Humorvolle | Die Listige |
 | :--- | :--- |
 | Humor +4 | List +2 |
 
