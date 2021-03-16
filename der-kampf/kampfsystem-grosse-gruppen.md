@@ -1,5 +1,7 @@
 # Kampfsystem für große Gruppen
 
+(Baldige Überarbeitung.)
+
 ## Nahkampf
 
 Dieses System funktioniert so:

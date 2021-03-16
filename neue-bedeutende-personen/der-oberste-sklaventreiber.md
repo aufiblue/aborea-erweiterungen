@@ -1,5 +1,7 @@
 # Der oberste Sklaventreiber
 
+(Baldige Überarbeitung.)
+
 ## Wesen
 
 Der oberste Sklaventreiber ist ein Mensch.

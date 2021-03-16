@@ -1,25 +1,29 @@
-# Kreaturenerschaffung
+# Kreaturenerschaffungs-Erweiterung
+
+Dieser Eintrag richtet sich nach den offiziellen [Kreaturenerschaffungsregeln von Aborea.de](https://www.aborea.de/download/regeln-zur-erschaffung-von-kreaturen/).
 
 Das Folgende sind Eigenschaften, die man bei der Erschaffung einer Kreatur vergeben kann.
 
 ## Brennend
 
-| Feuerschaden pro Runde bei Berührung | KP |
+Kreaturen mit der Fähigkeit „Brennend” brennen, verbrennen aber nicht. Wenn ein anderes Wesen eine solche Kreatur berührt, fängt es Feuer und bekommt Schaden.
+
+| Feuerschaden pro Runde | KP |
 | :--- | :--- |
 | +1 | 50 |
 | +2 | 100 |
 | +3 | 150 |
-| Pro 1 weiteres | Je +50 KP |
+| Je +1 | Je +50 KP |
 
 ## Explosion
 
-Diese Fähigkeit kann eine Kreatur nur erhalten, wenn sie explosives Gas und Feuer speien kann! Es bewirkt, dass die Kreatur, die zuerst das explosive Gas und dann das Feuer speit, eine Explosion auslöst, die allen Wesen in Reichweite einen Schaden von 12 TP hinzufügt. Zudem fangen alle Wesen in Reichweite an, zu brennen. Dieses Feuer verursacht dann pro Runde weitere 4 TP Schaden, bis es gelöscht ist.
+Kreaturen mit der Fähigkeit „Explosion” können explosives Gas und Feuer speien! Die Kombination dieser beiden Komponenten bewirkt, dass die Kreatur eine Explosion auslöst, die allen Wesen in einem Radius von 5 Metern einen Schaden von 12 TP zufügt. Zudem fangen alle Wesen in Reichweite an, zu brennen. Das Feuer verursacht pro Runde 4 TP Schaden, bis es gelöscht ist.
 
 KP +280
 
 ## Farbwechsler
 
-Die Kreatur kann sich seiner Umgebung anpassen und somit sehr sehr gut verstecken: Bonus auf Schleichen, Verstecken, Tarnen etc.
+Kreaturen mit der Fähigkeit „Farbwechsler” können sich in ihrer Umgebung anpassen, somit also sehr gut verstecken. Daher erhalten sie einen Bonus auf Schleichen, Verstecken, Tarnen etc.
 
 | Bonus | KP |
 | :--- | :--- |
@@ -33,39 +37,39 @@ Die Kreatur kann sich seiner Umgebung anpassen und somit sehr sehr gut verstecke
 | +8 | +250 |
 | +9 | +275 |
 | +10 | +300 |
-| +1 dazu | +25 dazu |
+| Je +1 | Je +25 |
 
-## Festhalten
+## Fixieren
 
-Die Kreatur kann mit ihrem normalen Kampfbonus diese Attacke ausführen. Gelingt sie, kann sich das Opfer für eine Runde nicht bewegen. Außerdem lässt sie ihre Waffe bei einem fehlschlagenden Wurf mit einem W10, erleichtert um den ST-Bonus, gegen MS 7 fallen.
+Kreaturen mit der Fähigkeit „Fixieren” können mit ihrem Kampfbonus diese Attacke ausführen. Gelingt sie, kann sich das Opfer eine Runde lang nicht bewegen. Zudem lässt es seine Waffe bei einem fehlschlagenden Wurf mit einem W10, erleichtert um den ST-Bonus, gegen MS 7 fallen.
 
 KP +100
 
 ## Flammenballschleuderer
 
-Die Kreatur kann alle 2 Runden anstatt einer normalen Attacke einen Flammenball auf einen seiner Gegner schleudern. Trifft dieser, verursacht er beim Ziel 6 TP Schaden. Das Feuer erlischt sofort wieder.
+Kreaturen mit der Fähigkeit „Flammenballschleuderer” können alle 2 Runden anstatt einer normalen Attacke einen Flammenball auf einen seiner Gegner schleudern. Trifft dieser, verursacht er beim Ziel 6 TP Schaden. Das Feuer erlischt sofort wieder.
 
 KP +120
 
 ## Hitze
 
-Von der Kreatur geht eine solche Hitze aus, dass jede Kreatur, die sich in der Nähe befindet, alle 2 Minuten einen Widerstandswurf gegen MS14, erleichtert um den KO-Bonus, würfeln muss. Misslingt dies, erhält man 6 TP Schaden. Zudem fangen alle leicht entzündlichen Gegenstände Feuer \(Pergamente, Kartenspiele etc.\).
+Von Kreaturen mit der Fähigkeit „Hitze” geht eine solche Hitze aus, dass jede Kreatur, die sich in der Nähe befindet, alle 2 Minuten einen Widerstandswurf gegen MS14, erleichtert um den KO-Bonus, würfeln muss. Misslingt dies, erhält sie 6 TP Schaden. Zudem fangen alle leicht entzündlichen Gegenstände in der Umgebung unverzüglich Feuer \(Pergamente, Kartenspiele etc.\).
 
 KP +220
 
 ## Huftritt
 
-Wenn die Kreatur einen Huftritt ausführt und trifft, tritt sie eine andere Kreatur je nach Größe und Stärke so oder soweit weg, welche dann eine Runde lang nicht agieren kann.
+Wenn Kreaturen die Fähigkeit „Huftritt” ausführen und treffen, treten sie eine andere Kreatur je nach Größe und Stärke einige Meter weit von sich weg, die dann eine Runde lang nicht agieren kann.
 
 KP +40
 
 ## Krallengriff \(Vögel\)
 
-Führt die Kreatur diese Aktion aus, krallt sie sich nach einem Angriff mit ihren Krallen in den Gegner, um in der nächsten Runde mit ihrem Schnabel anzugreifen. Das Opfer erhält, solange die Kreatur sich in es krallt, einen Malus auf seinen Angriff und einen auf seine Verteidigung. Sich von dem Griff zu lösen erfordert ein erfolgreiches Manöver, erleichtert um den Wert in Athletik und den ST- bzw. GE-Bonus. Schafft man es, erhält man Schaden. Es tut schließlich weh, sich von dem Griff zu lösen.
+Führen Kreaturen die Fähigkeit „Krallengriff” aus, krallen sie sich nach einem erfolgreichen Angriff mit ihren Krallen in den Gegner, um in der nächsten Runde mit ihrem Schnabel anzugreifen. Das Opfer erhält, solange eine Kreatur sich in es krallt, einen Malus auf Angriff und auf Verteidigung. Sich von dem Griff zu lösen erfordert ein erfolgreiches Athletik-Manöver, erleichtert um den ST- bzw. GE-Bonus. Schafft man es, erhält man aber Schaden, da es wehtut, sich von dem Griff zu lösen.
 
-Pro 1 Punkt Malus auf Angriff oder Verteidigung kostet es +25 KP
+Pro Punkt Malus auf Angriff oder Verteidigung kostet es +25 KP
 
-| MS beim Lösen | KP |
+| MS zum Lösen | KP |
 | :--- | :--- |
 | 8 | +20 |
 | 9 | +40 |
@@ -74,22 +78,22 @@ Pro 1 Punkt Malus auf Angriff oder Verteidigung kostet es +25 KP
 | 12 | +100 |
 | +1 | +20 |
 
-| Schaden \(beim Lösen\) | KP |
+| Schaden beim Lösen | KP |
 | :--- | :--- |
 | +1 | +10 |
 | +2 | +20 |
 | +3 | +30 |
-| +1 dazu | +10 dazu |
+| je +1 | je +10 |
 
-## Lichtaufsauger
+## Lichtschlucker
 
-Die Kreatur kann im Umkreis eines Meters alles Licht aufsaugen, sodass Andere in dem Umkreis nur noch ein schwarzes Loch sehen.
+Kreaturen mit der Fähigkeit „Lichtschlucker” können im Umkreis eines Meters alles Licht aufsaugen, sodass Andere in genanntem Umkreis schwarz sehen.
 
 KP +180
 
 ## Niedertrampeln
 
-Wenn die Kreatur den Angriff „Niedertrampeln" erfolgreich ausführt, trampelt es Einen nieder und macht höchstwahrscheinlich Extraschaden. Man selbst liegt dann.
+Kreaturen, die die Fähigkeit „Niedertrampeln" erfolgreich als Angriff ausführen, trampeln sie Einen nieder und machen höchstwahrscheinlich Extraschaden. Man selbst liegt dann am Boden.
 
 KP ohne Extra-Schaden +40
 
@@ -99,41 +103,41 @@ KP ohne Extra-Schaden +40
 | +2 | +20 |
 | +3 | +30 |
 | +4 | +40 |
-| +1 dazu | +10 dazu |
+| je +1 | je +10 |
 
 ## Resistenz
 
-Das Wesen ist gegen eine spezifische Sache komplett resistent und kann dadurch keinen Schaden erhalten.
+Kreaturen mit der Fähigkeit „Resistenz” sind gegen eine spezifische Sache oder Situation komplett resistent und können dadurch keinen Schaden erhalten.
 
 KP +180
 
 ## Rüstungsknacker
 
-Rüstung spielt für diese Kreatur keine Rolle. Sie ignoriert jegliche Art von Rüstung.
+Rüstungswerte spielen für Kreaturen mit der Fähigkeit „Rüstungsknacker” keine Rolle. Sie ignorieren jegliche Arten von Rüstungen und Schilden.
 
 KP +100
 
 ## Stromschlag
 
-Die Kreatur kann alle 5 Minuten einmal einen Stromschlag verteilen, der 8 TP Schaden austeilt, falls die gegnerische Kreatur einen Widerstandswurf gegen MS 10, erleichtert um den KO-Bonus, nicht schafft.
+Kreaturen mit der Fähigkeit „Stromschlag” können alle 5 Minuten einen Stromschlag austeilen, der 8 TP Schaden macht, falls Kreaturen in der Nähe ihre Widerstandswürfe gegen MS 10, erleichtert um ihren KO-Bonus, nicht schaffen.
 
 KP +60
 
 ## Sturzflug
 
-Die Kreatur kann die Attacke Sturzflug ausführen und, vorausgesetzt sie schafft den Angriff, macht sie doppelten Schaden.
+Kreaturen mit der Fähigkeit „Sturzflug” können einen Sturzflug als Attacke ausführen. Schaffen sie den Angriff, richten sie doppelten Schaden.
 
 KP +80
 
 ## Taucher
 
-Die Kreatur kann solange tauchen, wie sie möchte.
+Kreatur mit der Fähigkeit „Taucher” können solange tauchen, wie sie möchten.
 
 KP +80
 
 ## Teil-Fliegend
 
-Eine Kreatur kann eine bestimmte Anzahl von Runden einmal eine bestimmte Anzahl von Metern weit fliegen.
+Kreaturen mit der Fähigkeit „Teil-Fliegend” können eine bestimmte Anzahl von Runden einmal eine bestimmte Anzahl von Metern weit fliegen.
 
 KP am Ende immer durch 10 teilen!
 
@@ -208,7 +212,7 @@ Das geht immer so weiter.
 
 ## Umrennen
 
-Führt die Kratur diesen Angriff durch und hat damit Erfolg, trampelt sie Einen nieder und macht sehr wahrscheinlich Extraschaden. Man selbst liegt dann.
+Führen Kreaturen den Angriff „Umrennen” durch und haben damit Erfolg, trampeln sie Einen nieder und machen wahrscheinlich Extra-Schaden. Man selbst liegt dann am Boden.
 
 KP ohne Extra-Schaden +40
 
@@ -220,11 +224,11 @@ Extra-Schaden:
 | +2 | +20 |
 | +3 | +30 |
 | +4 | +40 |
-| +1 dazu | +10 dazu |
+| je +1 | je +10 |
 
 ## Widerständig
 
-Die Kreatur erhält auf alle Widerstandswürfe einen Bonus von +3.
+Kreaturen mit der Fähigkeit „Widerständig” erhalten auf alle Widerstandswürfe einen Bonus.
 
-KP +20
+Pro Punkt Bonus KP +20
 

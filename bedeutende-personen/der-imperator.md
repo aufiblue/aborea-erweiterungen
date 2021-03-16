@@ -6,11 +6,11 @@ Er ist der Anführer Xharas.
 
 ## Wesen
 
-Er ist ein Mensch.
+Der Anführer ist ein Mensch.
 
 ## Schlachten
 
-Er selbst hat noch kaum Schlachten miterlebt. Diese aber, bei denen er der Befehlshaber war, wurden bisher immer gewonnen.
+Er selbst erlebte noch kaum selbst Schlachten mit. Diese aber, bei denen er der Befehlshaber war, wurden bisher immer gewonnen.
 
 ## Armee
 

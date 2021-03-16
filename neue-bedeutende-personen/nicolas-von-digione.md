@@ -1,5 +1,7 @@
 # Nicolas von Digione
 
+(Baldige Überarbeitung.)
+
 ## Titel
 
 Nicolas von Digione hat den Titel "Sir". Er ist ein wichtiger Heerführer Trions.

@@ -1,57 +1,58 @@
 # Motivation
 
-Die Motivation kann ein wichtiger Faktor sein. Wird man zu viel geärgert  oder anderes, dann hat man schließlich irgendwann keine Lust mehr, irgendetwas zu tun und wird depressiv.
+Die Motivation kann ein wichtiger Faktor sein. Wird man zu viel geärgert  oder Anderes, dann hat man schließlich irgendwann keine Lust mehr, irgendetwas zu tun und wird im schlimsten Fall depressiv.
 
 ## Motivation zum Start
 
-Man startet mit einer Motivation von 100.
+Man startet mit einer Motivation von 50.
 
 ## Höchste und niedrigste Motivation
 
-Die höchste Motivation, die man haben kann, ist 200. Die Niedrigste ist 0.
+Die höchste Motivation, die man haben kann, ist 100. Die Niedrigste ist 0.
 
 ## Boni auf Motivation
 
 | Ereignis | Boni |
 | - | - |
-| Ausruhen | pro Stunde +1 |
-| Erzfeind besiegen | +50 |
-| Erzfeind gefangen nehmen | +60 |
-| Feind besiegen | +20 |
-| Feind gefangen nehmen | +25 |
-| Geschlechtsverkehr | +2W10 |
-| Jemanden retten | +10 |
-| jemand Vertrautes retten | +25 |
-| Monster (schwach) bezwingen | +2 |
-| Monster (mittel) bezwingen | +5 |
-| Monster (stark) bezwingen | +10 |
-| Monster (extrem stark) bezwingen | +30 |
-| Person zu etw. überreden | +1 |
-| Schlafen (angenehm) | pro Stunde +3 |
+| Ausruhen | pro Stunde +0,5 |
+| Erzfeind besiegen | +25 |
+| Erzfeind gefangen nehmen | +30 |
+| Feind besiegen | +10 |
+| Feind gefangen nehmen | +12,5 |
+| Geschlechtsverkehr | +W10 |
+| Jemanden vor etwas retten | +5 |
+| Jemanden Vertrautes retten | +12,5 |
+| Monster (schwach) bezwingen | +1 |
+| Monster (mittel) bezwingen | +2,5 |
+| Monster (stark) bezwingen | +5 |
+| Monster (extrem stark) bezwingen | +15 |
+| Person zu etw. überreden | +0,5 |
+| Schlafen (angenehm) | pro Stunde +1,5 |
 
 ## Mali auf Motivation
 
 | Ereignis | Mali |
 | - | - |
-| geärgert werden (mit einem Satz) | -1 |
-| gefangen genommen werden | -20 |
-| Geschlechtsverkehr | -2W10 |
-| KO gehen | -15 |
-| Schlafen (unangenehm) | Pro Stunde -1 |
-| zu wenig Schlaf | Pro Stunde -2 |
+| Geärgert werden (mit einem Satz) | -0,5 |
+| Gefangen genommen werden | -10 |
+| Geschlechtsverkehr | -W10 |
+| KO gehen | -7,5 |
+| Schlafen (unangenehm) | Pro Stunde -0,5 |
+| Zu wenig Schlaf | Pro Stunde -1 |
 
 ## Besonderheit Geschlechtsverkehr
 
-Man würfelt einmal mit einem W10. Wenn man 1-8 würfelt, bekommt man den Bonus. Bei einer 9 oder 10 bekommt man allerdings den Malus.
+Betroffene Spielercharaktere würfeln einmal mit einem W10. Wenn sie 1-8 würfeln, bekommen sie den Bonus. Bei einer 9 oder 10 gibt es allerdings den Malus.
 
-## Auswirkungen Motivationspunkte
+## Auswirkungen der Motivationspunkte
 
-| Punkte | Situation | Auswirkungen |
+| Punkte | Motivation | Auswirkungen |
 | - | - | - |
-| 0 | Depressiv | Malus von 4 auf Manöver |
-| 1-20 | Sehr unmotiviert | Malus von 2 auf Manöver |
-| 21-40 | Unmotiviert | Malus von 1 auf Manöver |
-| 41-159 | Normal | Keine Auswirkungen |
-| 160-179 | Motiviert, Bonus von 1 auf Manöver |
-| 180-199 | Sehr motiviert | Bonus von 2 auf Manöver |
-| 200 | Extrem motiviert | Bonus von 4 auf Manöver |
+| 0 | Depressiv | Malus von -4 auf Manöver |
+| 0,5-10 | Sehr unmotiviert | Malus von -2 auf Manöver |
+| 10,5-20 | Unmotiviert | Malus von -1 auf Manöver |
+| 20,5-79,5 | Normal | Keine Auswirkungen |
+| 80-89,5 | Motiviert, Bonus von 1 auf Manöver |
+| 90-99,5 | Sehr motiviert | Bonus von 2 auf Manöver |
+| 100 | Hochmotiviert | Bonus von 4 auf Manöver |
+

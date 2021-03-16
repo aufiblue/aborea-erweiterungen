@@ -1,6 +1,6 @@
 # Initiativeveränderung durch Rüstungen
 
-Die Rüstung kann nicht nur die Bewegungsrate verändern, sondern auch die Initiative.
+Die Rüstung verändert nicht nur die Bewegungsrate, sondern auch die Initiative.
 
 | Rüstungsart | Malus auf INI |
 | - | - |

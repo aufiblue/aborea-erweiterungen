@@ -1,10 +1,10 @@
 # Craftingqualität
 
-Die Qualität gebauter Gegenstände kann eine Große Rolle beim Preisverhältnis spielen. Ebenfalls kann sie Einfluss auf mit jeweiligen Gegenständen ausgeführte Manöver geben.
+Die Qualität gebauter Gegenstände kann eine große Rolle beim Preisverhältnis spielen. Ebenfalls kann sie Einfluss auf mit jeweiligen Gegenständen ausgeführte Manöver geben.
 
-Die Qualität von etwas Gecraftetem wird ausgerechnet, indem der jeweilige Spielercharakter seinen Rang in der jeweiligen Fertigkeit zu zwei W10-Würfelwürfen addiert.
+Die Qualität von etwas Gebautem wird ausgerechnet, indem der jeweilige Spielercharakter seinen Rang in der jeweiligen Fertigkeit zu zwei W10-Würfelwürfen addiert.
 
-Die Formel hierzu lautet also: Rang in Fertigkeit + 2W10.
+Die Formel lautet also: Rang in Fertigkeit + 2W10.
 
 ## Die Qualität
 
@@ -14,9 +14,9 @@ Die Formel hierzu lautet also: Rang in Fertigkeit + 2W10.
 | 3-6 | Schlecht | -1 auf Manöver aller Art |
 | 7-27 | Mittel | Keinerlei Auswirkungen |
 | 28-31 | Gut | +1 auf Manöver aller Art |
-| 32 | Äußerst Gut | +2 auf Manöver aller Art |
+| 32 | Äußerst gut | +2 auf Manöver aller Art |
 
-## Der Preis
+## Der Wert
 
 | Gesamtzahl | Qualität | Wert |
 | - | - | - |
@@ -25,6 +25,4 @@ Die Formel hierzu lautet also: Rang in Fertigkeit + 2W10.
 | 7-27 | Mittel | Marktwert |
 | 28-31 | Gut | 150% des Marktwertes |
 | 32 | Äußerst gut | 200% des Marktwertes |
-
-Beispielhafte Preise zu Gegenständen findet ihr [hier](../ausruestungs-erweiterungen/erweiterte-gegenstandsliste.md).
 

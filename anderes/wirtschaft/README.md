@@ -1,5 +1,6 @@
 # Wirtschaft
 
-Im folgenden ist ein optionales Wirtschaftssystem für Aborea aufgeführt.
+Im Folgenden ist ein optionales Wirtschaftssystem für Aborea aufgeführt.
 
-* [Wirtschaftssystem](wirtschaft.md)
+* [Beispielhaftes kurzes Wirtschaftssystem](wirtschaft.md)
+

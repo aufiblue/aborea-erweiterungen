@@ -1,5 +1,7 @@
 # Retruus
 
+(Baldige Überarbeitung.)
+
 ## Titel
 
 Retruus hat den Titel "rechte Hand Izmas dem ll.", wodurch er sehr mächtig ist. Er ist einer der  wichtigsten Heerführer Trions.

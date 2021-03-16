@@ -4,41 +4,40 @@ Wenn man wütend wird, kann das positive und negative Auswirkungen haben.
 
 ## Wut zum Start
 
-Jeder Spielercharakter startet mit einer Wut von 100.
+Jeder Spielercharakter startet mit einer Wut von 50.
 
 ## Höchste und niedrigste Wut
 
-Die höchste Wut, die man haben kann, ist 200. Die Niedrigste ist 0.
+Die höchste Wut, die ein Spielercharakter haben kann, ist 100. Die Niedrigste ist 0.
 
 ## Boni auf Wut
 
 | Ereignis | Bonus |
 | - | - |
-| Geärgert werden | +6 |
-| Gefangen genommen werden | +20 |
-| Geschlechtsverkehr | +1W10 |
-| KO gehen | +10 |
-| Zu wenig Schlaf | Pro Stunde zu wenig +2 |
+| Geärgert werden | +3 |
+| Gefangen genommen werden | +10 |
+| Geschlechtsverkehr | +W5 (W10:2) |
+| Zu wenig Schlaf | Pro Stunde +1 |
 
 ## Mali auf Wut
 
 | Ereignis | Malus |
 | - | - |
-| Beruhigt werden | -5 |
-| Geschlechtsverkehr | -1W10 |
-| Jemanden zu etw. überreden | -2 |
-| Schlaf | Pro Stunde -2 |
+| Beruhigt werden | -2,5 |
+| Geschlechtsverkehr | -W5 (W10:2) |
+| Jemanden zu etw. überreden | -1 |
+| Schlaf | Pro Stunde -1 |
 
 ## Besonderheit Geschlechtsverkehr
 
-Man würfelt einmal mit einem W10. Wenn man 1-8 würfelt, erhält man den Malus, wenn man allerdings 9 oder 10 würfelt, erhält man den Bonus.
+Betroffene Spielercharaktere würfeln einmal mit einem W10. Wenn sie 1-8 würfeln, bekommen sie den Bonus. Bei einer 9 oder 10 gibt es allerdings den Malus.
 
 ## Auswirkungen der Wutpunkte
 
 | Punkte-Anzahl | Auswirkungen |
 | - | - |
-| 0-159 | Keine Auswirkungen |
-| 160-179 | Malus von 1 auf IN, Bonus von 1 auf ST |
-| 180-199 | Malus von 2 auf IN, Bonus von 2 auf ST |
-| 200 | Malus von 2 auf alle Manöver und Malus von 2 auf IN, Bonus von 3 auf ST |
+| 0-79,5 | Keine Auswirkungen |
+| 80-89,5 | Malus von 1 auf IN, Bonus von 1 auf ST |
+| 90-99,5 | Malus von 2 auf IN, Bonus von 2 auf ST |
+| 100 | Wutanfall: Malus von 2 auf alle Manöver, Malus von 2 auf IN, Bonus von 3 auf ST |
 

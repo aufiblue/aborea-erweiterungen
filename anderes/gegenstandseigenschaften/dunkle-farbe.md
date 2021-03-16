@@ -1,6 +1,6 @@
 # Dunkel Gefärbtes - Vorteil
 
-Dunkel gefärbte Gegenstände können unter gegebenen Umständen einen Vorteil auf Tarnen etc. gewähren (immer abgerundet!).
+Dunkel gefärbte Gegenstände können unter gegebenen Umständen einen Vorteil auf Verstecken, Schleichen etc. geben (immer abgerundet).
 
 | gefärbter Gegenstand | Vorteil |
 | :--- | :--- |

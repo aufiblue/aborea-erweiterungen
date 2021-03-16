@@ -1,10 +1,10 @@
 # Erschöpfung
 
-Erschöpfung kann Jemanden in seinem Handeln sehr beeinträchtigen.
+Erschöpfung kann jemanden in seinem Handeln sehr beeinträchtigen.
 
 ## Erschöpfungspunkte
 
-Jeder Charakter erhält 10 + 3x seinem KO-Bonus an Erschöpfungspunkten.
+Jeder Spielercharakter hat 10 + 3x seinem KO-Bonus Erschöpfungspunkte.
 
 ### Erschöpfungspunkte verlieren
 
@@ -23,16 +23,15 @@ Jeder Charakter erhält 10 + 3x seinem KO-Bonus an Erschöpfungspunkten.
 
 | Kampfart | Erschöpfungspunkteverlust |
 | - | - |
-| Nahkampf | 1 pro 6 Runden |
-| Fernkampf | 1 pro 12 Runden |
+| Kampf zu Fuß | 1 pro 6 Runden |
 | berittener Kampf | +0,5 mehr pro Abrechnung |
 
 #### Zauberei
 
 | Zauberart | Erschöpfungspunkteverlust |
 | - | - |
-| normale Zauber | 1 pro 4 Zauber |
-| gezielte Zauber | 1 pro 3 Zauber |
+| Normale Zauber | 1 pro 4 Zauber |
+| Gezielte Zauber | 1 pro 3 Zauber |
 
 ### Erschöpfungspunkte zurückerhalten
 
@@ -40,17 +39,18 @@ Jeder Charakter erhält 10 + 3x seinem KO-Bonus an Erschöpfungspunkten.
 | - | - |
 | Ausruhen (einfache Tätigkeiten) | 1 pro 40 Minuten |
 | Essen | 1 pro 500g (30 Minuten später) |
-| KO sein | 1 pro 30 Minuten |
-| Schlafen | 1 pro 20 Minuten |
+| KO sein | 1 pro 50 Minuten |
+| Schlafen (angenehm) | 1 pro 20 Minuten |
+| Schlafen (normal) | 1 pro 30 Minuten |
 | Schlafen (unangenehm) | 1 pro 40 Minuten |
 
 ### Beeinträchtigungen bei wenigen Erschöpfungspunkten
 
-| verbrauchte % der Erschöpfungspunkte | Malus auf kraftbenötigende Manöver |
+| Verbrauchte %-Anzahl der Erschöpfungspunkte | Malus auf kraftbenötigende Manöver |
 | - | - |
 | 0% - 50% | Kein Malus |
 | 51% - 85% | -1 |
 | 86% - 95% | -2 |
 | 96% - 99% | -3 |
-| 100% | -5 |
+| 100% | Automatisches Einschlafen durch Müdigkeit |
 

@@ -1,5 +1,7 @@
 # Merida
 
+(Baldige Überarbeitung.)
+
 ## Titel
 
 Ihr wurde der Titel "die Taktische" oder auch "das Taktikgenie" verliehen. Sie ist eine der wichtigsten Heerführerinnen Trions.

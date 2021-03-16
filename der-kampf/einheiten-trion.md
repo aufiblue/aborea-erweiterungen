@@ -2,7 +2,7 @@
 
 ## kleiner Überblick - Armeen Trions
 
-Die Armeen Trions sind zwar sehr vielfältig, bestehen aber trotzdem zu einem großen Teil aus Menschen. Sie werden meist nur gegen Xhara angewendet, aber nötigenfalls auch gegen das Suderland oder Elbia. Die Armeen sind meist so aufgebaut, dass es ein paar Befehlshaber gibt und die Armee somit besser auf feindliche Aktionen reagieren und gegen die Feinde agieren kann. Trions Truppen kämpfen meist in bestimmten Formationen.
+Die Armeen Trions sind zwar sehr vielfältig, bestehen aber dennoch zu einem besonders großen Teil aus Menschen. Sie werden meist nur gegen Xhara, notfalls aber auch gegen das Suderland, Elbia oder wer sich sonst noch gegen Trion stellt, angewendet. Die Armeen sind meist so aufgebaut, dass es einige Unterschiedliche Befehlshaber gibt und die Armee somit besser auf feindliche Aktionen reagieren und gegen die Feinde agieren kann. Trions Truppen kämpfen, wenn möglich, in bestimmten Formationen.
 
 ## Trionarii \[Menschen\]
 
@@ -11,15 +11,13 @@ Die Armeen Trions sind zwar sehr vielfältig, bestehen aber trotzdem zu einem gr
 | TP | 28 |
 | INI | +0 |
 | Waffe | Bastardschwert |
-| Schaden | nach Waffe |
+| Schaden | Nach Waffe |
 | KB | 5 |
-| Rüstung | 8 \(Halbe Platte+Schild\) |
+| Rüstung | 8 \(Halbe Platte + Schild\) |
 | Schatz | B |
 | SG | 3 |
 
-Beschreibung zu Trionarii
-
-Trionarii sind einfache Soldaten.
+Trionarii sind einfache Soldaten, wie sie überall zu finden sind.
 
 ## Trioniborii \[Menschen\]
 
@@ -28,13 +26,11 @@ Trionarii sind einfache Soldaten.
 | TP | 28 |
 | INI | +1 |
 | Waffe | Kurzbogen |
-| Schaden | nach Waffe |
+| Schaden | Nach Waffe |
 | KB | 4 |
 | Rüstung | 6 \(Lederrüstung\) |
 | Schatz | A |
 | SG | 2 |
-
-Beschreibung zu Trioniborii
 
 Trioniborii sind einfache Bogenschützen.
 
@@ -45,15 +41,13 @@ Trioniborii sind einfache Bogenschützen.
 | TP | 23 |
 | INI | +3 |
 | Waffe | Kurzschwert |
-| Schaden | nach Waffe |
+| Schaden | Nach Waffe |
 | KB | 4 |
 | Rüstung | 5 |
 | Schatz | B |
 | SG | 2 |
 
-Beschreibung zu Trionikurii
-
-Trionikurii sind zwar nicht wirklich sehr gut ausgestattet, dafür sind sie aber sehr leichtfüßig und schnell.
+Trionikurii sind zwar nicht wirklich sehr gut ausgestattet, dafür aber sehr leichtfüßig und schnell.
 
 ## Trionimarii \[Menschen\]
 
@@ -62,13 +56,11 @@ Trionikurii sind zwar nicht wirklich sehr gut ausgestattet, dafür sind sie aber
 | TP | 38 |
 | INI | +2 |
 | Waffe | Armbrust |
-| Schaden | nach Waffe |
+| Schaden | Nach Waffe |
 | KB | 7 |
 | Rüstung | 6 \(Lederrüstung\) |
 | Schatz | C |
 | SG | 4 |
-
-Beschreibung zu Trionimarii
 
 Armbrustschützen.
 
@@ -79,13 +71,11 @@ Armbrustschützen.
 | TP | 38 |
 | INI | +1 |
 | Waffe | Langbogen |
-| Schaden | nach Waffe |
+| Schaden | Nach Waffe |
 | KB | 6 |
 | Rüstung | 8 \(Halbe Platte\) |
 | Schatz | B |
 | SG | 4 |
-
-Beschreibung zu Trionolarii
 
 Langbogenschützen.
 
@@ -96,13 +86,11 @@ Langbogenschützen.
 | TP | 88 |
 | INI | +0 |
 | Waffe | Langschwert |
-| Schaden | nach Waffe |
+| Schaden | Nach Waffe |
 | KB | 10 |
 | Rüstung | 11 \(Ritterrüstung+Schild\) |
 | Schatz | E |
 | SG | 8 |
-
-Beschreibung zu Trionitirii
 
 Ritter.
 
@@ -113,14 +101,12 @@ Ritter.
 | TP | 88 |
 | INI | +0 |
 | Waffe | Langschwert + Lanze |
-| Schaden | nach Waffe |
+| Schaden | Nach Waffe |
 | KB | 10/8 |
 | Rüstung | 11 \(Ritterrüstung+Schild\) |
 | Schatz | E |
 | Besonderes | Reiten 4, Schlachtross |
 | SG | 10 |
-
-Beschreibung zu Trionirittirii
 
 Berittene Ritter.
 
@@ -130,16 +116,14 @@ Berittene Ritter.
 | :--- | :--- |
 | TP | 32 |
 | INI | -1 |
-| Waffe | Speer+Kurzschwert |
-| Schaden | nach Waffe |
+| Waffe | Speer + Kurzschwert |
+| Schaden | Nach Waffe |
 | KB | 4/4 |
 | Rüstung | 6 \(Schild\) |
 | Schatz | A |
 | SG | 4 |
 
-Beschreibung zu Trionilaria
-
-Speerkrieger, welche nötigenfalls auch mit dem Schwert kämpfen.
+Speerkrieger, die bei zu froßer Bedrängung zum Schwert greifen.
 
 ## Trioniturii \[Menschen\]
 
@@ -148,15 +132,13 @@ Speerkrieger, welche nötigenfalls auch mit dem Schwert kämpfen.
 | TP | 45 |
 | INI | +0 |
 | Waffe | Wurfspeer \(römisch\)+Langschwert |
-| Schaden | nach Waffe |
+| Schaden | Nach Waffe |
 | KB | 6/8 |
 | Rüstung | 8 \(Lederrüstung+Turmschild\) |
 | Schatz | D |
 | SG | 7 |
 
-Beschreibung zu Trioniturii
-
-Nahkämpfer, welche vor dem aufeinandertreffen mit dem Feind ihre Wurfspeere werfen.
+Nahkämpfer, die vor dem aufeinandertreffen mit dem Feind ihre Wurfspeere schleudern.
 
 ## Izmawa \[Menschen\]
 
@@ -165,16 +147,14 @@ Nahkämpfer, welche vor dem aufeinandertreffen mit dem Feind ihre Wurfspeere wer
 | TP | 90 |
 | INI | +0 |
 | Waffe | Langschwert+Lanze |
-| Schaden | nach Waffe |
+| Schaden | Nach Waffe |
 | KB | 10/10 |
 | Rüstung | 12 \(Ritterrüstung+Turmschild\) |
 | Schatz | E |
 | Besonderes | Reiten 10, Schlachtross |
 | SG | 10 |
 
-Beschreibung zu Izmawa
-
-Sie sind berittene Wachen Izma‘s dem ll.
+Berittene Wachen Izmas dem ll.
 
 ## Izmawa ll \[Menschen\]
 
@@ -183,16 +163,14 @@ Sie sind berittene Wachen Izma‘s dem ll.
 | TP | 90 |
 | INI | -1 |
 | Waffe | Kompositbogen |
-| Schaden | nach Waffe |
+| Schaden | Nach Waffe |
 | KB | 10 |
 | Rüstung | 10 \(Ritterrüstung\) |
 | Schatz | E |
 | Besonderes | Reiten 12, Schlachtross |
 | SG | 8 |
 
-Beschreibung zu Izmawa ll
-
-Sie sind berittene Wachen Izma‘s dem ll.
+Berittene Wachen Izmas dem ll.
 
 ## Trionz \[Zwerge\]
 
@@ -201,13 +179,11 @@ Sie sind berittene Wachen Izma‘s dem ll.
 | TP | 32 |
 | INI | +0 |
 | Waffe | Einhand-Axt |
-| Schaden | nach Waffe |
+| Schaden | Nach Waffe |
 | KB | 5 |
 | Rüstung | 8 \(Halbe Platte+Schild\) + 1 \(Größenbonus\) |
 | Schatz | C |
 | SG | 3 |
-
-Beschreibung zu Trionz
 
 Nahkämpfer.
 
@@ -218,13 +194,11 @@ Nahkämpfer.
 | TP | 40 |
 | INI | +0 |
 | Waffe | Kriegshammer |
-| Schaden | nach Waffe |
+| Schaden | Nach Waffe |
 | KB | 4 |
 | Rüstung | 8 \(Halbe Platte\) |
 | Schatz | D |
 | SG | 3 |
-
-Beschreibung zu Trionzirii
 
 Nahkämpfer.
 
@@ -235,15 +209,13 @@ Nahkämpfer.
 | TP | 20 |
 | INI | +2 |
 | Waffe | Florett |
-| Schaden | nach Waffe |
+| Schaden | Nach Waffe |
 | KB | 6 |
 | Rüstung | 6 \(Lederrüstung\) + 1 \(Größenbonus\) |
 | Schatz | A |
 | SG | 3 |
 
-Beschreibung zu Trionoserii
-
-Klein und schnell. Gut für Hinterhalte.
+Klein und schnell. Gut für Hinterhalte geeignet.
 
 ## Triongionii \[Gnome\]
 
@@ -252,13 +224,11 @@ Klein und schnell. Gut für Hinterhalte.
 | TP | 20 |
 | INI | +1 |
 | Waffe | Schleuder |
-| Schaden | nach Waffe |
+| Schaden | Nach Waffe |
 | KB | 5 |
 | Rüstung | 5 + 1 \(Größenbonus\) |
 | Schatz | C |
 | SG | 2 |
 
-Beschreibung zu Triongionii
-
-Klein und sehr schnell. Perfekt für Hinterhalte.
+Klein und sehr schnell. Perfekt für Hinterhalte geeignet.
 

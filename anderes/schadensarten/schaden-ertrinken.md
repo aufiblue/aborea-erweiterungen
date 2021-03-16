@@ -1,8 +1,8 @@
 # Schaden beim Ertrinken
 
-Alle paar Sekunden erhält man beim Ertrinken Schaden.
+Alle paar Sekunden bekommt man beim Ertrinken Schaden.
 
-| Zeit | Schaden in TP |
+| Zeit | Schaden |
 | - | - |
-| Alle 6 Sekunden/pro Runde | 3 |
+| Alle 6 Sekunden/pro Runde | 20% der Gesamt-TP |
 

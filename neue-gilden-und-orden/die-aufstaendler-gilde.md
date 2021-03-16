@@ -1,5 +1,7 @@
 # Die Aufständler-Gilde
 
+(Baldige Überarbeitung.)
+
 ## Ausbruch einer Seuche...
 
 Die „Aufständler-Seuche” -so sagt man- entstand, als ein Lehrling eines Schmiedes mit Namen Feudalius Fieselfink ganz ohne Erlaubnis aus Gier einen Armreif schmiedete, welcher so rot wie Feuer sein soll. Als er ihn sich anlegte, soll sich Feudalius kurz in einen feuerroten Dämon verwandelt haben. Er stieß einen dämonischen Schfei aus! Daraufhin soll er, wieder in seiner Menschengestalt, mit einer Fackel aus der Schmiede herausgerannt gekommen sein und eben Genannte direkt angezündet haben, worauf sie abbrannte. Auch ist er auf zwei, an der Schmiede vorbeigehende, Elfen zugesprungen sein, biss einen und setzte ihn daraufhin unter Feuer. Dieser Elf verwandelre sich daraufhin kurzzeitig in einen feuerroten Dämon, nahm jedoch direkt wieder seine alte Gestalt an. Ein feuriges Glänzen in seinen Augen blieb allerdings und auch er verfiel somit der Seuche, die einen zum wahren Feuerteufel werden lässt.

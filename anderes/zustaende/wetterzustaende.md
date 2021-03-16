@@ -4,9 +4,9 @@ Wetterzustände können Spoelercharakteren Mali einbringen.
 
 | Zustand | Auswirkungen |
 | :--- | :--- |
-| Blitz & Donner | Wurf auf Angst MS 8, wenn fehlschlägt, dann möchte Spieler möglichst schnell irgendwo rein, zudem 10W10 würfeln: Bei insg. einer 100 wird ein Spieler vom Blitz getroffen, was den Spieler bei einem Extra Wurf und einer 1-9 umbringt \(Spieler kann nicht gerettet werden\). Bei einer 10 verursacht der Blitz dem Spieler so viel Schaden, dass er exakt noch 0 Trefferpunkte hat und ohnmächtig wird |
-| Starker Hagel | Ohne Kleidung \(auch Handschuhe etc. pro alle 5 Minuten im Hagel 1W10 :4 Schaden \(mind. 1, abgerundet\) und zudem -1 auf athletische Manöver wie Klettern, Reiten, Schwimmen etc. |
+| Blitz & Donner | Wurf auf Angst MS 8: Bei Fehlschlag, dann möchte Spieler möglichst schnell irgendwo rein; zudem 10W10 würfeln: Bei 100 wird ein Spielercharakter vom Blitz getroffen, was ihn bei einem Extra-W10-Wurf und einer 1-9 umbringt. Bei 10 verursacht der Blitz dem Spieler so viel Schaden, dass er ohnmächtig wird, aber überlebt |
+| Starker Hagel | Wenig oder keine Kleidung: Alle 5 Minuten im Hagel W10:3 Schaden \(mind. 1, aufgerundet\); zudem -2 auf athletische Manöver |
 | Starker Nebel | -3 auf Wahrnehmung |
-| Starker Regen | -2 auf athletische Manöver wie Klettern etc. |
+| Starker Regen | -2 auf athletische Manöver |
 | Starker Schneefall | -3 auf Wahrnehmung |
 

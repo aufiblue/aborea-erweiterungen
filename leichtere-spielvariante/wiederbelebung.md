@@ -1,5 +1,7 @@
 # Wiederbelebung
 
+(Baldige Überarbeitung.)
+
 ## Sachen behalten
 
 Falls man sterben sollte, darf man, wenn die Gruppe einen nicht wiederbeleben kann, mit bestimmten Würfelwürfen einen kleinen Teil seiner Gegenstände behalten! Hier ein paar Tabellen:

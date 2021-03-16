@@ -1,6 +1,8 @@
 # Die Wirtschaft
 
-Die Wirtschaft einer Fraktion wird hier in Punkten beschrieben. Es hängt von ganz unterschiedlichen Faktoren ab, was die jeweilige Fraktion einnehmen und ausgeben kann. Beispielsweise, wie groß das Reich ist und wie viel Grünfläche es hat, ob das Reich viele Sklaven verwaltet oder wie gut die Führung eines Reiches zu ihrer Bevölkerung ist und wie viel sie dementsprechend auch für sie ausgibt.
+(Baldige Überarbeitung dieses Eintrags)
+
+Die Wirtschaft einer Fraktion wird hier in Punkten beschrieben. Es hängt von ganz unterschiedlichen Faktoren ab, was die jeweilige Fraktion einnehmen und ausgeben kann. Beispielsweise, wie groß das Reich ist und wie viel Grünfläche es hat, ob es viele Sklaven verwaltet und wie gut die Führung des Reiches zu ihrer Bevölkerung ist und wieviel sie dementsprechend für sie ausgibt, spielen eine große Rolle.
 
 ## Beispiele
 

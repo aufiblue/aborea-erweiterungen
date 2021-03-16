@@ -1,5 +1,7 @@
 # Kampfsystem für große Gruppen 2
 
+(Baldige Überarbeitung.)
+
 ## Bewegung
 
 Schlachtfelder werden hier in Felder unterteilt. Je nach Reittier kann man sich in einer Runde so- und soweit bewegen.

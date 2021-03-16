@@ -1,6 +1,6 @@
 # Strafen
 
-In der Welt gibt es Gesetze und somit auch Strafen. Hier sind einige aufgeführt.
+Hier sind mögliche Strafen gegen Gesetzesbrechungen aufgeführt.
 
 ## Die Strafen
 

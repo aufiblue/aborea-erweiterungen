@@ -1,6 +1,6 @@
 # Seltenheiten
 
-Hier eine Tabelle für gewisse Seltenheitswerte. Sie ist dafür da, damit man in etwa einschätzen kann, wie selten ein bestimmtes Etwas in der Welt von Aborea ist.
+Folgende Tabelle mit Seltenheitswerten ist dafür da, dass man etwa einschätzen kann, wie selten Objekte in der Welt von Aborea sind.
 
 | Seltenheitsgrad | Beschrieben mit |
 | :--- | :--- |
