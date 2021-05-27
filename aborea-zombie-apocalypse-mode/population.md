@@ -1,10 +1,10 @@
 # Paleas Population
 
-Die Population Paleas hat sich in diesen Zeiten sehr verändert.
+Die Population Paleas ist in diesen Zeiten deutlich geschrumpft.
 
-Die Häufigkeiten der verschiedensten Wesen sind in % angegeben. Das heißt, circa soviel Prozent gibt es heutzutage noch mehr oder weniger als früher von der jeweiligen Spezies.
+Die Häufigkeiten der verschiedensten Wesen sind in % angegeben. Das bedeutet, etwa soviel Prozent der jeweiligen Spezies existieren heutzutage.
 
-Welche Spezies schneller rennen kann oder stärker ist, hat Vorteile gegenüber anderer. Es hängt von unterschiedlichsten Faktoren ab, wieviele Wesen von welcher Spezies noch leben. Das sieht man auch an den Prozentangaben.
+Welche Spezies schneller rennen kann oder stärker ist, hat Vorteile gegenüber anderen. Es hängt von unterschiedlichsten Faktoren ab, wieviele Wesen von welcher Spezies noch leben. Dies spiegelt sich in den Prozentangaben wieder.
 
 | Spezies | % |
 | - | - |
